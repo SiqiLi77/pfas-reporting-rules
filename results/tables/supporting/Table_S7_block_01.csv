@@ -1,0 +1,5 @@
+Weighting and outcome,Observed,Reference mean,Reference 2.5–97.5% range
+Event equal; none retained,0.543185,0.501407,"0.493154, 0.509680"
+Event equal; multiple retained,0.271984,0.257344,"0.250813, 0.264024"
+Jurisdiction/PWS equal; none retained,0.570365,0.552458,"0.532461, 0.573632"
+Jurisdiction/PWS equal; multiple retained,0.237374,0.223928,"0.207676, 0.241896"

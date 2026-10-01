@@ -1,0 +1,167 @@
+{
+  "status": "PASS",
+  "release": "v1.0.0",
+  "paper_version": "V1.59",
+  "frozen_numeric_replay": {
+    "scope": "Frozen point-result replay, not retraining, calibration, or new confirmatory evaluation",
+    "observational": {
+      "matched_events": 7677,
+      "native_multiple": 829,
+      "shared_cutoff_multiple": 10,
+      "panel_standardized_rates": {
+        "six_old": {
+          "GW": 0.0015902998736266787,
+          "SW": 0.0013384235287402112
+        },
+        "six_native": {
+          "GW": 0.07747630410084166,
+          "SW": 0.06775967194496567
+        },
+        "twentyfive_native": {
+          "GW": 0.10589332349585517,
+          "SW": 0.1425811107708458
+        }
+      },
+      "panel_contrast_change_percentage_points": 4.640441943086661
+    },
+    "joint": {
+      "locations": 21156,
+      "threshold_queries": 16,
+      "maximum_score_error": 3.552713678800501e-15,
+      "shared_shock_relative_pattern_reduction_percent": 14.742760775643413,
+      "count_share_of_pattern_gain_percent": 97.19776004979649,
+      "scores": {
+        "factorized": {
+          "jurisdiction_pws_equal": {
+            "pattern_nll": 0.23995105732796912,
+            "count_nll": 0.18535384941301153,
+            "identity_given_count_nll": 0.05459720791495758,
+            "count_crps": 0.050604426924679785,
+            "count_brier": 0.0672357597686038,
+            "k2_brier": 0.011401388482412482
+          },
+          "record_equal": {
+            "pattern_nll": 0.320425069652871,
+            "count_nll": 0.249479708919761,
+            "identity_given_count_nll": 0.07094536073311006,
+            "count_crps": 0.06836003276109245,
+            "count_brier": 0.0846237957622287,
+            "k2_brier": 0.01574537093012743
+          }
+        },
+        "conditional_shared_shock": {
+          "jurisdiction_pws_equal": {
+            "pattern_nll": 0.20457564696747965,
+            "count_nll": 0.15096974293419213,
+            "identity_given_count_nll": 0.053605904033287494,
+            "count_crps": 0.047199352776387246,
+            "count_brier": 0.05961343896943788,
+            "k2_brier": 0.011489546929446067
+          },
+          "record_equal": {
+            "pattern_nll": 0.26605408412824877,
+            "count_nll": 0.1949752384332971,
+            "identity_given_count_nll": 0.07107884569495183,
+            "count_crps": 0.06505592113778302,
+            "count_brier": 0.07721409778139104,
+            "k2_brier": 0.015887859343766877
+          }
+        },
+        "conditional_gaussian_factor2": {
+          "jurisdiction_pws_equal": {
+            "pattern_nll": 0.20552038983248677,
+            "count_nll": 0.15066908625949244,
+            "identity_given_count_nll": 0.05485130357299434,
+            "count_crps": 0.04716828083875824,
+            "count_brier": 0.05956403427521289,
+            "k2_brier": 0.01147479392435143
+          },
+          "record_equal": {
+            "pattern_nll": 0.2657186458219083,
+            "count_nll": 0.19453866925351673,
+            "identity_given_count_nll": 0.07117997656839156,
+            "count_crps": 0.0649970673726515,
+            "count_brier": 0.077091752935761,
+            "k2_brier": 0.015872598602717208
+          }
+        },
+        "training_composition": {
+          "jurisdiction_pws_equal": {
+            "pattern_nll": 0.21439842870485618,
+            "count_nll": 0.15705483216022975,
+            "identity_given_count_nll": 0.057343596544626466,
+            "count_crps": 0.047205169008912085,
+            "count_brier": 0.059892463588521676,
+            "k2_brier": 0.011235604682989819
+          },
+          "record_equal": {
+            "pattern_nll": 0.275029359702621,
+            "count_nll": 0.19718563602994815,
+            "identity_given_count_nll": 0.07784372367267309,
+            "count_crps": 0.06407701888942177,
+            "count_brier": 0.07668720497079361,
+            "k2_brier": 0.015378750415743908
+          }
+        }
+      }
+    },
+    "environmental": {
+      "national": {
+        "events": 21134,
+        "systems": 8308,
+        "source_supported_events": 15723,
+        "models": 10
+      },
+      "washington": {
+        "events": 1819,
+        "systems": 1456,
+        "source_supported_events": 1818,
+        "models": 6
+      },
+      "maximum_numeric_error": 5.551115123125783e-16
+    },
+    "status": "PASS"
+  },
+  "EPA_raw_archive_transition_rebuild": {
+    "status": "PASS",
+    "matched_csvs": [
+      "count_transition_matrix.csv",
+      "conditional_mixture_complexity.csv",
+      "exact_pattern_transitions.csv",
+      "native_multi_pattern_summary.csv",
+      "top_native_multi_patterns.csv",
+      "pattern_frequency_ranking.csv",
+      "monitoring_consequences.csv",
+      "native_multi_destination.csv"
+    ],
+    "matched_events": 7677
+  },
+  "numerical_unit_tests": {
+    "status": "PASS",
+    "tests": 45,
+    "command": "python -m unittest discover -s tests",
+    "optional_training_libraries_installed_for_full_test_suite": true
+  },
+  "replay_environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3"
+  },
+  "full_test_environment": {
+    "python": "3.12.14",
+    "numpy": "2.5.1",
+    "pandas": "2.2.3",
+    "torch": "2.13.0"
+  },
+  "security_check": {
+    "status": "PASS",
+    "private_string_hits": 0,
+    "contact_column_candidates": 0
+  },
+  "not_performed": [
+    "full marginal retraining",
+    "new independent blind test",
+    "new model fitting or calibration"
+  ],
+  "interpretation": "Computational replay and implementation checks; not confirmation of post-development model generalization."
+}

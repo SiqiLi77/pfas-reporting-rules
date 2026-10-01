@@ -1,0 +1,11 @@
+Strategy,"Blocked recall, %",Targets per 100 selected,"Calendar recall, %"
+Random allocation,20.00,3.84,20.00
+Singleton first,43.69,8.39,42.27
+Reported concentration,43.73,8.40,42.27
+Empirical frequency,46.46,8.92,53.91
+Site regression,31.84,6.11,44.77
+Six-analyte regression,42.73,8.20,42.28
+Combined regression,48.43,9.30,58.36
+Site trees,27.23,5.23,42.81
+Six-analyte trees,39.11,7.51,41.39
+Combined trees,43.08,8.27,52.45

@@ -1,0 +1,8 @@
+Diagnostic,Shared-shock gain,Gaussian factor-model gain
+"Outer fold 1, within-fold jurisdiction/PWS gain",0.04443,0.04030
+Outer fold 2,0.04443,0.04495
+Outer fold 3,0.03943,0.03978
+Outer fold 4,0.01902,0.01786
+Remove top-gain 1% of PWSs,0.02347,0.02231
+Remove top-gain 5% of PWSs,0.00432,0.00508
+Remove top-gain 10% of PWSs,0.00167,0.00060

@@ -1,0 +1,9 @@
+Restriction,Matched pairs,PWSs,Jurisdictions
+Administrative identifier match,"7,677","2,421",57
+Metadata stable,"7,433","2,355",57
+Normalized-name corroborated,"1,734",464,31
+Same calendar month,845,338,40
+Same meteorological season,"2,122",773,47
+Cyclic month distance <=1,"2,131",790,48
+Cyclic month distance <=2,"3,487","1,213",51
+Cyclic month distance <=3,"4,748","1,567",53

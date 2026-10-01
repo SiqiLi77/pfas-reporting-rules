@@ -1,0 +1,4 @@
+Endpoint,Continuous-threshold model,Endpoint-specific models,Continuous-model advantage (95% CI)
+20-threshold mean Brier score,0.012238,0.012418,"0.000180 (−0.000033, 0.000374)"
+20-threshold mean jurisdiction absolute error,0.012872,0.012574,"−0.000298 (−0.001435, 0.000627)"
+20-threshold mean pooled reporting-rate absolute error,0.000798,0.000995,"0.000196 (−0.001424, 0.001239)"

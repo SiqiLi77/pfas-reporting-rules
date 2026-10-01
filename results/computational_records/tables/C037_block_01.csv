@@ -1,0 +1,5 @@
+Panel,Mean count GW / SW,"Mean quantified sum GW / SW, ng/L","Quantified-sum difference, ng/L (95% interval)","Targeted-sum contrast bounds, ng/L"
+Shared six,0.291 / 0.273,2.408 / 2.045,"-0.363 (-0.774, 0.057)",-20.352 to 19.687
+Complete 25,0.478 / 0.672,4.004 / 5.110,"1.106 (0.441, 1.797)",-102.246 to 103.649
+Added trio,0.180 / 0.390,1.499 / 2.947,"1.449 (1.126, 1.806)",-8.943 to 10.984
+Other 16,0.007 / 0.009,0.097 / 0.118,"0.020 (-0.058, 0.109)",-72.951 to 72.978

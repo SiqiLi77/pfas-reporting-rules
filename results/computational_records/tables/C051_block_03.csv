@@ -1,0 +1,13 @@
+Reporting condition,Groundwater,Surface water,Surface minus ground
+Measured at native cutoffs,"5.66 (5.02, 6.37)","5.92 (5.18, 6.67)","0.26 (-0.75, 1.21)"
+Retained at older cutoffs,"0.08 (0.03, 0.15)","0.13 (0.01, 0.31)","0.05 (-0.09, 0.23)"
+"Independent, fixed margins","3.24 (3.04, 3.48)","2.05 (1.88, 2.27)","-1.18 (-1.49, -0.89)"
+"Shared shock, fixed margins","6.60 (6.44, 6.79)","4.98 (4.82, 5.18)","-1.62 (-1.88, -1.35)"
+"Gaussian factor-2, fixed margins","6.34 (6.18, 6.53)","4.86 (4.69, 5.06)","-1.48 (-1.75, -1.22)"
+Training empirical composition,"5.36 (5.15, 5.61)","5.01 (4.85, 5.22)","-0.34 (-0.65, -0.05)"
+"Logistic, no auxiliaries","2.44 (2.24, 2.68)","2.37 (2.20, 2.57)","-0.07 (-0.38, 0.22)"
+"Linear, no auxiliaries","5.40 (5.23, 5.62)","5.53 (5.37, 5.72)","0.12 (-0.16, 0.39)"
+"Nonlinear, no auxiliaries","5.70 (5.56, 5.88)","5.36 (5.21, 5.56)","-0.34 (-0.58, -0.10)"
+"Logistic, three auxiliaries","4.51 (3.97, 5.04)","5.42 (4.92, 5.93)","0.91 (0.19, 1.64)"
+"Linear, three auxiliaries","5.56 (5.08, 6.04)","5.91 (5.48, 6.35)","0.35 (-0.28, 0.99)"
+"Nonlinear, three auxiliaries","5.76 (5.29, 6.20)","6.63 (6.19, 7.09)","0.88 (0.27, 1.52)"

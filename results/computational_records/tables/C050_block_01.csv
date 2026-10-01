@@ -1,0 +1,5 @@
+Model,UCMR 5,Washington
+Training empirical composition,1.6597,1.5036
+Original nonlinear identity model,1.5164,1.5013
+Hierarchical composition with concentration bins,1.6497,1.4924
+Shared single-analyte and auxiliary-dependent pairwise effects,1.4503,1.5320

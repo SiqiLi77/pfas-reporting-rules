@@ -1,0 +1,4 @@
+regime,matched_events,events_with_at_least_one_reported_pfas,events_with_at_least_two_reported_pfas,multi_pfas_share_among_any_reported_percent
+UCMR 3 native reporting limits,7677,79,36,45.56962025316456
+UCMR 5 native reporting limits,7677,1353,829,61.27124907612713
+UCMR 3 numeric cutoffs,7677,58,10,17.24137931034483

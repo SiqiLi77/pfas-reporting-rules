@@ -1,0 +1,4 @@
+Candidate,Reference,Functional-group state,PFOA–PFOS,PFHxS–PFOS
+"Logistic, three auxiliaries","Logistic, no auxiliaries","0.003751 (-0.000803, 0.008305)","0.002317 (-0.000649, 0.005283)","0.002984 (0.000447, 0.005522)"
+"Linear, three auxiliaries","Linear, no auxiliaries","0.003376 (-0.001415, 0.008166)","0.005646 (-0.000442, 0.011735)","0.004864 (-0.000840, 0.010569)"
+"Nonlinear, three auxiliaries","Nonlinear, no auxiliaries","0.000175 (-0.002097, 0.002447)","-0.001147 (-0.002462, 0.000167)","0.003284 (0.000219, 0.006349)"

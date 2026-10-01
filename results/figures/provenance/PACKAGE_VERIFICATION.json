@@ -1,0 +1,22 @@
+{
+  "plot_csv_files": 51,
+  "plot_rows": 733,
+  "panel_manifest_rows": 37,
+  "every_plot_csv_byte_identical": true,
+  "new_experiments": false,
+  "included_support_tables": [
+    "S2_restriction_support.csv",
+    "S6C_25_analytes_and_MRLs.csv",
+    "S9_absolute_and_panel_contrasts.csv",
+    "S18_complete_contribution_reconciliation.csv",
+    "S35_conditional_endpoint_support.csv",
+    "Fig5a_source_verified_absolute_intervals.csv",
+    "Fig5c_source_verified_absolute_intervals.csv",
+    "Fig6a_source_verified_count_prior_intervals.csv",
+    "S6b_source_verified_identification_endpoint_intervals.csv"
+  ],
+  "caveats": [
+    "Not a full computational archive",
+    "Legacy filenames and source labels are intentionally preserved"
+  ]
+}

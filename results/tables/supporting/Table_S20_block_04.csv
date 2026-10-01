@@ -1,0 +1,4 @@
+Outcome,Observed,Conditional independence,Conditional shared-shock,Conditional Gaussian factor model
+K6=0,98.007%,92.998%,95.654%,95.537%
+K6=1,1.449%,6.455%,2.424%,2.646%
+K6≥2,0.543%,0.546%,1.922%,1.817%

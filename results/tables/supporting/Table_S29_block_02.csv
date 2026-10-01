@@ -1,0 +1,6 @@
+Reference,Candidate,Identity reduction,PWS 95% interval
+"Three auxiliaries, empirical identity","Three auxiliaries, logistic",0.155206,"0.035413, 0.256827"
+"Three auxiliaries, empirical identity","Three auxiliaries, linear",0.098943,"-0.071906, 0.234487"
+"Three auxiliaries, empirical identity","Three auxiliaries, nonlinear",0.143223,"0.038577, 0.227338"
+"Three auxiliaries, empirical identity","Three auxiliaries, conditional Bernoulli",0.169304,"-0.069996, 0.359255"
+"Three auxiliaries, conditional Bernoulli","Three auxiliaries, nonlinear",-0.026081,"-0.139296, 0.110939"

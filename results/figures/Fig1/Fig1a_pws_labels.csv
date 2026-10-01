@@ -1,0 +1,4 @@
+regime,pws_with_any_multi_pfas_event,matched_pws
+UCMR 3 native limits,26,2421
+UCMR 5 native limits,437,2421
+UCMR 5 at UCMR 3 numeric cutoffs,10,2421

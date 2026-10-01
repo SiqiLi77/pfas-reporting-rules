@@ -1,0 +1,9 @@
+Reporting condition,Groundwater,Surface water,Surface minus ground
+Measured at native cutoffs,"1.46 (0.84, 2.17)","0.00 (0.00, 0.00)","-1.46 (-2.17, -0.84)"
+Retained at older cutoffs,"0.17 (0.00, 0.39)","0.00 (0.00, 0.00)","-0.17 (-0.39, 0.00)"
+"Logistic, no auxiliaries","0.28 (0.10, 0.52)","0.09 (0.09, 0.09)","-0.20 (-0.43, -0.02)"
+"Linear, no auxiliaries","1.47 (1.26, 1.74)","1.53 (1.49, 1.56)","0.06 (-0.21, 0.27)"
+"Nonlinear, no auxiliaries","1.14 (0.94, 1.39)","1.19 (1.17, 1.20)","0.05 (-0.20, 0.24)"
+"Logistic, three auxiliaries","0.88 (0.61, 1.18)","0.02 (0.02, 0.02)","-0.86 (-1.16, -0.59)"
+"Linear, three auxiliaries","2.49 (2.09, 2.92)","0.66 (0.64, 0.68)","-1.83 (-2.25, -1.43)"
+"Nonlinear, three auxiliaries","1.78 (1.41, 2.17)","0.27 (0.27, 0.28)","-1.51 (-1.90, -1.14)"

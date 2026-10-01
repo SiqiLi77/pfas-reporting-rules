@@ -1,0 +1,12 @@
+Diagnostic,Value
+UCMR 5 status changes required to eliminate the negative event-count difference,26
+UCMR 5 status changes required for a positive event-count difference,27
+Native-positive UCMR 5 events reclassified at UCMR 3 cutoffs,819 of 829 (98.794%)
+Hypothetical added non-reclassified positives required to reduce reclassification below 90%,82; 819/911 = 89.901%
+Minimality boundary for the 90% target,81; 819/910 = 90.000%
+Hypothetical added non-reclassified positives required to reduce reclassification below 80%,"195; 819/1,024 = 79.980%"
+Minimality boundary for the 80% target,"194; 819/1,023 = 80.059%"
+"Matched PWSs with any $K_6\ge2$ event, UCMR 3 native limits","26 of 2,421"
+"Matched PWSs with any $K_6\ge2$ event, UCMR 5 native limits","437 of 2,421"
+"Matched PWSs with any $K_6\ge2$ event, UCMR 5 at UCMR 3 cutoffs","10 of 2,421"
+"Reporting jurisdictions with any $K_6\ge2$ event, respectively",13; 34; 8

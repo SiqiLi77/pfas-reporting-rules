@@ -1,0 +1,5 @@
+Input condition,"Event-equal, analyte-macro","Jurisdiction/PWS-equal, analyte-macro"
+Site metadata and visible co-analytes,0.01262330,0.00933827
+Site metadata only,0.01323998,0.00952537
+Visible co-analytes only,0.01249320,0.00927527
+Neither block,0.01315206,0.00957383

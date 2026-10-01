@@ -1,0 +1,4 @@
+Model,Coefficients,Conditional log loss (95% interval)
+Site and count,350,"2.9098 (2.8551, 2.9653)"
+Same-analyte memory,351,"1.5780 (1.5215, 1.6371)"
+Cross-analyte context,975,"1.7451 (1.6883, 1.7988)"

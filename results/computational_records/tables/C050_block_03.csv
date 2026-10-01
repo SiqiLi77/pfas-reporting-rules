@@ -1,0 +1,7 @@
+Model,UCMR 5,Washington
+Independently fitted nonlinear endpoints,0.097993,0.066587
+Pattern-independent monotone transition,0.097850,0.067833
+Latent-count-conditioned monotone transition,0.096990,0.066565
+Latent-pattern-conditioned monotone transition,0.095852,0.066886
+Direct pattern-loss fine-tuning,0.096215,0.066886
+Fine-tuning with cross-fitted training probabilities,0.096489,0.066886

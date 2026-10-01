@@ -1,0 +1,9 @@
+Shared-six cutoffs,Panel,Samples,"Multi-PFAS locations retained, % (95% interval)","Mean pair composition retained, % (95% interval)"
+Older,Six,First,"0.77 (0.46, 1.10)","0.05 (0.03, 0.08)"
+Older,Six,Two,"1.18 (0.81, 1.59)","0.08 (0.05, 0.11)"
+Older,25,First,"57.14 (55.04, 59.07)","19.90 (18.59, 21.22)"
+Older,25,Two,"72.53 (70.62, 74.23)","28.62 (27.19, 30.14)"
+Native,Six,First,"52.37 (50.07, 54.49)","22.24 (21.00, 23.56)"
+Native,Six,Two,"64.85 (62.69, 66.92)","30.41 (29.02, 31.90)"
+Native,25,First,"81.03 (79.42, 82.54)","70.75 (68.98, 72.35)"
+Native,25,Two,100.00 (reference),100.00 (reference)

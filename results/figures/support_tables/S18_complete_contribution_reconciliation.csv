@@ -1,0 +1,6 @@
+Observed_pattern_group,Number_of_states,Primary_weighted_observed_probability,Contribution_to_NLL_gain_nats
+All unreported,1,0.9665665684102431,0.025866883468238018
+Eight displayed multi-PFAS patterns,8,0.00741592297869679,0.020378590130801923
+Six singleton patterns,6,0.019798247472059386,-0.017357697986428486
+Remaining 49 exact patterns,49,0.00621926113900065,0.006487634747878025
+All 64 patterns,64,1.0,0.035375410360489475

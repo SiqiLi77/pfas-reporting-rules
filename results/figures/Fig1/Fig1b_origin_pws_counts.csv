@@ -1,0 +1,4 @@
+regime,pws_with_any_multi_pfas_event,matched_pws,plot_y,display_label,color
+UCMR 3 native limits,26,2421,2,"26 / 2,421",#447D93
+UCMR 5 native limits,437,2421,1,"437 / 2,421",#BF7491
+UCMR 5 at UCMR 3 numeric cutoffs,10,2421,0,"10 / 2,421",#378A8C

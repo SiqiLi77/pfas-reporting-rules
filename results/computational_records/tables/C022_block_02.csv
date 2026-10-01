@@ -1,0 +1,6 @@
+Quantity,Events,Event-equal percent (95% interval)
+Any of 25 reported among six-panel-zero events,"359/6,310","5.69 (4.90, 6.53)"
+Multiple of 25 among six-panel-zero events,"159/6,310","2.52 (2.02, 3.05)"
+Multiple of 25 among six-panel-singleton events,192/523,"36.71 (32.12, 41.25)"
+Six-panel-zero among 25-panel-positive events,"359/1,711","20.98 (18.27, 23.78)"
+Six-panel-zero or singleton among 25-panel-multiple events,"351/1,180","29.75 (26.18, 33.42)"

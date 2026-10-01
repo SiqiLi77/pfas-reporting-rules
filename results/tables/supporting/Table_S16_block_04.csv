@@ -1,0 +1,4 @@
+First minus second model,Difference,95% interval
+Conditional independence − Count-prior diagnostic,0.034284,"0.022264, 0.048416"
+Count-prior diagnostic − Shared-shock,0.001092,"-0.001938, 0.003555"
+Count-prior diagnostic − Two-factor Gaussian,0.000147,"-0.003495, 0.002521"

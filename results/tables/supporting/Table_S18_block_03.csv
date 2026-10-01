@@ -1,0 +1,4 @@
+Pattern group,Number of exact states,Primary-weighted probability,Contribution to NLL gain
+All unreported,1,0.966567,0.025867
+Remaining exact patterns not listed in Panels A–B,49,0.006219,0.006488
+All exact patterns (total),64,1.000000,0.035375

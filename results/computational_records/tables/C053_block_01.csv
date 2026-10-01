@@ -1,0 +1,7 @@
+Candidate,Reference,Functional-group state,PFOA–PFOS,PFHxS–PFOS
+"Shared shock, fixed margins","Independent, fixed margins","-0.003186 (-0.005589, -0.000784)","-0.003892 (-0.011545, 0.003760)","-0.001426 (-0.002983, 0.000131)"
+"Gaussian factor-2, fixed margins","Independent, fixed margins","-0.003621 (-0.005174, -0.002068)","-0.002698 (-0.008251, 0.002856)","-0.002541 (-0.004716, -0.000366)"
+Training empirical composition,"Independent, fixed margins","-0.003894 (-0.009999, 0.002210)","0.000248 (-0.003813, 0.004308)","-0.000965 (-0.003317, 0.001387)"
+"Logistic, three auxiliaries","Logistic, no auxiliaries","0.002448 (-0.000279, 0.005176)","0.002906 (0.000466, 0.005345)","0.004988 (0.001719, 0.008256)"
+"Linear, three auxiliaries","Linear, no auxiliaries","0.003450 (0.001203, 0.005696)","0.009603 (-0.004730, 0.023936)","0.004581 (0.002337, 0.006824)"
+"Nonlinear, three auxiliaries","Nonlinear, no auxiliaries","-0.001976 (-0.004664, 0.000711)","0.001301 (-0.001482, 0.004084)","0.002894 (0.000603, 0.005184)"

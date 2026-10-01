@@ -1,0 +1,5 @@
+Strategy,"Target recall, %",Baseline information
+Empirical frequency,46.40,Site attributes and shared-six reports
+Combined regression,48.47,Site attributes and shared-six reports
+Combined trees,43.19,Site attributes and shared-six reports
+Observed initial 25-analyte count,75.95,Observed 25-analyte report count

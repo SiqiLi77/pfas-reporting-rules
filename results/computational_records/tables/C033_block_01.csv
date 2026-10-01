@@ -1,0 +1,17 @@
+Evaluation,Allocation at 20% capacity,"Overall recall, %","Initially unreported recall, %"
+Blocked,Initial count,75.95,5.28
+Blocked,Regression,48.47,18.70
+Blocked,Random,20.00,20.00
+Blocked,5% floor + ranking,75.02,12.47
+Blocked,10% floor + ranking,71.92,17.43
+Blocked,15% floor + ranking,61.57,23.52
+Blocked,20% floor + ranking,38.58,31.14
+Blocked,20% floor + random,35.93,20.00
+Calendar,Initial count,79.18,7.21
+Calendar,Regression,58.70,38.26
+Calendar,Random,20.00,20.00
+Calendar,5% floor + ranking,77.66,28.19
+Calendar,10% floor + ranking,74.82,44.12
+Calendar,15% floor + ranking,65.63,55.88
+Calendar,20% floor + ranking,42.99,58.82
+Calendar,20% floor + random,35.36,20.00

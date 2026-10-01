@@ -1,0 +1,9 @@
+Restriction,Matched_location_pairs,PWSs,Jurisdictions
+Administrative identifier match,7677,2421,57
+Metadata stable,7433,2355,57
+Normalized-name corroborated,1734,464,31
+Same calendar month,845,338,40
+Same meteorological season,2122,773,47
+Cyclic month distance <=1,2131,790,48
+Cyclic month distance <=2,3487,1213,51
+Cyclic month distance <=3,4748,1567,53

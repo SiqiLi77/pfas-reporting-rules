@@ -1,0 +1,5 @@
+Component,Shared-shock,Gaussian factor model
+Complete-pattern log-score reduction,"0.035375 (0.023928, 0.048519)","0.034431 (0.022995, 0.047612)"
+Count log-score reduction,"0.034384 (0.023050, 0.047432)","0.034685 (0.023524, 0.047544)"
+Conditional-identity log-score reduction,"0.000991 (−0.001549, 0.004286)","−0.000254 (−0.002716, 0.002170)"
+Count share of net pattern gain,97.20%,100.74%

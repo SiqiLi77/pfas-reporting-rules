@@ -1,0 +1,7 @@
+regime,rate,label,events,matched_events,rate_percent,plot_y,display_label,color
+ucmr3_native,0.0046893317702227,UCMR 3 native limits,36,7677,0.46893317702227005,2,"0.469%
+36 / 7,677",#447D93
+ucmr5_native,0.1079848899309626,UCMR 5 native limits,829,7677,10.79848899309626,1,"10.798%
+829 / 7,677",#BF7491
+ucmr5_common_c1,0.0013025921583952,UCMR 5 at UCMR 3 numeric cutoffs,10,7677,0.13025921583952,0,"0.130%
+10 / 7,677",#378A8C

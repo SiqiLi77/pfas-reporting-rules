@@ -1,0 +1,15 @@
+Evaluation and model,Log loss,Brier score,Average precision,Area under receiver operating characteristic curve
+Blocked: empirical frequency,0.15013,0.03530,0.1304,0.6942
+Blocked: site regression,0.17841,0.03741,0.0418,0.5044
+Blocked: six-analyte regression,0.15085,0.03522,0.1104,0.5871
+Blocked: combined regression,0.15460,0.03553,0.1246,0.6374
+Blocked: site trees,0.16640,0.03764,0.0441,0.5607
+Blocked: six-analyte trees,0.15260,0.03554,0.0952,0.6014
+Blocked: combined trees,0.15357,0.03555,0.1130,0.6213
+Calendar: empirical frequency,0.12997,0.03063,0.1681,0.7630
+Calendar: site regression,0.14236,0.03267,0.1157,0.7473
+Calendar: six-analyte regression,0.13579,0.03138,0.0973,0.6430
+Calendar: combined regression,0.12552,0.02999,0.2181,0.7880
+Calendar: site trees,0.14020,0.03236,0.1368,0.7653
+Calendar: six-analyte trees,0.13655,0.03146,0.1058,0.6380
+Calendar: combined trees,0.12528,0.03004,0.2317,0.7995

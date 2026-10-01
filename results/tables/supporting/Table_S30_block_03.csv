@@ -1,0 +1,9 @@
+Reporting condition,Groundwater (%),Surface water (%),Contrast (percentage points)
+Measured at native cutoffs,"4.05 (3.05, 5.11)","0.00 (0.00, 0.00)","-4.05 (-5.11, -3.05)"
+Retained at older cutoffs,"0.17 (0.00, 0.39)","0.00 (0.00, 0.00)","-0.17 (-0.39, 0.00)"
+"Logistic, no auxiliaries","0.58 (0.37, 0.84)","0.63 (0.62, 0.64)","0.05 (-0.21, 0.26)"
+"Linear, no auxiliaries","2.13 (1.89, 2.41)","3.00 (2.96, 3.05)","0.88 (0.59, 1.11)"
+"Nonlinear, no auxiliaries","2.25 (2.03, 2.51)","3.21 (3.18, 3.24)","0.96 (0.69, 1.18)"
+"Logistic, three auxiliaries","2.51 (1.89, 3.18)","0.09 (0.09, 0.09)","-2.42 (-3.08, -1.80)"
+"Linear, three auxiliaries","3.68 (3.08, 4.34)","1.03 (1.02, 1.04)","-2.66 (-3.31, -2.06)"
+"Nonlinear, three auxiliaries","3.75 (3.12, 4.42)","0.99 (0.97, 1.01)","-2.76 (-3.43, -2.13)"

@@ -1,0 +1,7 @@
+Comparator minus structured model,Pattern reduction (95% CI),Count reduction (95% CI),Identity reduction (95% CI)
+Query-wise empirical minus Shared-shock,"0.009823 (−0.000685, 0.020301)","0.006085 (−0.000076, 0.012014)","0.003738 (−0.002682, 0.010403)"
+Query-wise empirical minus Gaussian factor model,"0.008878 (−0.002191, 0.019430)","0.006386 (0.000159, 0.012550)","0.002492 (−0.004520, 0.009102)"
+"Coherent, location-equal, λ=1 minus Shared-shock","0.013633 (0.003391, 0.024845)","0.008010 (0.001980, 0.014297)","0.005623 (−0.000815, 0.012796)"
+"Coherent, location-equal, λ=1 minus Gaussian factor model","0.012688 (0.001864, 0.024141)","0.008311 (0.002100, 0.014809)","0.004377 (−0.002568, 0.011489)"
+"Coherent, hierarchy-weighted, λ=1 minus Shared-shock","0.015591 (0.003260, 0.029888)","0.008828 (0.000774, 0.017848)","0.006762 (0.000502, 0.013536)"
+"Coherent, hierarchy-weighted, λ=1 minus Gaussian factor model","0.014646 (0.002043, 0.028951)","0.009129 (0.000788, 0.018709)","0.005517 (−0.001253, 0.012451)"

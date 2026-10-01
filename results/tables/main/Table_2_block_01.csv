@@ -1,0 +1,5 @@
+Environmental use,Information to retain or define,Evaluation target
+Compare monitoring periods,Shared analytes and numeric cutoffs; companion native-limit composition,Matched rates and same-record cutoff sensitivity
+Describe measured drinking-water composition,Named constituents and same-sample combinations,"Label and pair retention against the wider measured panel, by system category"
+Compare supply-system groups,"Target population, weights, and chemical endpoint","Each group's marginal bias and endpoint rate, and the group contrast"
+Estimate co-reporting composition from restricted records,"Permitted metadata and measurements; specified count, chemical feature, or pattern",Agreement with withheld measurements at the intended chemical or population level; absolute quality and paired gains

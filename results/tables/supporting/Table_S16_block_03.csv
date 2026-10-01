@@ -1,0 +1,4 @@
+First minus second model,Count-CRPS gain,Count-Brier gain,K6≥2-Brier gain
+Conditional independence minus shared-shock,"0.003405 (0.001323, 0.005978)","0.007622 (0.003071, 0.012948)","−0.000088 (−0.000579, 0.000390)"
+Conditional independence minus Gaussian factor model,"0.003436 (0.001406, 0.005973)","0.007672 (0.003291, 0.012881)","−0.000073 (−0.000517, 0.000348)"
+Shared-shock minus Gaussian factor model,"0.000031 (−0.000062, 0.000172)","0.000049 (−0.000180, 0.000391)","0.000015 (−0.000056, 0.000074)"

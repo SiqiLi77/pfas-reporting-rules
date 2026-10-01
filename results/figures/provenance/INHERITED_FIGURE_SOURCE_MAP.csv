@@ -1,0 +1,49 @@
+new_file,source_file,selection
+Fig1/Fig1a_conditional_mixture_complexity.csv,Fig1/Fig1a_conditional_mixture_complexity.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1a_event_rates.csv,Fig1/Fig1a_event_rates.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1a_origin_event_rates.csv,Fig1/Fig1a_origin_event_rates.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1a_pws_labels.csv,Fig1/Fig1a_pws_labels.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1b_decomposition.csv,Fig1/Fig1b_decomposition.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1b_origin_pws_counts.csv,Fig1/Fig1b_origin_pws_counts.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1c_origin_conditional_fraction.csv,Fig1/Fig1c_origin_conditional_fraction.csv,preserved figure; all rows; unchanged bytes
+Fig1/Fig1d_origin_weighted_decomposition.csv,Fig1/Fig1d_origin_weighted_decomposition.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2a_count_transition.csv,Fig2/Fig2a_count_transition.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2a_origin_transition_matrix.csv,Fig2/Fig2a_origin_transition_matrix.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2a_origin_transition_totals.csv,Fig2/Fig2a_origin_transition_totals.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2b_origin_pattern_matrix.csv,Fig2/Fig2b_origin_pattern_matrix.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2b_origin_pattern_membership.csv,Fig2/Fig2b_origin_pattern_membership.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2b_top_pattern_destinations.csv,Fig2/Fig2b_top_pattern_destinations.csv,preserved figure; all rows; unchanged bytes
+Fig2/Fig2c_origin_panel_restriction.csv,Fig2/Fig2c_origin_panel_restriction.csv,preserved figure; all rows; unchanged bytes
+Fig2/figure_2c_origin_wide.csv,Fig2/figure_2c_origin_wide.csv,preserved figure; all rows; unchanged bytes
+Fig2/figure_2c_source.csv,Fig2/figure_2c_source.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3a_source_rates.csv,Fig3/Fig3a_source_rates.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3b_panel_attribution.csv,Fig3/Fig3b_panel_attribution.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3c_reporting_floor.csv,Fig3/Fig3c_reporting_floor.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3d_paired_retention_origin.csv,Fig3/Fig3d_paired_retention_origin.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3d_paired_support_counts.csv,Fig3/Fig3d_paired_support_counts.csv,preserved figure; all rows; unchanged bytes
+Fig3/Fig3d_source_subset_coverage.csv,Fig3/Fig3d_source_subset_coverage.csv,preserved figure; all rows; unchanged bytes
+Fig4/Fig4a_absolute_losses.csv,Fig4/Fig4a_count_identity_absolute_losses.csv,all rows; unchanged bytes
+Fig4/Fig4b_component_gains.csv,Fig4/Fig4b_gain_decomposition.csv,all rows; unchanged bytes
+Fig4/Fig4c_count_distribution.csv,Fig5/Fig5a_count_distribution.csv,all rows; unchanged bytes
+Fig4/Fig4d_exact_multiple_patterns.csv,Fig5/Fig5b_pattern_frequencies.csv,reported_count >= 2; six previously selected most frequent observed multiple-report patterns; unchanged values
+Fig5/Fig5a_national_pattern.csv,Fig6/Fig6a_national_pattern_ladder.csv,all rows; unchanged bytes
+Fig5/Fig5b_national_identity.csv,Fig6/Fig6b_national_paired_identity.csv,all rows; unchanged bytes
+Fig5/Fig5c_washington_pattern.csv,Fig6/Fig6c_washington_absolute_pattern.csv,all rows; unchanged bytes
+Fig5/Fig5d_washington_identity.csv,Fig6/Fig6d_paired_washington_diagnostics.csv; Fig6/Fig6d_county_intervals.csv,conditional identity only; all three selected3 model comparisons; PWS and county intervals
+Fig6/Fig6a_group_rates.csv,Fig7/Fig7a_group_rates.csv,all rows; unchanged bytes
+Fig6/Fig6b_marginal_bias.csv,Fig7/Fig7b_marginal_bias.csv,all rows; unchanged bytes
+Fig7/block_national_fixed_margins.csv,Fig8/Fig8a_conditional_chemical_gains.csv,all rows; unchanged bytes
+Fig7/block_national_auxiliary.csv,Fig8/Fig8b_conditional_chemical_gains.csv,all rows; unchanged bytes
+Fig7/block_washington_auxiliary.csv,Fig8/Fig8c_conditional_chemical_gains.csv,all rows; unchanged bytes
+S1/robustness.csv,S2/Figure_S2_robustness.csv,all rows; unchanged bytes
+S2/retained_multiple.csv,S8/selective_loss_retained_multiple_origin.csv,all rows; unchanged bytes
+S2/collapsed_zero.csv,S8/selective_loss_collapsed_zero_origin.csv,all rows; unchanged bytes
+S3/coverage.csv,S10/figure_A_a_coverage_origin.csv,all rows; unchanged bytes
+S3/pair_recurrence.csv,S10/figure_A_b_recurrence_origin.csv,all rows; unchanged bytes
+S4/source_sensitivity.csv,S12/E4_source_sensitivity_origin.csv,all rows; unchanged bytes
+S5/independence_reference.csv,S16/S16_origin.csv,all rows; unchanged bytes
+S6/quantified_sum.csv,S17/S17a_origin.csv,all rows; unchanged bytes
+S6/identification_bounds.csv,S17/S17b_origin.csv,all rows; unchanged bytes
+S7/threshold_path.csv,Fig5/Fig5c_threshold_path.csv,all rows; unchanged bytes
+S8/national_source_rates.csv,figure_S20a_source_rates.csv,"multiple endpoint, GW/SW rates; all original eight conditions and three model families; fractions multiplied by 100"
+S8/washington_source_rates.csv,figure_S20b_source_rates.csv,"multiple endpoint, GW/SW rates; all original eight conditions and three model families; fractions multiplied by 100"

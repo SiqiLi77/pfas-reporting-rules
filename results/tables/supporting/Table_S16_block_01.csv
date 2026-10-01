@@ -1,0 +1,5 @@
+Joint distribution,Pattern NLL,Count NLL,Conditional-identity NLL,K6≥2 Brier score
+Conditional independence,0.239951,0.185354,0.054597,0.011401
+Count-prior diagnostic,0.205668,0.150596,0.055072,0.011454
+Shared-shock,0.204576,0.150970,0.053606,0.011490
+Two-factor Gaussian,0.205520,0.150669,0.054851,0.011475

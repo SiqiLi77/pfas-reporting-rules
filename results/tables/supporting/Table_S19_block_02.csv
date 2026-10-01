@@ -1,0 +1,7 @@
+Prediction scheme,Count ranked probability score,Count Brier score,K6≥2 Brier score
+Conditional independence,0.050604,0.067236,0.011401
+Shared-shock,0.047199,0.059613,0.011490
+Gaussian factor model,0.047168,0.059564,0.011475
+Query-wise empirical,0.047205,0.059892,0.011236
+"Coherent, location-equal, λ=1",0.047105,0.059922,0.011255
+"Coherent, hierarchy-weighted, λ=1",0.047362,0.060243,0.011440

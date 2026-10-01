@@ -1,0 +1,11 @@
+Evaluation,"Observed interval, days",Locations,Empirical minus predicted-count log loss (95% interval)
+Blocked,1–89,"3,111","0.02392 (0.01091, 0.03850)"
+Blocked,90–270,"21,882","0.00801 (0.00403, 0.01206)"
+Blocked,271–450,609,"0.00234 (-0.01524, 0.01946)"
+Blocked,>450,154,"-0.03028 (-0.10845, 0.02556)"
+Blocked,≥90 (combined),"22,645","0.00759 (0.00368, 0.01154)"
+Calendar,1–89,566,"0.02359 (-0.00601, 0.05545)"
+Calendar,90–270,"4,741","0.00819 (0.00149, 0.01519)"
+Calendar,271–450,76,"-0.00209 (-0.02511, 0.01800)"
+Calendar,>450,4,-0.00289 (descriptive only)
+Calendar,≥90 (combined),"4,821","0.00802 (0.00149, 0.01492)"

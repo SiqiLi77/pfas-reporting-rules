@@ -1,0 +1,2 @@
+Model,Macro average precision,Macro ROC AUC,Macro Brier score,Adaptive ECE,Hidden log-concentration MAE,Hidden conditional NLL
+Continuous-threshold model with the industrial-context vector fixed to zero,0.1272,0.6674,0.04342,0.01326,0.3505,0.30499

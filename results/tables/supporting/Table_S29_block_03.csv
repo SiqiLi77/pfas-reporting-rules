@@ -1,0 +1,5 @@
+Reference,Candidate,Identity reduction,PWS 95% interval
+"No auxiliaries, conditional Bernoulli","Three auxiliaries, conditional Bernoulli",0.272873,"0.069997, 0.457184"
+"Three auxiliaries, conditional Bernoulli","19 auxiliaries, conditional Bernoulli",0.001181,"-0.008237, 0.011120"
+"No auxiliaries, nonlinear","Three auxiliaries, nonlinear",0.117456,"-0.007535, 0.233868"
+"Three auxiliaries, nonlinear","19 auxiliaries, nonlinear",0.018623,"0.007532, 0.030563"

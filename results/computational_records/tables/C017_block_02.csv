@@ -1,0 +1,10 @@
+UCMR 5 native reporting pattern,Native events,0 PFAS at old cutoffs,1 PFAS at old cutoffs,$\ge2$ PFAS at old cutoffs
+PFBS + PFHpA + PFHxS + PFOA + PFOS,140,103,30,7
+PFBS + PFOA + PFOS,100,99,1,0
+PFBS + PFHxS + PFOA + PFOS,74,68,6,0
+PFBS + PFHxS + PFOS,71,69,2,0
+PFHxS + PFOS,68,68,0,0
+PFBS + PFOS,55,55,0,0
+PFOA + PFOS,55,55,0,0
+PFHxS + PFOA + PFOS,35,34,1,0
+Other native multi-PFAS patterns,231,221,7,3

@@ -1,0 +1,4 @@
+Candidate,Reference,Candidate bias,Absolute-error reduction
+"Logistic, three auxiliaries","Logistic, no auxiliaries","0.63 (0.02, 1.28)","1.78 (1.31, 2.29)"
+"Linear, three auxiliaries","Linear, no auxiliaries","0.67 (0.05, 1.31)","2.37 (1.94, 2.84)"
+"Nonlinear, three auxiliaries","Nonlinear, no auxiliaries","0.21 (-0.38, 0.81)","2.84 (1.95, 3.37)"

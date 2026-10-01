@@ -1,0 +1,34 @@
+{
+  "paper_version": "V1.59",
+  "release": "v1.0.0",
+  "assets": [
+    {
+      "name": "observational-data.zip",
+      "bytes": 40138607,
+      "sha256": "917140b9f436141103ed28e32655d0d0f0b20ed051ebf8f9cd5cdeebad0c3334",
+      "files": 60,
+      "url": "https://github.com/SiqiLi77/pfas-reporting-rules/releases/download/v1.0.0/observational-data.zip"
+    },
+    {
+      "name": "fixed-joint-predictions.zip",
+      "bytes": 328402099,
+      "sha256": "425c7582c9579ea56569927b4d09529ff7818e02664b9f23c0da5d011c21efeb",
+      "files": 155,
+      "url": "https://github.com/SiqiLi77/pfas-reporting-rules/releases/download/v1.0.0/fixed-joint-predictions.zip"
+    },
+    {
+      "name": "auxiliary-predictions.zip",
+      "bytes": 142964360,
+      "sha256": "96f18400f7434d39584eaa85d850abf21e8f77cf1ed8397cb79404a6244034cd",
+      "files": 114,
+      "url": "https://github.com/SiqiLi77/pfas-reporting-rules/releases/download/v1.0.0/auxiliary-predictions.zip"
+    },
+    {
+      "name": "environmental-external.zip",
+      "bytes": 129792390,
+      "sha256": "b609a10dfe1ad523fc46e1d452175324225a7513419b862d20a0009f43fd0ded",
+      "files": 241,
+      "url": "https://github.com/SiqiLi77/pfas-reporting-rules/releases/download/v1.0.0/environmental-external.zip"
+    }
+  ]
+}

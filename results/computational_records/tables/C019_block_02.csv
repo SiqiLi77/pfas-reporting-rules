@@ -1,0 +1,9 @@
+Model,Mixing weight ε,Pattern log-score reduction,Count share of net gain
+Shared-shock,10⁻⁸,0.035264,97.06%
+Shared-shock,10⁻¹⁰,0.035362,97.19%
+Shared-shock,10⁻¹²,0.035375,97.20%
+Shared-shock,10⁻¹⁴,0.035376,97.20%
+Gaussian factor model,10⁻⁸,0.034320,100.61%
+Gaussian factor model,10⁻¹⁰,0.034418,100.73%
+Gaussian factor model,10⁻¹²,0.034431,100.74%
+Gaussian factor model,10⁻¹⁴,0.034431,100.74%

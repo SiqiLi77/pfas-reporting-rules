@@ -1,0 +1,4 @@
+Model,Random minus own,Random minus pooled (Jensen term),Pooled minus own
+Conditional independence,0.018732,0.022289,−0.003557
+Shared-shock,0.010821,0.009049,0.001772
+Gaussian factor model,0.011292,0.009265,0.002028

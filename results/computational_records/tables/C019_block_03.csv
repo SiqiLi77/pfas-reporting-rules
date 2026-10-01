@@ -1,0 +1,5 @@
+Model,Deleted unit (number of deletions),Pattern-gain range,Count-gain range,Count-share range
+Shared-shock,One jurisdiction (56),0.032216–0.036516,0.031230–0.035409,95.92–99.82%
+Shared-shock,"One PWS (8,316)",0.034642–0.036311,0.033631–0.035690,94.65–99.82%
+Gaussian factor model,One jurisdiction (56),0.031185–0.035432,0.031519–0.035612,99.69–101.91%
+Gaussian factor model,"One PWS (8,316)",0.033724–0.035398,0.033963–0.035961,99.59–101.90%

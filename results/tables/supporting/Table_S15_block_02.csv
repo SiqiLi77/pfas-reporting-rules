@@ -1,0 +1,6 @@
+Comparison,Event-equal Brier reduction,Jurisdiction/PWS-equal reduction
+Add co-analytes to site metadata,"0.000617 (0.000363, 0.000854)","0.000187 (0.000020, 0.000347)"
+Add site metadata to co-analytes,"−0.000130 (−0.000461, 0.000118)","−0.000063 (−0.000374, 0.000218)"
+Site metadata versus neither block,"−0.000088 (−0.000472, 0.000165)","0.000048 (−0.000133, 0.000217)"
+Co-analytes versus neither block,"0.000659 (0.000371, 0.000981)","0.000299 (0.000158, 0.000466)"
+Both blocks versus neither block,"0.000529 (0.000083, 0.000890)","0.000236 (−0.000024, 0.000495)"

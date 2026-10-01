@@ -1,0 +1,4 @@
+Joint distribution,Pattern NLL,Count CRPS,Count Brier score,$K_6\ge2$ Brier score,$K_6\ge2$ average precision
+Conditional independence,0.160750,0.031305,0.049888,0.005526,0.0369
+Conditional shared-shock,0.138548,0.027022,0.039397,0.006021,0.0322
+Conditional Gaussian factor model,0.139347,0.027043,0.039516,0.005913,0.0338

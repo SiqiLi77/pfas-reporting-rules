@@ -1,0 +1,58 @@
+record,original_table,pdf_destination,evidence_tier,scientific_role
+C001,S1,S1,Tier 1,Cohort denominators and nonrepresentative matching are read together.
+C002,S2,,Tier 3 / text-retained diagnostic,Duplicate of main Table 1; methods retained in Text S1.
+C003,S3,S2,Tier 1,Direct evidence for the main argument
+C004,S4,S4,Tier 2,Direct evidence for the main argument
+C005,S5,S1,Tier 1,Cohort denominators and nonrepresentative matching are read together.
+C006,S6,,Tier 3 / text-retained diagnostic,Full bound grid is a supporting mathematical detail; summary and derivation retained in Text S9.
+C007,S7,S14,Tier 1,"Adequacy and null advantage of the marginal interface, rather than architecture promotion."
+C008,S8,S14,Tier 1,"Adequacy and null advantage of the marginal interface, rather than architecture promotion."
+C009,S9,,Tier 3 / text-retained diagnostic,Implementation audit summarized in Text S10; no performance claim rests on an audit table.
+C010,S10,S16,Tier 1,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+C011,S11,S17,Tier 2,Alternative record-equal calibration is not the primary proper-score estimand.
+C012,S12,,Tier 3 / text-retained diagnostic,Fold and influence grid summarized in Text S12; full positive and negative sensitivity context preserved.
+C013,S13,S3,Tier 2,Keep paired evidence and numerical-cutoff sensitivity; completion arithmetic no longer drives a final-archive paper.
+C014,S14,S18,Tier 1,Direct evidence for the main argument
+C015,S15,,Tier 3 / text-retained diagnostic,Release comparison summarized in Text S18; primary final-archive evidence is not duplicated.
+C016,S16,S20,Tier 2,A distinct frozen-vintage check remains visible with its sparse 69-event support and binary deterioration.
+C017,S17,S5,Tier 1,Direct evidence for the main argument
+C018,S18,S15,Tier 1,Direct evidence for the main argument
+C019,S19,S16,Tier 1,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+C020,S20,S19,Tier 2,Empirical baselines and both training-weight schemes remain; only the smoothing grid moves.
+C021,S21,S16,Tier 1,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+C022,S22,S6,Tier 1,Direct evidence for the main argument
+C023,S23,S16,Tier 1,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+C024,S24,S7,Tier 2,Direct evidence for the main argument
+C025,S25,,Tier 3 / text-retained diagnostic,Separate subsequent-sample allocation task.
+C026,S26,,Tier 3 / text-retained diagnostic,Secondary scores for the separate subsequent-sample task.
+C027,S27,S8,Tier 1,"One table defines the paired reference, its retained information, and necessary sensitivity."
+C028,S28,S8,Tier 1,"One table defines the paired reference, its retained information, and necessary sensitivity."
+C029,S29,,Tier 3 / text-retained diagnostic,Own-history positive and complexity-negative comparison summarized in Text S4; full subgroup/model details archived.
+C030,S30,S9,Tier 1,Retain calendar support affecting panel comparisons; forecast-interval rows are a separate task.
+C031,S31,S10,Tier 1,"All nonzero, negative, and exact-zero contributions retained; repeated all-zero rows become one note."
+C032,S32,,Tier 3 / text-retained diagnostic,Complete subsequent-sample forecasting is outside same-sample reconstruction.
+C033,S33,,Tier 3 / text-retained diagnostic,Follow-up allocation is a distinct decision-analysis extension.
+C034,S34,S9,Tier 1,Retain calendar support affecting panel comparisons; forecast-interval rows are a separate task.
+C035,S35,S11,Tier 1,Direct evidence for the main argument
+C036,S36,S12,Tier 2,Direct evidence for the main argument
+C037,S37,S13,Tier 2,Direct evidence for the main argument
+C038,S38,,Tier 3 / text-retained diagnostic,Selective-confidence diagnostic summarized in Text S12; full policy grid archived.
+C039,S39,S21,Tier 1,Direct evidence for the main argument
+C040,S40,S22,Tier 1,Direct evidence for the main argument
+C041,S41,S23,Tier 2,Count strata explain the external gain; exhaustive sparse sub-strata remain in the archive.
+C042,S42,,Tier 3 / text-retained diagnostic,Numerical smoothing grid summarized in Text S15.
+C043,S43,S24,Tier 1,Direct evidence for the main argument
+C044,S44,S25,Tier 1,Direct evidence for the main argument
+C045,S45,S26,Tier 1,Direct evidence for the main argument
+C046,S46,S27,Tier 1,Direct evidence for the main argument
+C047,S47,,Tier 3 / text-retained diagnostic,Endpoint/seed/training-duration grid; coherence limitation remains in Text S16.
+C048,S48,S29,Tier 1,"Simple empirical and conditional-Bernoulli comparators, including Washington failures and additional-19 gains."
+C049,S49,"S28,S29",Tier 1,"Count-only, flags, and concentrations distinguish measurement information without hiding null or adverse increments.; Simple empirical and conditional-Bernoulli comparators, including Washington failures and additional-19 gains."
+C050,S50,,Tier 3 / text-retained diagnostic,"Additional post-result identity architectures, mixing, and fine-tuning; unsuccessful geographic transport remains disclosed."
+C051,S51,S30,Tier 1,"Common support and all K≥2 model conditions, including the count prior, in one location."
+C052,S52,S31,Tier 1,"Every positive, null, and adverse designated contrast is retained; duplicate signed contrast-bias grids are archived."
+C053,S53,S35,Tier 1,Direct evidence for the main argument
+C054,S54,S32,Tier 2,Direct evidence for the main argument
+C055,S55,S33,Tier 1,Direct evidence for the main argument
+C056,S56,"S30,S31",Tier 1,"Common support and all K≥2 model conditions, including the count prior, in one location.; Every positive, null, and adverse designated contrast is retained; duplicate signed contrast-bias grids are archived."
+C057,S57,S34,Tier 1,Direct evidence for the main argument

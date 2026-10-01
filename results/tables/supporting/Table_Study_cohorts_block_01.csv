@@ -1,0 +1,11 @@
+Scientific question / comparison,Evaluation support,Threshold / panel,Aggregation,Main figure
+Cross-cycle reporting,"7,677 matched pairs; 2,421 PWSs",Shared six; native and older cutoffs,Jurisdiction/PWS equal,1–2
+Same-sample panel coverage,"7,662 matched events; 2,419 PWSs",Six versus 25; native limits,Event equal (descriptive),2c
+Panel effect on system comparison,"20,162 events; 7,911 PWSs",Six versus 25; native and raised floors,Common pooled-location stratum weights,3a–c
+Paired-sample composition retention,"25,756 locations; 3,647 reference positive",First / two samples; six / 25,Location equal within reference-positive set,3d; S3
+Fixed-margin joint prediction,"21,156 held-out events; 8,316 PWSs",16 threshold queries; shared six,Jurisdiction/PWS equal,4
+Additional measurement information,"26,423 events; 10,236 PWSs",Native shared-six targets; three auxiliaries,"Jurisdiction/PWS equal; identity count 1–5: 3,491 events",5a–b
+Washington fixed-margin transport,"1,923 proxy events; 1,542 PWSs",16 queries; shared six,Event equal,Tables –
+Washington auxiliary transport,"1,819 proxy events; 1,456 PWSs",Native targets; same three auxiliaries,PWS equal; identity count 1–5: 133 events,5c–d
+Aligned chemical scoring,"21,134 UCMR 5 / 1,819 Washington events",Native targets; observed count used only in scoring,Jurisdiction/PWS equal / PWS equal; all events,7
+Aligned system contrasts,"15,723 UCMR 5 / 1,818 Washington events",Native targets; common source support,Common pooled-location stratum weights,6; S8

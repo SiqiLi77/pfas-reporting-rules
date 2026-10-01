@@ -1,0 +1,85 @@
+section,table,block,title,file,rows,columns,source
+supporting,Study_cohorts,1,Cohorts and analysis targets (Text S1),results/tables/supporting/Table_Study_cohorts_block_01.csv,11,5,Final Word V1.59
+supporting,S1,1,Table S1. Cohort construction and administrative matching,results/tables/supporting/Table_S1_block_01.csv,8,3,Final Word V1.59
+supporting,S1,2,Table S1. Cohort construction and administrative matching,results/tables/supporting/Table_S1_block_02.csv,5,6,Final Word V1.59
+supporting,S1,3,Table S1. Cohort construction and administrative matching,results/tables/supporting/Table_S1_block_03.csv,3,6,Final Word V1.59
+supporting,S2,1,Table S2. Cross-cycle reporting contrasts under alternative weighting schemes,results/tables/supporting/Table_S2_block_01.csv,4,4,Final Word V1.59
+supporting,S2,2,Table S2. Cross-cycle reporting contrasts under alternative weighting schemes,results/tables/supporting/Table_S2_block_02.csv,9,4,Final Word V1.59
+supporting,S3,1,Table S3. Paired shared-cutoff transitions and threshold sensitivity,results/tables/supporting/Table_S3_block_01.csv,4,4,Final Word V1.59
+supporting,S3,2,Table S3. Paired shared-cutoff transitions and threshold sensitivity,results/tables/supporting/Table_S3_block_02.csv,5,2,Final Word V1.59
+supporting,S3,3,Table S3. Paired shared-cutoff transitions and threshold sensitivity,results/tables/supporting/Table_S3_block_03.csv,6,2,Final Word V1.59
+supporting,S4,1,Table S4. Cross-cycle contrasts across sample-event rounds,results/tables/supporting/Table_S4_block_01.csv,5,4,Final Word V1.59
+supporting,S4,2,Table S4. Cross-cycle contrasts across sample-event rounds,results/tables/supporting/Table_S4_block_02.csv,5,4,Final Word V1.59
+supporting,S4,3,Table S4. Cross-cycle contrasts across sample-event rounds,results/tables/supporting/Table_S4_block_03.csv,5,4,Final Word V1.59
+supporting,S5,1,Table S5. Exact-pattern transitions after applying older reporting cutoffs,results/tables/supporting/Table_S5_block_01.csv,7,5,Final Word V1.59
+supporting,S5,2,Table S5. Exact-pattern transitions after applying older reporting cutoffs,results/tables/supporting/Table_S5_block_02.csv,10,5,Final Word V1.59
+supporting,S6,1,Table S6. Six- and 25-analyte reporting within matched samples,results/tables/supporting/Table_S6_block_01.csv,4,3,Final Word V1.59
+supporting,S6,2,Table S6. Six- and 25-analyte reporting within matched samples,results/tables/supporting/Table_S6_block_02.csv,6,3,Final Word V1.59
+supporting,S6,3,Table S6. Six- and 25-analyte reporting within matched samples,results/tables/supporting/Table_S6_block_03.csv,26,3,Final Word V1.59
+supporting,S7,1,Table S7. Integrated reporting-state frequencies under concentration reassignment,results/tables/supporting/Table_S7_block_01.csv,5,4,Final Word V1.59
+supporting,S8,1,Table S8. Paired-sample composition retention and sensitivity,results/tables/supporting/Table_S8_block_01.csv,9,2,Final Word V1.59
+supporting,S8,2,Table S8. Paired-sample composition retention and sensitivity,results/tables/supporting/Table_S8_block_02.csv,9,5,Final Word V1.59
+supporting,S8,3,Table S8. Paired-sample composition retention and sensitivity,results/tables/supporting/Table_S8_block_03.csv,9,5,Final Word V1.59
+supporting,S9,1,Table S9. Panel-induced supply-system contrasts and population sensitivity,results/tables/supporting/Table_S9_block_01.csv,4,3,Final Word V1.59
+supporting,S9,2,Table S9. Panel-induced supply-system contrasts and population sensitivity,results/tables/supporting/Table_S9_block_02.csv,5,4,Final Word V1.59
+supporting,S9,3,Table S9. Panel-induced supply-system contrasts and population sensitivity,results/tables/supporting/Table_S9_block_03.csv,5,5,Final Word V1.59
+supporting,S10,1,Table S10. Added-analyte contributions to the panel-induced group-contrast change,results/tables/supporting/Table_S10_block_01.csv,9,4,Final Word V1.59
+supporting,S11,1,Table S11. Reporting floors and standardized panel contrasts,results/tables/supporting/Table_S11_block_01.csv,6,6,Final Word V1.59
+supporting,S12,1,Table S12. Observed panel effects and an independence reference,results/tables/supporting/Table_S12_block_01.csv,6,4,Final Word V1.59
+supporting,S13,1,Table S13. Quantified concentration sums and bounds on group contrasts,results/tables/supporting/Table_S13_block_01.csv,5,5,Final Word V1.59
+supporting,S13,2,Table S13. Quantified concentration sums and bounds on group contrasts,results/tables/supporting/Table_S13_block_02.csv,5,3,Final Word V1.59
+supporting,S14,1,Table S14. Marginal-probability interface and endpoint-model comparison,results/tables/supporting/Table_S14_block_01.csv,2,7,Final Word V1.59
+supporting,S14,2,Table S14. Marginal-probability interface and endpoint-model comparison,results/tables/supporting/Table_S14_block_02.csv,4,4,Final Word V1.59
+supporting,S15,1,Table S15. Contributions of site metadata and visible co-analytes to marginal prediction,results/tables/supporting/Table_S15_block_01.csv,5,3,Final Word V1.59
+supporting,S15,2,Table S15. Contributions of site metadata and visible co-analytes to marginal prediction,results/tables/supporting/Table_S15_block_02.csv,6,3,Final Word V1.59
+supporting,S15,3,Table S15. Contributions of site metadata and visible co-analytes to marginal prediction,results/tables/supporting/Table_S15_block_03.csv,3,6,Final Word V1.59
+supporting,S16,1,Table S16. Fixed-margin scores and count–identity decomposition,results/tables/supporting/Table_S16_block_01.csv,5,5,Final Word V1.59
+supporting,S16,2,Table S16. Fixed-margin scores and count–identity decomposition,results/tables/supporting/Table_S16_block_02.csv,5,3,Final Word V1.59
+supporting,S16,3,Table S16. Fixed-margin scores and count–identity decomposition,results/tables/supporting/Table_S16_block_03.csv,4,4,Final Word V1.59
+supporting,S16,4,Table S16. Fixed-margin scores and count–identity decomposition,results/tables/supporting/Table_S16_block_04.csv,4,3,Final Word V1.59
+supporting,S16,5,Table S16. Fixed-margin scores and count–identity decomposition,results/tables/supporting/Table_S16_block_05.csv,3,2,Final Word V1.59
+supporting,S17,1,Table S17. Record-equal calibration and ranking for multi-PFAS reporting,results/tables/supporting/Table_S17_block_01.csv,4,6,Final Word V1.59
+supporting,S18,1,Table S18. Exact-pattern contributions to complete-pattern prediction gains,results/tables/supporting/Table_S18_block_01.csv,9,4,Final Word V1.59
+supporting,S18,2,Table S18. Exact-pattern contributions to complete-pattern prediction gains,results/tables/supporting/Table_S18_block_02.csv,7,4,Final Word V1.59
+supporting,S18,3,Table S18. Exact-pattern contributions to complete-pattern prediction gains,results/tables/supporting/Table_S18_block_03.csv,4,4,Final Word V1.59
+supporting,S19,1,Table S19. Empirical-composition references and structured-model comparisons,results/tables/supporting/Table_S19_block_01.csv,7,4,Final Word V1.59
+supporting,S19,2,Table S19. Empirical-composition references and structured-model comparisons,results/tables/supporting/Table_S19_block_02.csv,7,4,Final Word V1.59
+supporting,S19,3,Table S19. Empirical-composition references and structured-model comparisons,results/tables/supporting/Table_S19_block_03.csv,7,4,Final Word V1.59
+supporting,S20,1,Table S20. Frozen-model evaluation on events first appearing in the final archive,results/tables/supporting/Table_S20_block_01.csv,3,6,Final Word V1.59
+supporting,S20,2,Table S20. Frozen-model evaluation on events first appearing in the final archive,results/tables/supporting/Table_S20_block_02.csv,3,5,Final Word V1.59
+supporting,S20,3,Table S20. Frozen-model evaluation on events first appearing in the final archive,results/tables/supporting/Table_S20_block_03.csv,4,6,Final Word V1.59
+supporting,S20,4,Table S20. Frozen-model evaluation on events first appearing in the final archive,results/tables/supporting/Table_S20_block_04.csv,4,5,Final Word V1.59
+supporting,S21,1,Table S21. External cohorts and within-record cutoff reclassification,results/tables/supporting/Table_S21_block_01.csv,5,6,Final Word V1.59
+supporting,S22,1,Table S22. Washington prediction gains under alternative resampling schemes,results/tables/supporting/Table_S22_block_01.csv,17,7,Final Word V1.59
+supporting,S23,1,Table S23. Washington prediction gains by observed report count,results/tables/supporting/Table_S23_block_01.csv,9,8,Final Word V1.59
+supporting,S24,1,"Table S24. Cohorts, endpoints, and weighting for auxiliary-measurement analyses",results/tables/supporting/Table_S24_block_01.csv,5,4,Final Word V1.59
+supporting,S25,1,Table S25. Native-limit prediction scores across auxiliary-input levels,results/tables/supporting/Table_S25_block_01.csv,9,7,Final Word V1.59
+supporting,S26,1,Table S26. Paired prediction gains from additional auxiliary information,results/tables/supporting/Table_S26_block_01.csv,25,6,Final Word V1.59
+supporting,S27,1,Table S27. Washington prediction with and without auxiliary measurements,results/tables/supporting/Table_S27_block_01.csv,16,7,Final Word V1.59
+supporting,S28,1,Table S28. Washington prediction across auxiliary-information levels,results/tables/supporting/Table_S28_block_01.csv,5,3,Final Word V1.59
+supporting,S28,2,Table S28. Washington prediction across auxiliary-information levels,results/tables/supporting/Table_S28_block_02.csv,3,3,Final Word V1.59
+supporting,S29,1,Table S29. Strong conditional-identity benchmarks,results/tables/supporting/Table_S29_block_01.csv,6,4,Final Word V1.59
+supporting,S29,2,Table S29. Strong conditional-identity benchmarks,results/tables/supporting/Table_S29_block_02.csv,6,4,Final Word V1.59
+supporting,S29,3,Table S29. Strong conditional-identity benchmarks,results/tables/supporting/Table_S29_block_03.csv,5,4,Final Word V1.59
+supporting,S29,4,Table S29. Strong conditional-identity benchmarks,results/tables/supporting/Table_S29_block_04.csv,4,2,Final Word V1.59
+supporting,S30,1,Table S30. Measured and reconstructed supply-system reporting rates,results/tables/supporting/Table_S30_block_01.csv,5,6,Final Word V1.59
+supporting,S30,2,Table S30. Measured and reconstructed supply-system reporting rates,results/tables/supporting/Table_S30_block_02.csv,14,4,Final Word V1.59
+supporting,S30,3,Table S30. Measured and reconstructed supply-system reporting rates,results/tables/supporting/Table_S30_block_03.csv,9,4,Final Word V1.59
+supporting,S31,1,Table S31. Reconstruction of the four designated group contrasts,results/tables/supporting/Table_S31_block_01.csv,7,5,Final Word V1.59
+supporting,S31,2,Table S31. Reconstruction of the four designated group contrasts,results/tables/supporting/Table_S31_block_02.csv,4,5,Final Word V1.59
+supporting,S31,3,Table S31. Reconstruction of the four designated group contrasts,results/tables/supporting/Table_S31_block_03.csv,2,2,Final Word V1.59
+supporting,S32,1,Table S32. Source-group prediction scores and sensitivity of group contrasts,results/tables/supporting/Table_S32_block_01.csv,10,4,Final Word V1.59
+supporting,S32,2,Table S32. Source-group prediction scores and sensitivity of group contrasts,results/tables/supporting/Table_S32_block_02.csv,6,4,Final Word V1.59
+supporting,S32,3,Table S32. Source-group prediction scores and sensitivity of group contrasts,results/tables/supporting/Table_S32_block_03.csv,3,4,Final Word V1.59
+supporting,S33,1,Table S33. Single-PFAS and expected-count biases by supply-system category,results/tables/supporting/Table_S33_block_01.csv,7,4,Final Word V1.59
+supporting,S33,2,Table S33. Single-PFAS and expected-count biases by supply-system category,results/tables/supporting/Table_S33_block_02.csv,7,4,Final Word V1.59
+supporting,S33,3,Table S33. Single-PFAS and expected-count biases by supply-system category,results/tables/supporting/Table_S33_block_03.csv,3,4,Final Word V1.59
+supporting,S34,1,Table S34. PFHxS–PFOS reconstruction in Washington,results/tables/supporting/Table_S34_block_01.csv,6,4,Final Word V1.59
+supporting,S34,2,Table S34. PFHxS–PFOS reconstruction in Washington,results/tables/supporting/Table_S34_block_02.csv,3,6,Final Word V1.59
+supporting,S34,3,Table S34. PFHxS–PFOS reconstruction in Washington,results/tables/supporting/Table_S34_block_03.csv,4,4,Final Word V1.59
+supporting,S34,4,Table S34. PFHxS–PFOS reconstruction in Washington,results/tables/supporting/Table_S34_block_04.csv,5,3,Final Word V1.59
+supporting,S35,1,Table S35. Count-conditioned prediction gains for chemical classes and PFAS pairs,results/tables/supporting/Table_S35_block_01.csv,7,5,Final Word V1.59
+supporting,S35,2,Table S35. Count-conditioned prediction gains for chemical classes and PFAS pairs,results/tables/supporting/Table_S35_block_02.csv,4,5,Final Word V1.59
+supporting,S35,3,Table S35. Count-conditioned prediction gains for chemical classes and PFAS pairs,results/tables/supporting/Table_S35_block_03.csv,4,5,Final Word V1.59
+main,1,1,Table 1,results/tables/main/Table_1_block_01.csv,7,5,Final Word V1.59
+main,2,1,Table 2,results/tables/main/Table_2_block_01.csv,5,3,Final Word V1.59

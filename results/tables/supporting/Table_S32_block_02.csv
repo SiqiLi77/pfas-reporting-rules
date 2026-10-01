@@ -1,0 +1,6 @@
+Condition,Primary contrast,Equal-jurisdiction contrast,Leave-one contrast range
+Measured at native cutoffs,0.307,-3.532,-1.777 to 1.925
+"Independent, fixed margins",-1.876,-3.456,-2.208 to -1.340
+"Shared shock, fixed margins",-2.374,-3.518,-2.702 to -1.825
+"Gaussian factor-2, fixed margins",-2.147,-3.303,-2.466 to -1.657
+Training empirical composition,-0.363,-0.534,-0.503 to -0.196

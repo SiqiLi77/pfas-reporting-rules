@@ -1,0 +1,5 @@
+Analysis,Events,PWSs,Primary target and weighting
+National auxiliary comparison,"26,423","10,236",Native endpoint; jurisdiction/PWS equal; five evaluation folds
+Washington eligible auxiliary cohort,"1,854","1,481",Eight metadata scenarios; native endpoint; PWS equal
+Washington auxiliary proxy subset,"1,819","1,456",Native endpoint; PWS equal
+Earlier Washington fixed-margin comparison,"1,923","1,542",16 threshold queries averaged within event; event equal

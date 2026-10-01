@@ -1,0 +1,4 @@
+cohort,condition,endpoint,quantity,estimate,lower95,upper95,finite_draws
+national,count_prior,multiple,GW_rate,0.09505259683751807,0.09327589947381454,0.09727721920751756,4998
+national,count_prior,multiple,SW_rate,0.07098905345832993,0.0692654587543929,0.07305226001620703,4998
+national,count_prior,multiple,SW_minus_GW,-0.024063543379188146,-0.026914798804896844,-0.021289201605849246,4998

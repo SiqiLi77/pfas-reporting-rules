@@ -1,0 +1,5 @@
+model,count_loss_nats,identity_loss_nats,pattern_loss_nats,source
+Independent,0.185354,0.054597,0.239951,Table S23; rounded to six decimals
+Count prior,0.150596,0.055072,0.205668,Table S23; rounded to six decimals
+Shared shock,0.15097,0.053606,0.2045759999999999,Table S23; rounded to six decimals
+Gaussian factor-2,0.150669,0.054851,0.2055199999999999,Table S23; rounded to six decimals

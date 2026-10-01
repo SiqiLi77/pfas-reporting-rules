@@ -1,0 +1,7 @@
+Blocked paired contrast,Recall group,"Difference, percentage points (95% interval)"
+20% floor + ranking versus Initial count,overall recall,"-37.37 (-41.58, -33.48)"
+20% floor + ranking versus Initial count,initial zero recall,"25.87 (18.65, 33.35)"
+20% floor + random versus Initial count,overall recall,"-40.03 (-43.55, -36.85)"
+20% floor + random versus Initial count,initial zero recall,"14.72 (13.46, 15.61)"
+20% floor + ranking versus 20% floor + random,overall recall,"2.65 (0.99, 4.45)"
+20% floor + ranking versus 20% floor + random,initial zero recall,"11.14 (4.20, 18.73)"

@@ -1,0 +1,5 @@
+Diagnostic,Value
+"Matched PWSs with any K6≥2 event, UCMR 3 native limits","26 of 2,421"
+"Matched PWSs with any K6≥2 event, UCMR 5 native limits","437 of 2,421"
+"Matched PWSs with any K6≥2 event, UCMR 5 at UCMR 3 cutoffs","10 of 2,421"
+"Reporting jurisdictions with any K6≥2 event, respectively",13; 34; 8

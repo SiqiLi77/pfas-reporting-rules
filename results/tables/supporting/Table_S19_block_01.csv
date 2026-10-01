@@ -1,0 +1,7 @@
+Prediction scheme,Pattern NLL,Count NLL,Conditional-identity NLL
+Conditional independence,0.239951,0.185354,0.054597
+Shared-shock,0.204576,0.150970,0.053606
+Gaussian factor model,0.205520,0.150669,0.054851
+Query-wise empirical,0.214398,0.157055,0.057344
+"Coherent, location-equal, λ=1",0.218209,0.158980,0.059229
+"Coherent, hierarchy-weighted, λ=1",0.220167,0.159798,0.060368

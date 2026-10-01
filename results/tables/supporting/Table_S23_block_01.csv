@@ -1,0 +1,9 @@
+Count,Candidate,Event–threshold records,Events,Mean pattern gain within count stratum,Conditional identity gain,Identity 95% interval,"Zero-support draws / 10,000"
+0,Shared shock,"30,082","1,914",0.0083,0.0000,"0.0000, 0.0000",0
+0,Gaussian factor-2,"30,082","1,914",0.0071,0.0000,"0.0000, 0.0000",0
+1,Shared shock,376,109,-0.6388,0.0194,"-0.0370, 0.0760",0
+1,Gaussian factor-2,376,109,-0.5162,0.0139,"-0.0252, 0.0517",0
+2–5,Shared shock,291,66,3.9891,-0.1772,"-0.4749, 0.0478",0
+2–5,Gaussian factor-2,291,66,4.0002,-0.0853,"-0.2595, 0.0924",0
+6,Shared shock,19,3,2.9709,0.0000,"0.0000, 0.0000","1,401"
+6,Gaussian factor-2,19,3,2.7946,0.0000,"0.0000, 0.0000","1,401"

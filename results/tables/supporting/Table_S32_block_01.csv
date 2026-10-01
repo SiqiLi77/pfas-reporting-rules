@@ -1,0 +1,10 @@
+Model,Score,Groundwater,Surface water
+"Independent, fixed margins",Complete-pattern NLL,1.015256,1.186420
+"Independent, fixed margins",Count NLL,0.799049,0.913220
+"Independent, fixed margins",K6≥2 Brier,0.067584,0.077022
+"Shared shock, fixed margins",Complete-pattern NLL,0.768806,0.935409
+"Shared shock, fixed margins",Count NLL,0.547008,0.673958
+"Shared shock, fixed margins",K6≥2 Brier,0.066510,0.074312
+"Gaussian factor-2, fixed margins",Complete-pattern NLL,0.769335,0.939936
+"Gaussian factor-2, fixed margins",Count NLL,0.550621,0.674281
+"Gaussian factor-2, fixed margins",K6≥2 Brier,0.066267,0.074236

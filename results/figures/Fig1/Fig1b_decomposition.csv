@@ -1,0 +1,4 @@
+contrast,estimate_pp,ci95_low_pp,ci95_high_pp,label
+native_period,6.600986012215078,4.105662580910987,9.488754766549825,Native cross-cycle
+within_ucmr5_threshold_shift,6.834630651700668,4.282872108502192,9.759082259813832,UCMR 5 cutoff reclassification
+common_threshold_period,-0.2336446394855897,-0.5219455376664756,-0.05266568911911,Shared-cutoff cross-cycle

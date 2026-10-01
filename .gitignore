@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.release-cache/
+replay/
+data/
+work/
+outputs/
+*.pt
+*.npz
+*.zip
+*.log

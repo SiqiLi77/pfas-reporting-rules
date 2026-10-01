@@ -1,0 +1,226 @@
+[
+  {
+    "file": "src/analyze_concentration_panel_v1_29.py",
+    "sha256": "726d3a61fbd94f958bdae4181c3468f8d4d68076614b92e81bea4d812178387e"
+  },
+  {
+    "file": "src/analyze_observation_design_20260925.py",
+    "sha256": "b34c720ab0c031446fcbc4ad21ba8038d4f5c7ba90c2e80aca93eee5ead55a25"
+  },
+  {
+    "file": "src/analyze_ucmr5_conditional_gaussian_factor.py",
+    "sha256": "d75eb651b656a09ae4a4c5978d1bfe386dc59bd1216294988d75ea239864d662"
+  },
+  {
+    "file": "src/analyze_ucmr5_conditional_joint_models.py",
+    "sha256": "7352c3569112044911d175e1bf436bd604e020b54ddff52e8f12bba8d9a657ff"
+  },
+  {
+    "file": "src/analyze_ucmr5_count_baseline_20260924.py",
+    "sha256": "3a5d134aa189564ae92fa1deb73727696e2d2d4ff6cae3c0a8724a7e9c03c460"
+  },
+  {
+    "file": "src/analyze_ucmr5_joint_information_decomposition.py",
+    "sha256": "5d12325b86c2d4ac85d6b40843d82649978901464a1a647a6e0dfdb217f5e1fb"
+  },
+  {
+    "file": "src/analyze_ucmr5_joint_strong_baselines.py",
+    "sha256": "2a0552d5cf712446b0b9effd00d33699a51ce74ca5ed13b4ab1262661b51a11d"
+  },
+  {
+    "file": "src/analyze_ucmr5_margin_preserving_joint.py",
+    "sha256": "e6c29cde89613ea212be4e30d8543993a8cdebeefe86a5c7979dbaf0f5368373"
+  },
+  {
+    "file": "src/analyze_ucmr5_multithreshold_joint_curve.py",
+    "sha256": "b678c946513191767c53e94ede90a95ad1bf6c9217989b5158b9c6bae3fe6f54"
+  },
+  {
+    "file": "src/analyze_ucmr5_panel_coverage_20260924.py",
+    "sha256": "4613533838c56ff61f613cf3b2885f3f57f16e5f4d99ea11a620fca976ca931f"
+  },
+  {
+    "file": "src/analyze_ucmr5_threshold_pattern_transitions.py",
+    "sha256": "32adce0f789c788ca442ddb558a7484b6988744db221e4d804921dbd4b1f18b1"
+  },
+  {
+    "file": "src/analyze_ucmr_cross_cycle_count_mrl_robustness.py",
+    "sha256": "cd82cd68466bf8a5da0d8eadeb6f64311393ab0003560699b061220f78d1b455"
+  },
+  {
+    "file": "src/analyze_ucmr_cross_cycle_event_sensitivity.py",
+    "sha256": "c93a310aadc94e519bfd3ab8dd15d2a8375ac963bb86db9f1960ff0d8f75e990"
+  },
+  {
+    "file": "src/analyze_ucmr_cross_cycle_mixture_observability.py",
+    "sha256": "18852b6d789524bd1ab4884e7352fbcdd8ced9c6c5122515dc18e7c6f2268656"
+  },
+  {
+    "file": "src/analyze_ucmr_cross_cycle_strict_sensitivities.py",
+    "sha256": "c914ac2bc7fbcc643c99201ecb71c0cd611bb6805fb68403ffdff7521ead759f"
+  },
+  {
+    "file": "src/audit_ucmr5_information_nested_bootstrap.py",
+    "sha256": "62d2c77735a1c04069051f4bfd492c31fcf3a4fb41e9970a18dce9a95b882c6b"
+  },
+  {
+    "file": "src/audit_ucmr_cross_cycle_identifier_confidence.py",
+    "sha256": "4301be0ec9fcc9af6947eeeec2685d473e904f2e893ed4d0179302b804dabcf9"
+  },
+  {
+    "file": "src/audit_ucmr_cross_cycle_observability.py",
+    "sha256": "3e34bdcdd79fc4be720d54451961dc05b49feb76e47762a550cb6040eac95e91"
+  },
+  {
+    "file": "src/audit_ucmr_se1_strict_event_key_20260815.py",
+    "sha256": "d94f7509ece81469b2a0533eb96317b019b6c13cde6991b0d129adca334ffbf9"
+  },
+  {
+    "file": "src/boolean_monotone_transport.cpp",
+    "sha256": "b1729e2aaf6fab62370f4e3eb78c4bcbea860942058fc669483811b5238324c0"
+  },
+  {
+    "file": "src/complete_wa_external_evaluation_20260926.py",
+    "sha256": "87583644c6a27d823534076d2589107f9fec5509e4470c7d1fb41972a51ef3c5"
+  },
+  {
+    "file": "src/environmental_reconstruction_20260927.py",
+    "sha256": "3bec12021ebd1807f12f75c73bac68be5d74487481b80ae9b4e464504bfe3c39"
+  },
+  {
+    "file": "src/marginal_source_diagnostic_20260927.py",
+    "sha256": "085d3a159a7d8686a7b803dbdda6a27600721bf8347b20c43d5d6aaecb2fd93c"
+  },
+  {
+    "file": "src/merge_censored_distribution_folds.py",
+    "sha256": "7eeacff7526ec393e327ccb94a0ae41a35fef9cb554be1e5af744b3b89dae03c"
+  },
+  {
+    "file": "src/merge_ucmr5_nested_joint_training_margins.py",
+    "sha256": "d1aa521f980c3a73ce53f52510a552cb88ae9a788190d68a408d7398fdaefc21"
+  },
+  {
+    "file": "src/prepare_auxiliary_information_20260926.py",
+    "sha256": "400e6e6ef2e27ab70e8410add59df6ff4319920e90222bdcae7835381ac63991"
+  },
+  {
+    "file": "src/prepare_monitoring_followup_20260925.py",
+    "sha256": "9b8affd8be1a78e5562c73b3ea1c0a664f2f1cf8e9c2b8a117204c002d20e3c9"
+  },
+  {
+    "file": "src/prepare_observation_design_20260925.py",
+    "sha256": "01c93337b2cbc2ccd6c5dc2ec69814f174cdd062e187bab8eb75a39d650bf945"
+  },
+  {
+    "file": "src/replay_ucmr5_final_joint_probabilities.py",
+    "sha256": "663d4fd803cfcd3d415011a8b05ad6e8fd4d52d3099b8bfb78d4c2b09644b412"
+  },
+  {
+    "file": "src/research_expansion_common_20260925.py",
+    "sha256": "c395c96bf94d3374c96de7d4ef4df6139986a5827f1f05fe7789efe7122f9fd3"
+  },
+  {
+    "file": "src/run_auxiliary_information_20260926.py",
+    "sha256": "782bea17b51c123248ee45fd6d35f0ff687f8b29c03bcfba274a8d3d29dc12f9"
+  },
+  {
+    "file": "src/run_conditional_identity_probe_20260925.py",
+    "sha256": "eaafc978b05c1b75923702b085b34a6c1a40b3a9e3563ae1347bd40d332ca946"
+  },
+  {
+    "file": "src/run_expansion_environment_20260925.py",
+    "sha256": "62c851edba4dac861f207307b1376b9489d30db3c20fa321e96ab6b506bc9504"
+  },
+  {
+    "file": "src/run_expansion_forecast_20260925.py",
+    "sha256": "e0d3c3c27ac970c8680f0b8d3803e7ab6b99d1e0fd0e22541ab37e48100d87d4"
+  },
+  {
+    "file": "src/run_expansion_panel_attribution_20260925.py",
+    "sha256": "5e2e4b2945c83ebba19a4cb032418a68ad2570626d4be1d33d5a54f41ba25531"
+  },
+  {
+    "file": "src/run_expansion_robust_environment_20260925.py",
+    "sha256": "9b73432702aab2dcad4239f662db3a5a9019507d262e81b477169e3713bcce35"
+  },
+  {
+    "file": "src/run_expansion_robust_forecast_20260925.py",
+    "sha256": "04212c1278dd9f22384539bed809fdbda4ab8cbe5dad5e06b0ec8358756f5fd7"
+  },
+  {
+    "file": "src/run_expansion_source_influence_20260925.py",
+    "sha256": "cce1729ad3c6f75b7dbbac75e44ff7fbc914ac749d364643d6f14b6873e0a2c3"
+  },
+  {
+    "file": "src/run_ucmr5_artificial_censor_screen.py",
+    "sha256": "b7b5c442bd78805c05ff17e2171872e137ec33378ed6fb22a206b014a41d7311"
+  },
+  {
+    "file": "src/run_ucmr5_censored_distribution_screen.py",
+    "sha256": "8706fff9bb02811ef85a1fb9c171a76873dff0fc9f5303d07b19bbd70a08ba70"
+  },
+  {
+    "file": "src/run_ucmr5_echo_hurdle_ablation.py",
+    "sha256": "5080d49c6de5585951d04ae813526cc731f6c9c15188caac8573e48b770b54d8"
+  },
+  {
+    "file": "src/run_ucmr5_echo_source_ablation.py",
+    "sha256": "5063868126969b8cda1ce46e06de4a7b45c482d9d9df049f56e2d30008d30f78"
+  },
+  {
+    "file": "src/run_ucmr5_nested_joint_training_margins.py",
+    "sha256": "a5e95dfffac9d8a1b2f11ab0b9439e45c8eca7d167de612bc813f8238f5f3285"
+  },
+  {
+    "file": "src/score_ucmr5_frozen_joint_release_vintage.py",
+    "sha256": "fa41df3c63af035cd2a59b73703b5ec244facaf7a5dc146ff1e2cf67aa1f8f83"
+  },
+  {
+    "file": "src/source_score_alignment_20260927.py",
+    "sha256": "d0e57f30a6c0c242b2789759a6107b8d86b7fbb384663d5751f65bd77d005bd6"
+  },
+  {
+    "file": "src/summarize_auxiliary_information_20260926.py",
+    "sha256": "f4d29f22aceba1fe1ae8ce948b8d99889a60ff69f34f738c2cf15dfba1af9c90"
+  },
+  {
+    "file": "src/summarize_cross_cycle_conditional_coreporting.py",
+    "sha256": "47c83b0cb194471b171a623ef2d8330640e3eb15c2003b6bad62bb207fc7b7e2"
+  },
+  {
+    "file": "src/validate_ucmr5_joint_information_robustness.py",
+    "sha256": "fa9b9bdc0de96d7c0eaa896a5ca846a15ec3a05b69fb54b3dee353c0140873c4"
+  },
+  {
+    "file": "scripts/fetch_assets.py",
+    "sha256": "d25257695e8f017a70da33a560fd332c0fe46452456770bcdeec8632e936457c"
+  },
+  {
+    "file": "scripts/reproduce.py",
+    "sha256": "f4eb2686be15eb4cb49868e62d2f81c04e9b133147d27cc264314df30a74fb27"
+  },
+  {
+    "file": "tests/test_auxiliary_information_20260926.py",
+    "sha256": "be2daa402fefffc28f2a888d9fe7f0f698c2951bc08d8ba82cc5dc16648de96b"
+  },
+  {
+    "file": "tests/test_environmental_reconstruction_20260927.py",
+    "sha256": "684add74caf33003a04c9b784dc04526afb463dec02f199ae1394d4fd11fff22"
+  },
+  {
+    "file": "tests/test_score_ucmr5_frozen_joint_release_vintage.py",
+    "sha256": "ba3ee9eb6a7c94abd5d9c69f585168c5ce79243754b95bef2dcd102c438f52b8"
+  },
+  {
+    "file": "tests/test_ucmr5_information_nested_bootstrap.py",
+    "sha256": "4d96940b81d65aa75d23599e7bad55a42f912b19e9ad5c41d2d15653eb1776a7"
+  },
+  {
+    "file": "tests/test_ucmr5_joint_information_decomposition.py",
+    "sha256": "b1eecc17ea583306298cc047f87ee0656bc006c259d367bc0e604804d238d91e"
+  },
+  {
+    "file": "tests/test_validate_ucmr5_joint_information_robustness.py",
+    "sha256": "3406ce8ab042d8a1e8c34473fa3ef8b9cabb3f60e4b542be4f5a7a47f41b421b"
+  }
+]

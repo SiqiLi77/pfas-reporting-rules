@@ -1,0 +1,58 @@
+old_table,new_pdf_tables,computational_record,decision,reason
+S1,S1,C001,retained/merged with selected details archived,Cohort denominators and nonrepresentative matching are read together.
+S2,,C002,text summary/computational supplement,Duplicate of main Table 1; methods retained in Text S1.
+S3,S2,C003,retained/merged with selected details archived,Direct evidence for the main argument
+S4,S4,C004,retained/merged with selected details archived,Direct evidence for the main argument
+S5,S1,C005,retained/merged with selected details archived,Cohort denominators and nonrepresentative matching are read together.
+S6,,C006,text summary/computational supplement,Full bound grid is a supporting mathematical detail; summary and derivation retained in Text S9.
+S7,S14,C007,retained/merged with selected details archived,"Adequacy and null advantage of the marginal interface, rather than architecture promotion."
+S8,S14,C008,retained/merged with selected details archived,"Adequacy and null advantage of the marginal interface, rather than architecture promotion."
+S9,,C009,text summary/computational supplement,Implementation audit summarized in Text S10; no performance claim rests on an audit table.
+S10,S16,C010,retained/merged with selected details archived,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+S11,S17,C011,retained/merged with selected details archived,Alternative record-equal calibration is not the primary proper-score estimand.
+S12,,C012,text summary/computational supplement,Fold and influence grid summarized in Text S12; full positive and negative sensitivity context preserved.
+S13,S3,C013,retained/merged with selected details archived,Keep paired evidence and numerical-cutoff sensitivity; completion arithmetic no longer drives a final-archive paper.
+S14,S18,C014,retained/merged with selected details archived,Direct evidence for the main argument
+S15,,C015,text summary/computational supplement,Release comparison summarized in Text S18; primary final-archive evidence is not duplicated.
+S16,S20,C016,retained/merged with selected details archived,A distinct frozen-vintage check remains visible with its sparse 69-event support and binary deterioration.
+S17,S5,C017,retained/merged with selected details archived,Direct evidence for the main argument
+S18,S15,C018,retained/merged with selected details archived,Direct evidence for the main argument
+S19,S16,C019,retained/merged with selected details archived,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+S20,S19,C020,retained/merged with selected details archived,Empirical baselines and both training-weight schemes remain; only the smoothing grid moves.
+S21,S16,C021,retained/merged with selected details archived,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+S22,S6,C022,retained/merged with selected details archived,Direct evidence for the main argument
+S23,S16,C023,retained/merged with selected details archived,"Absolute scores, binary and identity nulls, and the count-prior strong baseline form one inference."
+S24,S7,C024,retained/merged with selected details archived,Direct evidence for the main argument
+S25,,C025,text summary/computational supplement,Separate subsequent-sample allocation task.
+S26,,C026,text summary/computational supplement,Secondary scores for the separate subsequent-sample task.
+S27,S8,C027,retained/merged with selected details archived,"One table defines the paired reference, its retained information, and necessary sensitivity."
+S28,S8,C028,retained/merged with selected details archived,"One table defines the paired reference, its retained information, and necessary sensitivity."
+S29,,C029,text summary/computational supplement,Own-history positive and complexity-negative comparison summarized in Text S4; full subgroup/model details archived.
+S30,S9,C030,retained/merged with selected details archived,Retain calendar support affecting panel comparisons; forecast-interval rows are a separate task.
+S31,S10,C031,retained/merged with selected details archived,"All nonzero, negative, and exact-zero contributions retained; repeated all-zero rows become one note."
+S32,,C032,text summary/computational supplement,Complete subsequent-sample forecasting is outside same-sample reconstruction.
+S33,,C033,text summary/computational supplement,Follow-up allocation is a distinct decision-analysis extension.
+S34,S9,C034,retained/merged with selected details archived,Retain calendar support affecting panel comparisons; forecast-interval rows are a separate task.
+S35,S11,C035,retained/merged with selected details archived,Direct evidence for the main argument
+S36,S12,C036,retained/merged with selected details archived,Direct evidence for the main argument
+S37,S13,C037,retained/merged with selected details archived,Direct evidence for the main argument
+S38,,C038,text summary/computational supplement,Selective-confidence diagnostic summarized in Text S12; full policy grid archived.
+S39,S21,C039,retained/merged with selected details archived,Direct evidence for the main argument
+S40,S22,C040,retained/merged with selected details archived,Direct evidence for the main argument
+S41,S23,C041,retained/merged with selected details archived,Count strata explain the external gain; exhaustive sparse sub-strata remain in the archive.
+S42,,C042,text summary/computational supplement,Numerical smoothing grid summarized in Text S15.
+S43,S24,C043,retained/merged with selected details archived,Direct evidence for the main argument
+S44,S25,C044,retained/merged with selected details archived,Direct evidence for the main argument
+S45,S26,C045,retained/merged with selected details archived,Direct evidence for the main argument
+S46,S27,C046,retained/merged with selected details archived,Direct evidence for the main argument
+S47,,C047,text summary/computational supplement,Endpoint/seed/training-duration grid; coherence limitation remains in Text S16.
+S48,S29,C048,retained/merged with selected details archived,"Simple empirical and conditional-Bernoulli comparators, including Washington failures and additional-19 gains."
+S49,S28; S29,C049,retained/merged with selected details archived,"Count-only, flags, and concentrations distinguish measurement information without hiding null or adverse increments.; Simple empirical and conditional-Bernoulli comparators, including Washington failures and additional-19 gains."
+S50,,C050,text summary/computational supplement,"Additional post-result identity architectures, mixing, and fine-tuning; unsuccessful geographic transport remains disclosed."
+S51,S30,C051,retained/merged with selected details archived,"Common support and all K≥2 model conditions, including the count prior, in one location."
+S52,S31,C052,retained/merged with selected details archived,"Every positive, null, and adverse designated contrast is retained; duplicate signed contrast-bias grids are archived."
+S53,S35,C053,retained/merged with selected details archived,Direct evidence for the main argument
+S54,S32,C054,retained/merged with selected details archived,Direct evidence for the main argument
+S55,S33,C055,retained/merged with selected details archived,Direct evidence for the main argument
+S56,S30; S31,C056,retained/merged with selected details archived,"Common support and all K≥2 model conditions, including the count prior, in one location.; Every positive, null, and adverse designated contrast is retained; duplicate signed contrast-bias grids are archived."
+S57,S34,C057,retained/merged with selected details archived,Direct evidence for the main argument

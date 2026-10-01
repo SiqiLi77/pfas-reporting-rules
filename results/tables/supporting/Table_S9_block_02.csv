@@ -1,0 +1,5 @@
+Weighting / restriction,Six-panel contrast (95% CI),25-panel contrast (95% CI),Panel-induced change (95% CI)
+Location-proportional strata,"-0.97 (-1.93, -0.02)","3.67 (2.52, 4.82)","4.64 (3.88, 5.46)"
+PWS equal within strata,"-0.82 (-1.81, 0.16)","3.68 (2.38, 4.93)","4.50 (3.61, 5.35)"
+Jurisdiction equal,"-3.41 (-4.65, -2.24)","-0.85 (-2.33, 0.65)","2.56 (1.65, 3.54)"
+Excluding Texas,"-2.72 (-3.73, -1.72)","-1.17 (-2.32, 0.06)","1.55 (0.83, 2.32)"

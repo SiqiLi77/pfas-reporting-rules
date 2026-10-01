@@ -1,0 +1,4 @@
+Initial reports,Targets,"Empirical recall, %","Regression recall, %","Tree recall, %","Count-reference recall, %"
+None,217,20.03,18.70,20.55,5.28
+One,168,42.85,44.38,39.53,92.05
+At least two,527,58.38,62.03,53.68,99.92

@@ -1,0 +1,9 @@
+Model,Weighting,Visibility group,Pattern gain,Count gain,Identity gain
+Shared-shock,Primary,At least one visible,−0.000429,−0.000250,−0.000179
+Shared-shock,Primary,None visible,0.035804,0.034634,0.001170
+Shared-shock,Record-equal,At least one visible,0.000143,0.000322,−0.000180
+Shared-shock,Record-equal,None visible,0.054228,0.054182,0.000046
+Gaussian factor model,Primary,At least one visible,−0.000744,−0.000142,−0.000602
+Gaussian factor model,Primary,None visible,0.035174,0.034826,0.000348
+Gaussian factor model,Record-equal,At least one visible,0.000077,0.000428,−0.000351
+Gaussian factor model,Record-equal,None visible,0.054629,0.054513,0.000116

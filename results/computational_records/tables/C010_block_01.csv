@@ -1,0 +1,5 @@
+Joint distribution,Pattern NLL,Count CRPS,Count Brier score,$K_6\ge2$ Brier score
+"Conditional independence, with the same supplied marginal probabilities",0.239951,0.050604,0.067236,0.011401
+Conditional 17-component margin-preserving diagnostic,0.212956,0.047471,0.060273,0.011423
+Conditional shared-shock,0.204576,0.047199,0.059613,0.011490
+Conditional Gaussian factor model (rank 2),0.205520,0.047168,0.059564,0.011475

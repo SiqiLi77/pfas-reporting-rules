@@ -1,0 +1,332 @@
+{
+  "status": "PASS",
+  "new_experiments": false,
+  "sources": {
+    "S2": "outputs/ucmr5_final_20260828_r1/02_cross_cycle/strict_sensitivities/decision.json",
+    "S6": "outputs/monitoring_decision_20260925/cohort/fixed_method533_analytes.csv",
+    "S9": [
+      "outputs/research_expansion_20260925/source_influence/contrasts.csv",
+      "outputs/research_expansion_20260925/environment_robustness/pws_equal_source_contrasts.csv"
+    ],
+    "S18": "outputs/est_final_release_evidence_v1_4_20260913/complete_pattern_gain_contributions_primary_weighted.csv",
+    "S35": "outputs/environmental_reconstruction_20260927/conditional_endpoint_support.csv"
+  },
+  "subset_counts": [
+    {
+      "Restriction": "Administrative identifier match",
+      "Matched_location_pairs": 7677,
+      "PWSs": 2421,
+      "Jurisdictions": 57
+    },
+    {
+      "Restriction": "Metadata stable",
+      "Matched_location_pairs": 7433,
+      "PWSs": 2355,
+      "Jurisdictions": 57
+    },
+    {
+      "Restriction": "Normalized-name corroborated",
+      "Matched_location_pairs": 1734,
+      "PWSs": 464,
+      "Jurisdictions": 31
+    },
+    {
+      "Restriction": "Same calendar month",
+      "Matched_location_pairs": 845,
+      "PWSs": 338,
+      "Jurisdictions": 40
+    },
+    {
+      "Restriction": "Same meteorological season",
+      "Matched_location_pairs": 2122,
+      "PWSs": 773,
+      "Jurisdictions": 47
+    },
+    {
+      "Restriction": "Cyclic month distance <=1",
+      "Matched_location_pairs": 2131,
+      "PWSs": 790,
+      "Jurisdictions": 48
+    },
+    {
+      "Restriction": "Cyclic month distance <=2",
+      "Matched_location_pairs": 3487,
+      "PWSs": 1213,
+      "Jurisdictions": 51
+    },
+    {
+      "Restriction": "Cyclic month distance <=3",
+      "Matched_location_pairs": 4748,
+      "PWSs": 1567,
+      "Jurisdictions": 53
+    }
+  ],
+  "MRLs": [
+    {
+      "Analyte": "11Cl-PF3OUdS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 5.0,
+      "Native_UCMR5_MRL_ug_L": 0.005
+    },
+    {
+      "Analyte": "4:2 FTS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "6:2 FTS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 5.0,
+      "Native_UCMR5_MRL_ug_L": 0.005
+    },
+    {
+      "Analyte": "8:2 FTS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 5.0,
+      "Native_UCMR5_MRL_ug_L": 0.005
+    },
+    {
+      "Analyte": "9Cl-PF3ONS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 2.0,
+      "Native_UCMR5_MRL_ug_L": 0.002
+    },
+    {
+      "Analyte": "ADONA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "HFPO-DA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 5.0,
+      "Native_UCMR5_MRL_ug_L": 0.005
+    },
+    {
+      "Analyte": "NFDHA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 20.0,
+      "Native_UCMR5_MRL_ug_L": 0.02
+    },
+    {
+      "Analyte": "PFBA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 5.0,
+      "Native_UCMR5_MRL_ug_L": 0.005
+    },
+    {
+      "Analyte": "PFBS",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFDA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFDoA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFEESA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFHpA",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFHpS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFHxA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFHxS",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFMBA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFMPA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 4.0,
+      "Native_UCMR5_MRL_ug_L": 0.004
+    },
+    {
+      "Analyte": "PFNA",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 4.0,
+      "Native_UCMR5_MRL_ug_L": 0.004
+    },
+    {
+      "Analyte": "PFOA",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 4.0,
+      "Native_UCMR5_MRL_ug_L": 0.004
+    },
+    {
+      "Analyte": "PFOS",
+      "Panel_role": "Shared six",
+      "Native_UCMR5_MRL_ng_L": 4.0,
+      "Native_UCMR5_MRL_ug_L": 0.004
+    },
+    {
+      "Analyte": "PFPeA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 3.0,
+      "Native_UCMR5_MRL_ug_L": 0.003
+    },
+    {
+      "Analyte": "PFPeS",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 4.0,
+      "Native_UCMR5_MRL_ug_L": 0.004
+    },
+    {
+      "Analyte": "PFUnA",
+      "Panel_role": "Added 19",
+      "Native_UCMR5_MRL_ng_L": 2.0,
+      "Native_UCMR5_MRL_ug_L": 0.002
+    }
+  ],
+  "source_contrasts": [
+    {
+      "Weighting_or_restriction": "Location-proportional strata",
+      "Six_native_estimate_pp": -0.9716632155876034,
+      "Six_native_lower_pp": -1.927258911993309,
+      "Six_native_upper_pp": -0.021428147475683144,
+      "Six_native_finite_bootstrap_draws": 1994,
+      "Twentyfive_native_estimate_pp": 3.668778727499073,
+      "Twentyfive_native_lower_pp": 2.5192098853106026,
+      "Twentyfive_native_upper_pp": 4.822197883996506,
+      "Twentyfive_native_finite_bootstrap_draws": 1994,
+      "Panel_induced_change_estimate_pp": 4.640441943086676,
+      "Panel_induced_change_lower_pp": 3.8777810353688484,
+      "Panel_induced_change_upper_pp": 5.461799431748996,
+      "Panel_induced_change_finite_bootstrap_draws": 1994
+    },
+    {
+      "Weighting_or_restriction": "PWS equal within strata",
+      "Six_native_estimate_pp": -0.81743314962507,
+      "Six_native_lower_pp": -1.8087957273461595,
+      "Six_native_upper_pp": 0.15521535327476677,
+      "Six_native_finite_bootstrap_draws": 2000,
+      "Twentyfive_native_estimate_pp": 3.677963925502073,
+      "Twentyfive_native_lower_pp": 2.384518504416393,
+      "Twentyfive_native_upper_pp": 4.930829143565109,
+      "Twentyfive_native_finite_bootstrap_draws": 2000,
+      "Panel_induced_change_estimate_pp": 4.495397075127143,
+      "Panel_induced_change_lower_pp": 3.6060630349024123,
+      "Panel_induced_change_upper_pp": 5.353636120666582,
+      "Panel_induced_change_finite_bootstrap_draws": 2000
+    },
+    {
+      "Weighting_or_restriction": "Jurisdiction equal",
+      "Six_native_estimate_pp": -3.4111642121476464,
+      "Six_native_lower_pp": -4.646740735229282,
+      "Six_native_upper_pp": -2.2400807708565362,
+      "Six_native_finite_bootstrap_draws": 1994,
+      "Twentyfive_native_estimate_pp": -0.8473228071775276,
+      "Twentyfive_native_lower_pp": -2.3321152076319294,
+      "Twentyfive_native_upper_pp": 0.6480882994651506,
+      "Twentyfive_native_finite_bootstrap_draws": 1994,
+      "Panel_induced_change_estimate_pp": 2.563841404970119,
+      "Panel_induced_change_lower_pp": 1.648308126166776,
+      "Panel_induced_change_upper_pp": 3.5421883828802994,
+      "Panel_induced_change_finite_bootstrap_draws": 1994
+    },
+    {
+      "Weighting_or_restriction": "Excluding Texas",
+      "Six_native_estimate_pp": -2.7203736607745177,
+      "Six_native_lower_pp": -3.727818654440427,
+      "Six_native_upper_pp": -1.7163445009634932,
+      "Six_native_finite_bootstrap_draws": 1994,
+      "Twentyfive_native_estimate_pp": -1.1683181532710012,
+      "Twentyfive_native_lower_pp": -2.323726809739911,
+      "Twentyfive_native_upper_pp": 0.06168377377619803,
+      "Twentyfive_native_finite_bootstrap_draws": 1994,
+      "Panel_induced_change_estimate_pp": 1.5520555075035163,
+      "Panel_induced_change_lower_pp": 0.832802310699666,
+      "Panel_induced_change_upper_pp": 2.3216815962811426,
+      "Panel_induced_change_finite_bootstrap_draws": 1994
+    }
+  ],
+  "pattern_reconciliation": [
+    {
+      "Observed_pattern_group": "All unreported",
+      "Number_of_states": 1,
+      "Primary_weighted_observed_probability": 0.9665665684102431,
+      "Contribution_to_NLL_gain_nats": 0.025866883468238018
+    },
+    {
+      "Observed_pattern_group": "Eight displayed multi-PFAS patterns",
+      "Number_of_states": 8,
+      "Primary_weighted_observed_probability": 0.00741592297869679,
+      "Contribution_to_NLL_gain_nats": 0.020378590130801923
+    },
+    {
+      "Observed_pattern_group": "Six singleton patterns",
+      "Number_of_states": 6,
+      "Primary_weighted_observed_probability": 0.019798247472059386,
+      "Contribution_to_NLL_gain_nats": -0.017357697986428486
+    },
+    {
+      "Observed_pattern_group": "Remaining 49 exact patterns",
+      "Number_of_states": 49,
+      "Primary_weighted_observed_probability": 0.00621926113900065,
+      "Contribution_to_NLL_gain_nats": 0.006487634747878025
+    },
+    {
+      "Observed_pattern_group": "All 64 patterns",
+      "Number_of_states": 64,
+      "Primary_weighted_observed_probability": 1.0,
+      "Contribution_to_NLL_gain_nats": 0.035375410360489475
+    }
+  ],
+  "endpoint_support": [
+    {
+      "Cohort": "national",
+      "All_event_scoring_denominator": 21134,
+      "Functional_group_nondetermined_events": 2400,
+      "Pair_nondetermined_events": 1659,
+      "Functional_group_determining_counts": "0;4;5;6",
+      "Pair_determining_counts": "0;1;6"
+    },
+    {
+      "Cohort": "washington",
+      "All_event_scoring_denominator": 1819,
+      "Functional_group_nondetermined_events": 115,
+      "Pair_nondetermined_events": 69,
+      "Functional_group_determining_counts": "0;4;5;6",
+      "Pair_determining_counts": "0;1;6"
+    }
+  ],
+  "numerical_notes": [
+    "Displayed six-decimal pattern sums can differ by one final decimal from the unrounded total."
+  ],
+  "no_unrecoverable_outputs_in_assigned_scope": true
+}

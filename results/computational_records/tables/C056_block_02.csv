@@ -1,0 +1,5 @@
+Candidate,Error reduction (95% interval)
+Shared shock,"-0.498 (-0.556, -0.426)"
+Gaussian factor-2,"-0.270 (-0.327, -0.200)"
+Count-prior diagnostic,"-0.530 (-0.568, -0.485)"
+Training empirical composition,"1.513 (0.648, 1.573)"
