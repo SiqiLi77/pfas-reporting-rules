@@ -1,0 +1,13 @@
+rule,EP_flagged,PWS_flagged,pop_lower_M,pop_upper_M,PWS_not_flagged_by_US_PFOA_PFOS,pop_not_flagged_by_US_PFOA_PFOS_M
+U.S. PFOA/PFOS (2026 proposal),2099,1173,29.1,56.6,0,0.0
+U.S. 2024 rule (six standards),2115,1182,29.2,56.8,9,0.1
+"Denmark PFAS-4, 2 ng/L",3228,1736,43.7,79.2,563,22.6
+"Netherlands RIVM, 4.4 ng PFOA-eq/L",2708,1506,37.5,71.9,342,15.5
+"Sweden PFAS-4, 4 ng/L",2573,1418,35.2,68.7,245,12.1
+"Canada 25-PFAS sum, 30 ng/L",1143,694,18.3,38.9,140,5.8
+"Massachusetts PFAS6, 20 ng/L",660,411,9.8,24.9,4,0.1
+"Vermont PFAS5 (2020), 20 ng/L",659,411,9.8,24.9,4,0.1
+"Germany PFAS-4, 20 ng/L",594,378,8.9,23.5,4,0.1
+"New Jersey, 13–14 ng/L",416,275,7.1,16.6,2,0.0
+"EU 20-PFAS sum, 100 ng/L",169,108,2.2,7.0,22,0.6
+"China, PFOA 80, PFOS 40 ng/L",35,24,0.3,0.9,0,0.0

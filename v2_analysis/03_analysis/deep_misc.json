@@ -1,0 +1,176 @@
+{
+ "short_chain_hq": {
+  "EPA-style (IRIS RfD, RSC 0.2, DWI 0.0469)": {
+   "HBWC_ng_L": {
+    "PFBA": 4264,
+    "PFHxA": 2132,
+    "PFBS": 1279
+   },
+   "max_HI_mean": 0.287,
+   "EP_HI_gt_1": 0,
+   "EP_HI_gt_0.1": 10,
+   "EP_HI_gt_1_any_sample": 0,
+   "PWS_HI_gt_1": 0,
+   "pop_HI_gt_1_m": 0.0,
+   "treated_EP_HI_gt_0.1": 4,
+   "treated_EP_n": 475,
+   "states_HI_gt_1": {},
+   "driver_share": {}
+  },
+  "Minnesota HBV": {
+   "HBWC_ng_L": {
+    "PFBA": 7000,
+    "PFHxA": 200,
+    "PFBS": 100
+   },
+   "max_HI_mean": 1.6,
+   "EP_HI_gt_1": 9,
+   "EP_HI_gt_0.1": 511,
+   "EP_HI_gt_1_any_sample": 17,
+   "PWS_HI_gt_1": 8,
+   "pop_HI_gt_1_m": 0.19,
+   "treated_EP_HI_gt_0.1": 29,
+   "treated_EP_n": 475,
+   "states_HI_gt_1": {
+    "GA": 3,
+    "AL": 2,
+    "AZ": 2,
+    "OH": 1,
+    "PR": 1
+   },
+   "driver_share": {
+    "PFBA": 0.002,
+    "PFHxA": 0.124,
+    "PFBS": 0.874
+   }
+  }
+ },
+ "regimes": {
+  "US 2024 NPDWR (6 MCLs, EPA rounding)": {
+   "EP": 2115,
+   "PWS": 1182,
+   "pop_upper_m": 56.8,
+   "pop_lower_m": 29.2,
+   "PWS_not_flagged_by_US_rescinded": 9,
+   "pop_not_flagged_by_US_rescinded_m": 0.1
+  },
+  "US after 2026 rescission (PFOA/PFOS)": {
+   "EP": 2099,
+   "PWS": 1173,
+   "pop_upper_m": 56.6,
+   "pop_lower_m": 29.1,
+   "PWS_not_flagged_by_US_rescinded": 0,
+   "pop_not_flagged_by_US_rescinded_m": 0.0
+  },
+  "Canada sum-25 > 30": {
+   "EP": 1143,
+   "PWS": 694,
+   "pop_upper_m": 38.9,
+   "pop_lower_m": 18.3,
+   "PWS_not_flagged_by_US_rescinded": 140,
+   "pop_not_flagged_by_US_rescinded_m": 5.8
+  },
+  "EU sum-20 (15 measured) > 100": {
+   "EP": 169,
+   "PWS": 108,
+   "pop_upper_m": 7.0,
+   "pop_lower_m": 2.2,
+   "PWS_not_flagged_by_US_rescinded": 22,
+   "pop_not_flagged_by_US_rescinded_m": 0.6
+  },
+  "Germany PFAS-4 > 20": {
+   "EP": 594,
+   "PWS": 378,
+   "pop_upper_m": 23.5,
+   "pop_lower_m": 8.9,
+   "PWS_not_flagged_by_US_rescinded": 4,
+   "pop_not_flagged_by_US_rescinded_m": 0.1
+  },
+  "Sweden PFAS-4 > 4": {
+   "EP": 2573,
+   "PWS": 1418,
+   "pop_upper_m": 68.7,
+   "pop_lower_m": 35.2,
+   "PWS_not_flagged_by_US_rescinded": 245,
+   "pop_not_flagged_by_US_rescinded_m": 12.1
+  },
+  "Denmark PFAS-4 > 2": {
+   "EP": 3228,
+   "PWS": 1736,
+   "pop_upper_m": 79.2,
+   "pop_lower_m": 43.7,
+   "PWS_not_flagged_by_US_rescinded": 563,
+   "pop_not_flagged_by_US_rescinded_m": 22.6
+  },
+  "RIVM > 4.4 ng PEQ/L": {
+   "EP": 2708,
+   "PWS": 1506,
+   "pop_upper_m": 71.9,
+   "pop_lower_m": 37.5,
+   "PWS_not_flagged_by_US_rescinded": 342,
+   "pop_not_flagged_by_US_rescinded_m": 15.5
+  },
+  "Massachusetts PFAS6 > 20": {
+   "EP": 660,
+   "PWS": 411,
+   "pop_upper_m": 24.9,
+   "pop_lower_m": 9.8,
+   "PWS_not_flagged_by_US_rescinded": 4,
+   "pop_not_flagged_by_US_rescinded_m": 0.1
+  },
+  "Vermont PFAS5 > 20": {
+   "EP": 659,
+   "PWS": 411,
+   "pop_upper_m": 24.9,
+   "pop_lower_m": 9.8,
+   "PWS_not_flagged_by_US_rescinded": 4,
+   "pop_not_flagged_by_US_rescinded_m": 0.1
+  },
+  "New Jersey (PFOA 14/PFOS 13/PFNA 13)": {
+   "EP": 416,
+   "PWS": 275,
+   "pop_upper_m": 16.6,
+   "pop_lower_m": 7.1,
+   "PWS_not_flagged_by_US_rescinded": 2,
+   "pop_not_flagged_by_US_rescinded_m": 0.0
+  },
+  "China GB 5749 (PFOA 80/PFOS 40)": {
+   "EP": 35,
+   "PWS": 24,
+   "pop_upper_m": 0.9,
+   "pop_lower_m": 0.3,
+   "PWS_not_flagged_by_US_rescinded": 0,
+   "pop_not_flagged_by_US_rescinded_m": 0.0
+  }
+ },
+ "ucmr5_total_pop_m": 305.2,
+ "lost_decade_bounds": {
+  "PWS": 588,
+  "pop_upper_m": 42.0,
+  "pop_lower_m": 20.7,
+  "share_upper": 0.785,
+  "share_lower": 0.767
+ },
+ "rivm_only": {
+  "PWS": 342,
+  "pop_m": 15.5,
+  "driver_share": {
+   "PFOS": 0.467,
+   "PFHxS": 0.186,
+   "PFOA": 0.107,
+   "PFNA": 0.062,
+   "PFHpA": 0.057,
+   "PFPeA": 0.054
+  },
+  "largest": {
+   "TX0570004": 1356479,
+   "TX2270001": 1115323,
+   "CA4310011": 1039920,
+   "NC0392010": 650000,
+   "AZ0407095": 466000,
+   "TX2200001": 413955,
+   "VA3700500": 407300,
+   "WA5383100": 346138
+  }
+ }
+}

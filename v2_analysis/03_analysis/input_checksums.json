@@ -1,0 +1,68 @@
+[
+ {
+  "label": "UCMR 5 occurrence data, archive retrieved September 13, 2026 (ZIP)",
+  "file": "data/ucmr5.zip",
+  "bytes": 13530599,
+  "sha256": "ff8a6bf937823cdd75295d02f662966e8473eececb47190c406b9de53b2b6389"
+ },
+ {
+  "label": "UCMR 5 occurrence data, file of October 15, 2026, sensitivity check only (ZIP)",
+  "file": "data/ucmr5_20261015.zip",
+  "bytes": 13531598,
+  "sha256": "313c88a247ab41c7e0c5da9487241a96f1cb03418c79db50261d6e4e74158f2a"
+ },
+ {
+  "label": "UCMR 3 occurrence data (ZIP)",
+  "file": "data/ucmr3.zip",
+  "bytes": 8860640,
+  "sha256": "ac915f673cb8a13bd35c874b681811e91f64ba7822201af655a85d51e8e88bca"
+ },
+ {
+  "label": "SDWIS public water systems (ECHO download)",
+  "file": "data/sdwa/SDWA_PUB_WATER_SYSTEMS.csv",
+  "bytes": 123439961,
+  "sha256": "fbafa8fb6ab881a93644ef7b4261d45556cf417c8387834e83b5aad7c0a186fd"
+ },
+ {
+  "label": "ACS 2018\u20132022 table B03002",
+  "file": "data/b03002.dat",
+  "bytes": 82886726,
+  "sha256": "b012596141d0623d08e2b77053a663294568c1d88f936393d42fb25009cb34b0"
+ },
+ {
+  "label": "ACS 2018\u20132022 table B19013",
+  "file": "data/b19013.dat",
+  "bytes": 17952276,
+  "sha256": "54dc9c5f15146d861080919372c1dde3f8b51c7bc3f8c175d97b60f2d1c6b85b"
+ },
+ {
+  "label": "ACS 2018\u20132022 table B17001",
+  "file": "data/b17001.dat",
+  "bytes": 119419035,
+  "sha256": "43a10975c1e174b7a1eacf097bd5a16a91eb03544b6666c0bd6b4dd2c7f73cf2"
+ },
+ {
+  "label": "Census 2020 ZCTA\u2013county relationship file",
+  "file": "data/zcta_county.txt",
+  "bytes": 6821287,
+  "sha256": "3ed41278d637dc249e0323306f68be8a6c234e3090f4de88ef328dee71aeaaaf"
+ },
+ {
+  "label": "Census 2020 ZCTA\u2013county subdivision relationship file",
+  "file": "data/tab20_zcta520_cousub20_natl.txt",
+  "bytes": 16262349,
+  "sha256": "406d2f1b11692a185e930e53f63a68951e5b64dbb7b0cf201a934a8e54aee27b"
+ },
+ {
+  "label": "Census Connecticut county-to-planning-region crosswalk",
+  "file": "data/ct_cou_to_cousub_crosswalk.txt",
+  "bytes": 22091,
+  "sha256": "13ad002564e30e6dcd1df112fdaa985f2cd0cdb908f7f3017cd2723db294cff8"
+ },
+ {
+  "label": "U.S. Drought Monitor county DSCI (2,542 JSON files; hash over sorted name+content)",
+  "file": "data/usdm/*.json",
+  "bytes": 45851953,
+  "sha256": "6927287c8eb144153b274f17f164a1ed967a83b602505e36e4bdb4cf12bbc2fb"
+ }
+]

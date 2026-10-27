@@ -1,0 +1,15 @@
+rows 1925327 NaN SamplePointID 0 NaN FacilityID 58
+Empty DataFrame
+Columns: [PWSID, FacilityID, State]
+Index: []
+dup loc-event-analyte: 0 max 1
+Empty DataFrame
+Columns: [loc, SampleEventCode, Contaminant, 0]
+Index: []
+detections below MRL per analyte: {}
+detect with NaN val: 0 ND with value: 0
+max values ng/L: {'PFBA': 1700.0, '6:2 FTS': 672.0, 'PFOS': 490.0, 'PFPeA': 358.0, 'PFBS': 290.0, 'PFHxA': 260.0, 'PFHxS': 250.2, 'PFOA': 235.0}
+Units: ['PWSID', 'Size', 'FacilityID', 'FacilityWaterType', 'SamplePointID', 'SamplePointType', 'CollectionDate', 'SampleID', 'Contaminant', 'MRL', 'MethodID', 'AnalyticalResultsSign', 'AnalyticalResultValue', 'SampleEventCode', 'MonitoringRequirement', 'State', 'val', 'mrl', 'loc']
+u3 locs 15202 SPtype {'EP': 15202}
+u3 dup 0
+u3 det below MRL: 0 u3 det count by analyte {'PFOA': 379, 'PFOS': 292, 'PFHpA': 236, 'PFHxS': 207, 'PFBS': 19, 'PFNA': 19}

@@ -1,0 +1,21 @@
+series,dsci_anomaly_bin,n_samples,median_ratio,boot_lo,boot_hi
+sw_short,much wetter,298,0.9234,0.8804,0.9593
+sw_short,wetter,1079,0.9744,0.9606,0.9923
+sw_short,typical,721,1.0153,0.992,1.0386
+sw_short,drier,608,1.0698,1.0386,1.1032
+sw_short,much drier,430,1.0776,1.0413,1.1075
+sw_long,much wetter,133,0.9976,0.949,1.0616
+sw_long,wetter,477,0.9837,0.9627,1.0005
+sw_long,typical,397,1.0275,1.0072,1.046
+sw_long,drier,276,1.0294,0.9973,1.0664
+sw_long,much drier,181,0.9875,0.9645,1.0453
+gw_short,much wetter,442,0.9974,0.9856,1.0087
+gw_short,wetter,786,0.9972,0.9871,1.0069
+gw_short,typical,1401,1.0,1.0,1.0
+gw_short,drier,896,1.0,0.9922,1.0092
+gw_short,much drier,325,1.0053,0.9943,1.0225
+gw_long,much wetter,362,1.0017,0.9889,1.0118
+gw_long,wetter,626,1.0,0.9905,1.008
+gw_long,typical,1354,1.0,1.0,1.0
+gw_long,drier,703,1.0,0.995,1.0104
+gw_long,much drier,281,0.9918,0.9829,1.0107

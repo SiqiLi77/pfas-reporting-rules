@@ -1,0 +1,37 @@
+ranking_a,ranking_b,jaccard_top_4.28pct
+PFAS4 sum,PFOA/PFOS max,0.7365
+MA6 sum,PFOA/PFOS max,0.7275
+MA6 sum,PFAS4 sum,0.9208
+RPF upper,PFOA/PFOS max,0.7342
+RPF upper,PFAS4 sum,0.8285
+RPF upper,MA6 sum,0.8199
+RPF lower,PFOA/PFOS max,0.7329
+RPF lower,PFAS4 sum,0.8169
+RPF lower,MA6 sum,0.7858
+RPF lower,RPF upper,0.9324
+UCMR3 six sum,PFOA/PFOS max,0.6439
+UCMR3 six sum,PFAS4 sum,0.7698
+UCMR3 six sum,MA6 sum,0.7964
+UCMR3 six sum,RPF upper,0.7273
+UCMR3 six sum,RPF lower,0.6991
+EU20(15) sum,PFOA/PFOS max,0.4751
+EU20(15) sum,PFAS4 sum,0.5251
+EU20(15) sum,MA6 sum,0.5565
+EU20(15) sum,RPF upper,0.5206
+EU20(15) sum,RPF lower,0.4967
+EU20(15) sum,UCMR3 six sum,0.6273
+Canada25 sum,PFOA/PFOS max,0.4755
+Canada25 sum,PFAS4 sum,0.5203
+Canada25 sum,MA6 sum,0.5516
+Canada25 sum,RPF upper,0.521
+Canada25 sum,RPF lower,0.498
+Canada25 sum,UCMR3 six sum,0.6151
+Canada25 sum,EU20(15) sum,0.9597
+Total F (molar),PFOA/PFOS max,0.4802
+Total F (molar),PFAS4 sum,0.5234
+Total F (molar),MA6 sum,0.5548
+Total F (molar),RPF upper,0.5281
+Total F (molar),RPF lower,0.503
+Total F (molar),UCMR3 six sum,0.6128
+Total F (molar),EU20(15) sum,0.9464
+Total F (molar),Canada25 sum,0.9758

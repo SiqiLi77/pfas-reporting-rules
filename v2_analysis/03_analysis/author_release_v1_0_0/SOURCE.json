@@ -1,0 +1,24 @@
+{
+ "repository": "https://github.com/SiqiLi77/pfas-reporting-rules",
+ "tag": "v1.0.0",
+ "commit": "dd725d20005ea74a0554a721de7124905046fe6e",
+ "describes": "Supporting Information V1.59 computational evidence (same estimates as SI V1.62 tables)",
+ "retrieved": "2026-10-24, GitHub API tarball of the tag commit",
+ "tarball_sha256": "5967a106a664a2f25e99fa29a7278780caca5927b7906dcadc783a06976b4a9e",
+ "files": {
+  "NOTICE.md": "c11dd3332f231189df0ecab4d21d5ebd49eddda5780571f3c7b57c6e9c0fc859",
+  "results/figures/Fig3/Fig3b_panel_attribution.csv": "0a3010291cee9f50ebc2a3482164814e8e4eb3423ed89bad1778a9fc6628a431",
+  "results/figures/Fig4/Fig4c_count_distribution.csv": "b3a2d2b4cc49370f6aec3e63d403255804d2a6fdcb2d96cd697f3fbef5a5a4a4",
+  "results/figures/Fig4/Fig4d_exact_multiple_patterns.csv": "02b541cce8e110c2d06d93bfb4ee712c023bf26dd82e1569440e4497ddc31531",
+  "results/figures/Fig5/Fig5a_national_pattern.csv": "a2fdeb06ed5ff774131f1cdd5889500ce803c78abbca8739885e871301f41b57",
+  "results/figures/Fig5/Fig5c_washington_pattern.csv": "b8499c92aa03439000cd6b3bb4b1efdf8e0cb00f9f83e169d50f43973c4ceb86",
+  "results/figures/PANEL_MANIFEST.csv": "281936b7072fa62a380273337692b17e964c02c26dab290076143e0ad4e4279d",
+  "results/figures/README.md": "1ed5f4d7eb103fc5eced6d3deba122d16589e8e583aeebcc224e3f63fe359a87",
+  "results/figures/S1/robustness.csv": "1e1aba92ba263e2888cbbaf5e4a59b4cfe51928556ed838763fda1089b53d046",
+  "results/figures/S2/collapsed_zero.csv": "20f319102e384f35293dd868b5da1a05317775546a877939f3683ac212d92ae4",
+  "results/figures/S2/retained_multiple.csv": "a7e0a82f586f198b73f16477b5ac7570b1b720b180693b4fc01edc70fc8037ee",
+  "results/figures/S3/pair_recurrence.csv": "e151f508a085ff33a7ad570fd2c66d002e30e48cc42225246f387aed63ad65ef",
+  "results/figures/S5/independence_reference.csv": "cdbe4238264716c6a49287de64139673ebd5113a403b6d1473e54531f218caca",
+  "results/figures/S7/threshold_path.csv": "e53b41289bd75193f0e399e5b89e0b46345e42b42a5408ee551d042ee5779e3f"
+ }
+}

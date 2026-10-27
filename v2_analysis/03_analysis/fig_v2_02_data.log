@@ -1,0 +1,55 @@
+sw_short locations 784 {'much wetter': (0.9234, 0.8804, 0.9593, 298), 'wetter': (0.9744, 0.9606, 0.9923, 1079), 'typical': (1.0153, 0.992, 1.0386, 721), 'drier': (1.0698, 1.0386, 1.1032, 608), 'much drier': (1.0776, 1.0413, 1.1075, 430)}
+check ok   drought sw_short much wetter ratio: 0.923 vs 0.923
+check ok   drought sw_short much wetter n: 298 vs 298
+check ok   drought sw_short wetter ratio: 0.974 vs 0.974
+check ok   drought sw_short wetter n: 1079 vs 1079
+check ok   drought sw_short typical ratio: 1.015 vs 1.015
+check ok   drought sw_short typical n: 721 vs 721
+check ok   drought sw_short drier ratio: 1.07 vs 1.07
+check ok   drought sw_short drier n: 608 vs 608
+check ok   drought sw_short much drier ratio: 1.078 vs 1.078
+check ok   drought sw_short much drier n: 430 vs 430
+sw_long locations 366 {'much wetter': (0.9976, 0.949, 1.0616, 133), 'wetter': (0.9837, 0.9627, 1.0005, 477), 'typical': (1.0275, 1.0072, 1.046, 397), 'drier': (1.0294, 0.9973, 1.0664, 276), 'much drier': (0.9875, 0.9645, 1.0453, 181)}
+check ok   drought sw_long much wetter ratio: 0.998 vs 0.998
+check ok   drought sw_long much wetter n: 133 vs 133
+check ok   drought sw_long wetter ratio: 0.984 vs 0.984
+check ok   drought sw_long wetter n: 477 vs 477
+check ok   drought sw_long typical ratio: 1.027 vs 1.027
+check ok   drought sw_long typical n: 397 vs 397
+check ok   drought sw_long drier ratio: 1.029 vs 1.029
+check ok   drought sw_long drier n: 276 vs 276
+check ok   drought sw_long much drier ratio: 0.988 vs 0.988
+check ok   drought sw_long much drier n: 181 vs 181
+gw_short locations 1925 {'much wetter': (0.9974, 0.9856, 1.0087, 442), 'wetter': (0.9972, 0.9871, 1.0069, 786), 'typical': (1.0, 1.0, 1.0, 1401), 'drier': (1.0, 0.9922, 1.0092, 896), 'much drier': (1.0053, 0.9943, 1.0225, 325)}
+gw_long locations 1663 {'much wetter': (1.0017, 0.9889, 1.0118, 362), 'wetter': (1.0, 0.9905, 1.008, 626), 'typical': (1.0, 1.0, 1.0, 1354), 'drier': (1.0, 0.995, 1.0104, 703), 'much drier': (0.9918, 0.9829, 1.0107, 281)}
+drought entry points under UCMR 3 rule: {'n': 784, 'short_sum_reported_all_samples_ucmr3_rule': 0, 'any_pfas_reported_ucmr3_rule': 30}
+check ok   drought SW short locations: 784 vs 784
+check ok   pairs n systems: 150 vs 150
+check ok   pairs n both reported: 73 vs 73
+check ok   pairs median sf treated: 1.0 vs 1.0
+check ok   pairs median sf untreated: 0.4791666666666667 vs 0.4791666666666667
+check ok   pairs mean exceed treated: 0.1357171717171717 vs 0.1357171717171717
+check ok   pairs mean short untreated: 7.766763876957236 vs 7.766763876957236
+pairs: {'n': 150, 'n_both': 73, 'sf_median': [1.0, 0.4791666666666667], 'treated_sf_is_1': 43, 'treated_higher': 55, 'treated_lower': 13, 'equal': 5}
+visibility rows: [{'row': 'texas', 'n': 75, 'ucmr3_rule': 0}, {'row': 'short_only_treated', 'n': 120, 'ucmr3_rule': 1}, {'row': 'drought_short', 'n': 784, 'ucmr3_rule': 0}]
+check ok   jaccard PFOA/PFOS max vs Canada25 sum: 0.475 vs 0.475
+check ok   jaccard PFOA/PFOS max vs PFAS4 sum: 0.736 vs 0.736
+check ok   jaccard RPF upper vs Canada25 sum: 0.521 vs 0.521
+check ok   jaccard RPF upper vs PFAS4 sum: 0.829 vs 0.829
+check ok   jaccard RPF lower vs PFAS4 sum: 0.817 vs 0.817
+check ok   jaccard RPF lower vs Canada25 sum: 0.498 vs 0.498
+check ok   jaccard Canada25 sum vs Total F (molar): 0.976 vs 0.976
+check ok   jaccard UCMR3 six sum vs Canada25 sum: 0.615 vs 0.615
+check ok   jaccard RPF upper vs RPF lower: 0.932 vs 0.932
+Jaccard matrix (top 4.28%):
+                 PFOA/PFOS max  UCMR3 six sum  PFAS4 sum  MA6 sum  EU20(15) sum  Canada25 sum  Total F (molar)  RPF upper  RPF lower
+PFOA/PFOS max             1.00           0.64       0.74     0.73          0.48          0.48             0.48       0.73       0.73
+UCMR3 six sum             0.64           1.00       0.77     0.80          0.63          0.62             0.61       0.73       0.70
+PFAS4 sum                 0.74           0.77       1.00     0.92          0.53          0.52             0.52       0.83       0.82
+MA6 sum                   0.73           0.80       0.92     1.00          0.56          0.55             0.55       0.82       0.79
+EU20(15) sum              0.48           0.63       0.53     0.56          1.00          0.96             0.95       0.52       0.50
+Canada25 sum              0.48           0.62       0.52     0.55          0.96          1.00             0.98       0.52       0.50
+Total F (molar)           0.48           0.61       0.52     0.55          0.95          0.98             1.00       0.53       0.50
+RPF upper                 0.73           0.73       0.83     0.82          0.52          0.52             0.53       1.00       0.93
+RPF lower                 0.73           0.70       0.82     0.79          0.50          0.50             0.50       0.93       1.00
+36 checks, 0 failed

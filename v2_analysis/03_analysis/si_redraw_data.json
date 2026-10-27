@@ -1,0 +1,3933 @@
+{
+ "_sources": {
+  "SI_V1_62": {
+   "file": "CENMIXQ_EST_SUPPORTING_INFORMATION_V1_62.docx",
+   "sha256": "52ace5d392673500abeeeaa81f2bc57b98b6e22fb25c7e65d9eb6ef5cafceca9"
+  },
+  "MS_V1_64": {
+   "file": "CENMIXQ_EST_MANUSCRIPT_V1_64.docx",
+   "sha256": "16f5a00d24128de5fedb7ed7824a5c604d8d23db915f6fcae09982093bd800bd"
+  },
+  "release": {
+   "repository": "https://github.com/SiqiLi77/pfas-reporting-rules",
+   "tag": "v1.0.0",
+   "commit": "dd725d20005ea74a0554a721de7124905046fe6e",
+   "tarball_sha256": "5967a106a664a2f25e99fa29a7278780caca5927b7906dcadc783a06976b4a9e"
+  },
+  "si_v162/image1.png": {
+   "sha256": "2abbe61dd3293abaab9f096eafc7e39e60f1638fe294f5a1e892a59954bdf629"
+  },
+  "release:S1/robustness.csv": {
+   "sha256": "1e1aba92ba263e2888cbbaf5e4a59b4cfe51928556ed838763fda1089b53d046"
+  },
+  "si_v162/image2.png": {
+   "sha256": "dd9b3b07357817cfdd6ee250c40dc3b32e9871d8ea0e750eb91e733ea578359b"
+  },
+  "release:S2/retained_multiple.csv": {
+   "sha256": "a7e0a82f586f198b73f16477b5ac7570b1b720b180693b4fc01edc70fc8037ee"
+  },
+  "release:S2/collapsed_zero.csv": {
+   "sha256": "20f319102e384f35293dd868b5da1a05317775546a877939f3683ac212d92ae4"
+  },
+  "si_v162/image3.png": {
+   "sha256": "e797bcf60ac0747a962e2e7ebc85b0b4b28115c45cb9e0531c83f21b8d1fb12e"
+  },
+  "release:S3/pair_recurrence.csv": {
+   "sha256": "e151f508a085ff33a7ad570fd2c66d002e30e48cc42225246f387aed63ad65ef"
+  },
+  "release:S5/independence_reference.csv": {
+   "sha256": "cdbe4238264716c6a49287de64139673ebd5113a403b6d1473e54531f218caca"
+  },
+  "si_v162/image7.png": {
+   "sha256": "c3046e21df9fe8848b616d31bd91d0f93b63b958404a4769351a49bb8fab6436"
+  },
+  "release:S7/threshold_path.csv": {
+   "sha256": "e53b41289bd75193f0e399e5b89e0b46345e42b42a5408ee551d042ee5779e3f"
+  },
+  "release:Fig3/Fig3b_panel_attribution.csv": {
+   "sha256": "0a3010291cee9f50ebc2a3482164814e8e4eb3423ed89bad1778a9fc6628a431"
+  },
+  "ms_v164/image4.png": {
+   "sha256": "af1beedd4cad1e5c8f5278d425a1f36cd7ff5f2330f9fc651d30f7c9fcbc2816"
+  },
+  "release:Fig4/Fig4c_count_distribution.csv": {
+   "sha256": "b3a2d2b4cc49370f6aec3e63d403255804d2a6fdcb2d96cd697f3fbef5a5a4a4"
+  },
+  "release:Fig4/Fig4d_exact_multiple_patterns.csv": {
+   "sha256": "02b541cce8e110c2d06d93bfb4ee712c023bf26dd82e1569440e4497ddc31531"
+  },
+  "release:Fig5/Fig5a_national_pattern.csv": {
+   "sha256": "a2fdeb06ed5ff774131f1cdd5889500ce803c78abbca8739885e871301f41b57"
+  },
+  "release:Fig5/Fig5c_washington_pattern.csv": {
+   "sha256": "b8499c92aa03439000cd6b3bb4b1efdf8e0cb00f9f83e169d50f43973c4ceb86"
+  }
+ },
+ "S7": {
+  "a": [
+   {
+    "rule": "UCMR 3 samples, UCMR 3 MRLs",
+    "pct": 0.469,
+    "k": 36,
+    "n": 7677
+   },
+   {
+    "rule": "UCMR 5 samples, UCMR 5 MRLs",
+    "pct": 10.798,
+    "k": 829,
+    "n": 7677
+   },
+   {
+    "rule": "UCMR 5 samples, UCMR 3 cutoffs",
+    "pct": 0.13,
+    "k": 10,
+    "n": 7677
+   }
+  ],
+  "b": [
+   {
+    "rule": "UCMR 3",
+    "systems": 26,
+    "of": 2421
+   },
+   {
+    "rule": "UCMR 5",
+    "systems": 437,
+    "of": 2421
+   },
+   {
+    "rule": "UCMR 5 old",
+    "systems": 10,
+    "of": 2421
+   }
+  ],
+  "c": [
+   {
+    "pct": 45.6,
+    "k": 36,
+    "n": 79
+   },
+   {
+    "pct": 61.3,
+    "k": 829,
+    "n": 1353
+   },
+   {
+    "pct": 17.2,
+    "k": 10,
+    "n": 58
+   }
+  ],
+  "d": {
+   "native": [
+    6.601,
+    4.106,
+    9.489
+   ],
+   "reclassification": [
+    6.835,
+    4.283,
+    9.759
+   ],
+   "shared_cutoff": [
+    -0.234,
+    -0.522,
+    -0.053
+   ]
+  },
+  "source": {
+   "a": "table #3 (Table S1B) and #11 (Table S4B, SE1)",
+   "b": "table #8 (Table S3B)",
+   "c": "printed: Text S2 ratios and counts",
+   "d": "table #5 (Table S2, panel A), row 'Jurisdiction-equal...'"
+  }
+ },
+ "S1": {
+  "rows": [
+   "Event-equal",
+   "Pooled matched-PWS-equal",
+   "Jurisdiction-equal, within-jurisdiction PWS-equal",
+   "Metadata stable",
+   "Normalized-name corroborated",
+   "Same calendar month",
+   "Same meteorological season",
+   "Cyclic month distance <=1",
+   "Cyclic month distance <=2",
+   "Cyclic month distance <=3"
+  ],
+  "pairs": [
+   7677,
+   7677,
+   7677,
+   7433,
+   1734,
+   845,
+   2122,
+   2131,
+   3487,
+   4748
+  ],
+  "native": [
+   {
+    "value": [
+     10.33,
+     7.676,
+     13.833
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Event-equal'",
+    "digitized_check": [
+     10.3289,
+     7.6829,
+     13.8382
+    ]
+   },
+   {
+    "value": [
+     10.367,
+     9.298,
+     11.499
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Pooled matched-PWS-equal'",
+    "digitized_check": [
+     10.3662,
+     9.2945,
+     11.5081
+    ]
+   },
+   {
+    "value": [
+     6.601,
+     4.106,
+     9.489
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Jurisdiction-equal, within-jurisdiction PWS-equal'",
+    "digitized_check": [
+     6.6079,
+     4.11,
+     9.4887
+    ]
+   },
+   {
+    "value": [
+     6.5634,
+     4.0618,
+     9.454
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.5733,
+     4.0712,
+     9.4498
+    ]
+   },
+   {
+    "value": [
+     9.8775,
+     4.0132,
+     17.7834
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     9.878,
+     4.013,
+     17.7799
+    ]
+   },
+   {
+    "value": [
+     6.3372,
+     2.9343,
+     10.4332
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.343,
+     2.945,
+     10.4401
+    ]
+   },
+   {
+    "value": [
+     6.328,
+     3.4894,
+     9.5351
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.3289,
+     3.5081,
+     9.5275
+    ]
+   },
+   {
+    "value": [
+     6.1069,
+     3.5564,
+     9.0627
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.1113,
+     3.5664,
+     9.0615
+    ]
+   },
+   {
+    "value": [
+     5.9807,
+     3.5741,
+     8.8441
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     5.9884,
+     3.5858,
+     8.8479
+    ]
+   },
+   {
+    "value": [
+     5.84,
+     3.4744,
+     8.5546
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     5.84,
+     3.4887,
+     8.5566
+    ]
+   }
+  ],
+  "reclassification": [
+   {
+    "value": [
+     10.668,
+     7.972,
+     14.345
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Event-equal'",
+    "digitized_check": [
+     10.6679,
+     7.9816,
+     14.3327
+    ]
+   },
+   {
+    "value": [
+     10.796,
+     9.738,
+     11.916
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Pooled matched-PWS-equal'",
+    "digitized_check": [
+     10.7984,
+     9.7567,
+     11.9264
+    ]
+   },
+   {
+    "value": [
+     6.835,
+     4.283,
+     9.759
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Jurisdiction-equal, within-jurisdiction PWS-equal'",
+    "digitized_check": [
+     6.8386,
+     4.2735,
+     9.7567
+    ]
+   },
+   {
+    "value": [
+     6.8001,
+     4.2387,
+     9.7329
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.7997,
+     4.2341,
+     9.737
+    ]
+   },
+   {
+    "value": [
+     10.1829,
+     4.248,
+     18.1042
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     10.1868,
+     4.2538,
+     18.1196
+    ]
+   },
+   {
+    "value": [
+     6.4532,
+     3.0323,
+     10.5648
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.4581,
+     3.0506,
+     10.5654
+    ]
+   },
+   {
+    "value": [
+     6.6423,
+     3.8012,
+     9.8715
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.6451,
+     3.8001,
+     9.8751
+    ]
+   },
+   {
+    "value": [
+     6.1943,
+     3.6338,
+     9.1631
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.204,
+     3.6423,
+     9.165
+    ]
+   },
+   {
+    "value": [
+     6.1665,
+     3.7483,
+     9.0376
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.1705,
+     3.7607,
+     9.0467
+    ]
+   },
+   {
+    "value": [
+     6.0424,
+     3.661,
+     8.7593
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     6.048,
+     3.6621,
+     8.7705
+    ]
+   }
+  ],
+  "shared_cutoff": [
+   {
+    "value": [
+     -0.339,
+     -0.664,
+     -0.125
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Event-equal'",
+    "digitized_check": [
+     -0.339,
+     -0.6634,
+     -0.1253
+    ]
+   },
+   {
+    "value": [
+     -0.429,
+     -0.676,
+     -0.211
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Pooled matched-PWS-equal'",
+    "digitized_check": [
+     -0.4295,
+     -0.6757,
+     -0.2113
+    ]
+   },
+   {
+    "value": [
+     -0.234,
+     -0.522,
+     -0.053
+    ],
+    "source": "table #5 (Table S2, panel A), row 'Jurisdiction-equal, within-jurisdiction PWS-equal'",
+    "digitized_check": [
+     -0.2338,
+     -0.5221,
+     -0.0541
+    ]
+   },
+   {
+    "value": [
+     -0.2368,
+     -0.5288,
+     -0.0504
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.2371,
+     -0.5283,
+     -0.0516
+    ]
+   },
+   {
+    "value": [
+     -0.3053,
+     -0.8974,
+     0.0
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.3056,
+     -0.8968,
+     -0.0
+    ]
+   },
+   {
+    "value": [
+     -0.116,
+     -0.4808,
+     0.0
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.1165,
+     -0.4816,
+     -0.0
+    ]
+   },
+   {
+    "value": [
+     -0.3143,
+     -0.8511,
+     0.0026
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.3145,
+     -0.8501,
+     0.0025
+    ]
+   },
+   {
+    "value": [
+     -0.0874,
+     -0.2877,
+     0.0
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.0882,
+     -0.2875,
+     -0.0
+    ]
+   },
+   {
+    "value": [
+     -0.1858,
+     -0.5751,
+     0.042
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.1864,
+     -0.5749,
+     0.0418
+    ]
+   },
+   {
+    "value": [
+     -0.2023,
+     -0.5718,
+     0.0
+    ],
+    "source": "release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv",
+    "digitized_check": [
+     -0.2028,
+     -0.5725,
+     -0.0
+    ]
+   }
+  ],
+  "digitizer_worst_px": 0.47
+ },
+ "S2": {
+  "alpha": [
+   0.0,
+   0.05,
+   0.1,
+   0.15,
+   0.2,
+   0.25,
+   0.3,
+   0.35,
+   0.4,
+   0.45,
+   0.5,
+   0.55,
+   0.6,
+   0.65,
+   0.7,
+   0.75,
+   0.8,
+   0.85,
+   0.9,
+   0.95,
+   1.0
+  ],
+  "a": {
+   "observed": [
+    100.0,
+    84.9216,
+    71.1701,
+    60.4343,
+    50.6634,
+    43.0639,
+    35.7057,
+    29.7949,
+    23.5223,
+    19.6622,
+    16.8878,
+    13.3896,
+    10.6152,
+    8.3233,
+    7.2376,
+    5.9107,
+    4.4632,
+    3.3776,
+    2.5332,
+    1.6888,
+    1.2063
+   ],
+   "reference_mean": [
+    100.0,
+    87.8791,
+    76.1297,
+    64.4093,
+    53.0179,
+    43.0484,
+    34.0286,
+    26.989,
+    20.534,
+    15.476,
+    12.2232,
+    8.9952,
+    6.4837,
+    4.6119,
+    3.5782,
+    2.652,
+    1.8034,
+    1.3011,
+    0.8426,
+    0.5017,
+    0.3671
+   ],
+   "envelope_lo": [
+    null,
+    85.3716,
+    73.185,
+    61.2675,
+    49.9432,
+    40.0174,
+    31.1124,
+    24.2971,
+    18.0252,
+    13.1502,
+    10.0907,
+    7.0435,
+    4.6914,
+    3.0573,
+    2.1421,
+    1.3816,
+    0.7134,
+    0.3618,
+    0.0195,
+    0.0,
+    null
+   ],
+   "envelope_hi": [
+    null,
+    90.3865,
+    79.0745,
+    67.5512,
+    56.0927,
+    46.0793,
+    36.9449,
+    29.6809,
+    23.0427,
+    17.8018,
+    14.3556,
+    10.947,
+    8.276,
+    6.1664,
+    5.0142,
+    3.9224,
+    2.8933,
+    2.2404,
+    1.6658,
+    1.1653,
+    null
+   ]
+  },
+  "b": {
+   "observed": [
+    0.0,
+    2.1713,
+    5.3076,
+    11.339,
+    19.421,
+    27.2618,
+    34.8613,
+    42.7021,
+    48.7334,
+    55.971,
+    61.3993,
+    66.9481,
+    71.2907,
+    76.1158,
+    79.7346,
+    82.9916,
+    84.801,
+    87.4548,
+    89.7467,
+    91.5561,
+    93.1242
+   ],
+   "reference_mean": [
+    0.0,
+    1.0834,
+    3.7122,
+    7.8808,
+    13.9504,
+    20.632,
+    27.9107,
+    34.5517,
+    41.169,
+    48.3821,
+    54.2581,
+    61.1236,
+    66.3437,
+    72.1545,
+    75.9159,
+    79.6176,
+    82.8441,
+    85.7253,
+    88.4602,
+    90.8289,
+    92.5405
+   ],
+   "envelope_lo": [
+    null,
+    0.116,
+    2.0316,
+    5.683,
+    11.3609,
+    17.8599,
+    24.9835,
+    31.5353,
+    38.2211,
+    45.5321,
+    51.5457,
+    58.5813,
+    63.968,
+    69.9931,
+    73.9167,
+    77.7758,
+    81.1676,
+    84.2296,
+    87.1086,
+    89.63,
+    null
+   ],
+   "envelope_hi": [
+    null,
+    2.0507,
+    5.3927,
+    10.0785,
+    16.54,
+    23.4041,
+    30.8379,
+    37.5681,
+    44.1168,
+    51.232,
+    56.9705,
+    63.6659,
+    68.7193,
+    74.3159,
+    77.9152,
+    81.4593,
+    84.5207,
+    87.2211,
+    89.8118,
+    92.0277,
+    null
+   ]
+  },
+  "integral_check": {
+   "multiple_obs": [
+    0.271984,
+    0.271984
+   ],
+   "multiple_ref": [
+    0.257344,
+    0.257344
+   ],
+   "none_obs": [
+    0.543185,
+    0.543185
+   ],
+   "none_ref": [
+    0.501407,
+    0.501407
+   ]
+  },
+  "source": "release: pfas-reporting-rules v1.0.0, results/figures/S2/retained_multiple.csv and collapsed_zero.csv (jurisdiction-by-water-source reassignment, event-equal); envelope = simultaneous 95% randomized-reference envelope, not defined at alpha 0 and 1"
+ },
+ "S3": {
+  "a": [
+   {
+    "panel": "Six",
+    "samples": "First",
+    "label": [
+     52.37,
+     50.07,
+     54.49
+    ],
+    "pair": [
+     22.24,
+     21.0,
+     23.56
+    ]
+   },
+   {
+    "panel": "Six",
+    "samples": "Two",
+    "label": [
+     64.85,
+     62.69,
+     66.92
+    ],
+    "pair": [
+     30.41,
+     29.02,
+     31.9
+    ]
+   },
+   {
+    "panel": "25",
+    "samples": "First",
+    "label": [
+     81.03,
+     79.42,
+     82.54
+    ],
+    "pair": [
+     70.75,
+     68.98,
+     72.35
+    ]
+   },
+   {
+    "panel": "25",
+    "samples": "Two",
+    "label": [
+     100.0,
+     null,
+     null
+    ],
+    "pair": [
+     100.0,
+     null,
+     null
+    ]
+   }
+  ],
+  "b": [
+   {
+    "pair": "PFHxA+PFPeA",
+    "shared_six": false,
+    "n_first_printed": 1904,
+    "n_first": 1904,
+    "n_again": 1405,
+    "value": [
+     73.792,
+     71.363,
+     76.015
+    ],
+    "recomputed": {
+     "n_first": 1904,
+     "n_again": 1405,
+     "pct": 73.792
+    }
+   },
+   {
+    "pair": "PFBS+PFPeA",
+    "shared_six": false,
+    "n_first_printed": 1302,
+    "n_first": 1302,
+    "n_again": 967,
+    "value": [
+     74.27,
+     71.355,
+     77.049
+    ],
+    "recomputed": {
+     "n_first": 1302,
+     "n_again": 967,
+     "pct": 74.27
+    }
+   },
+   {
+    "pair": "PFBS+PFHxA",
+    "shared_six": false,
+    "n_first_printed": 1237,
+    "n_first": 1237,
+    "n_again": 892,
+    "value": [
+     72.11,
+     69.12,
+     75.236
+    ],
+    "recomputed": {
+     "n_first": 1237,
+     "n_again": 892,
+     "pct": 72.11
+    }
+   },
+   {
+    "pair": "PFOA+PFPeA",
+    "shared_six": false,
+    "n_first_printed": 1121,
+    "n_first": 1121,
+    "n_again": 842,
+    "value": [
+     75.112,
+     71.849,
+     78.266
+    ],
+    "recomputed": {
+     "n_first": 1121,
+     "n_again": 842,
+     "pct": 75.112
+    }
+   },
+   {
+    "pair": "PFHxA+PFOA",
+    "shared_six": false,
+    "n_first_printed": 1113,
+    "n_first": 1113,
+    "n_again": 844,
+    "value": [
+     75.831,
+     72.727,
+     78.953
+    ],
+    "recomputed": {
+     "n_first": 1113,
+     "n_again": 844,
+     "pct": 75.831
+    }
+   },
+   {
+    "pair": "PFBS+PFOS",
+    "shared_six": true,
+    "n_first_printed": 1034,
+    "n_first": 1034,
+    "n_again": 775,
+    "value": [
+     74.952,
+     71.503,
+     77.865
+    ],
+    "recomputed": {
+     "n_first": 1034,
+     "n_again": 775,
+     "pct": 74.952
+    }
+   },
+   {
+    "pair": "PFOA+PFOS",
+    "shared_six": true,
+    "n_first_printed": 1023,
+    "n_first": 1023,
+    "n_again": 782,
+    "value": [
+     76.442,
+     73.005,
+     79.39
+    ],
+    "recomputed": {
+     "n_first": 1023,
+     "n_again": 782,
+     "pct": 76.442
+    }
+   },
+   {
+    "pair": "PFOS+PFPeA",
+    "shared_six": false,
+    "n_first_printed": 994,
+    "n_first": 994,
+    "n_again": 744,
+    "value": [
+     74.849,
+     71.488,
+     77.815
+    ],
+    "recomputed": {
+     "n_first": 994,
+     "n_again": 744,
+     "pct": 74.849
+    }
+   },
+   {
+    "pair": "PFBA+PFPeA",
+    "shared_six": false,
+    "n_first_printed": 978,
+    "n_first": 978,
+    "n_again": 628,
+    "value": [
+     64.213,
+     60.721,
+     67.676
+    ],
+    "recomputed": {
+     "n_first": 978,
+     "n_again": 628,
+     "pct": 64.213
+    }
+   },
+   {
+    "pair": "PFBS+PFOA",
+    "shared_six": true,
+    "n_first_printed": 972,
+    "n_first": 972,
+    "n_again": 711,
+    "value": [
+     73.148,
+     69.52,
+     76.511
+    ],
+    "recomputed": {
+     "n_first": 972,
+     "n_again": 711,
+     "pct": 73.148
+    }
+   },
+   {
+    "pair": "PFHxA+PFOS",
+    "shared_six": false,
+    "n_first_printed": 971,
+    "n_first": 971,
+    "n_again": 721,
+    "value": [
+     74.253,
+     70.673,
+     77.244
+    ],
+    "recomputed": {
+     "n_first": 971,
+     "n_again": 721,
+     "pct": 74.253
+    }
+   },
+   {
+    "pair": "PFBA+PFHxA",
+    "shared_six": false,
+    "n_first_printed": 873,
+    "n_first": 873,
+    "n_again": 555,
+    "value": [
+     63.574,
+     59.821,
+     67.223
+    ],
+    "recomputed": {
+     "n_first": 873,
+     "n_again": 555,
+     "pct": 63.574
+    }
+   }
+  ],
+  "source": {
+   "a": "table #20 (Table S8B), native rows",
+   "b": "release: pfas-reporting-rules v1.0.0, results/figures/S3/pair_recurrence.csv; support counts also printed in the figure; recomputed from u5_pfas.parquet as a check"
+  }
+ },
+ "S4": {
+  "rows": [
+   {
+    "weighting": "Location-proportional strata",
+    "six": [
+     -0.97,
+     -1.93,
+     -0.02
+    ],
+    "25": [
+     3.67,
+     2.52,
+     4.82
+    ],
+    "change": [
+     4.64,
+     3.88,
+     5.46
+    ]
+   },
+   {
+    "weighting": "PWS equal within strata",
+    "six": [
+     -0.82,
+     -1.81,
+     0.16
+    ],
+    "25": [
+     3.68,
+     2.38,
+     4.93
+    ],
+    "change": [
+     4.5,
+     3.61,
+     5.35
+    ]
+   },
+   {
+    "weighting": "Jurisdiction equal",
+    "six": [
+     -3.41,
+     -4.65,
+     -2.24
+    ],
+    "25": [
+     -0.85,
+     -2.33,
+     0.65
+    ],
+    "change": [
+     2.56,
+     1.65,
+     3.54
+    ]
+   },
+   {
+    "weighting": "Excluding Texas",
+    "six": [
+     -2.72,
+     -3.73,
+     -1.72
+    ],
+    "25": [
+     -1.17,
+     -2.32,
+     0.06
+    ],
+    "change": [
+     1.55,
+     0.83,
+     2.32
+    ]
+   }
+  ],
+  "source": "table #23 (Table S9A, second part)"
+ },
+ "S5": {
+  "rows": [
+   {
+    "floor": "Native",
+    "observed": [
+     4.64,
+     3.84,
+     5.461
+    ],
+    "reference": [
+     7.31,
+     6.155,
+     8.375
+    ],
+    "difference": [
+     -2.669,
+     -3.545,
+     -1.65
+    ],
+    "observed_table_s11": [
+     4.64,
+     3.827,
+     5.474
+    ]
+   },
+   {
+    "floor": "5",
+    "observed": [
+     2.986,
+     2.364,
+     3.636
+    ],
+    "reference": [
+     4.19,
+     3.179,
+     5.184
+    ],
+    "difference": [
+     -1.204,
+     -2.066,
+     -0.325
+    ],
+    "observed_table_s11": [
+     2.986,
+     2.351,
+     3.613
+    ]
+   },
+   {
+    "floor": "10",
+    "observed": [
+     0.504,
+     0.164,
+     0.876
+    ],
+    "reference": [
+     0.282,
+     -0.024,
+     0.595
+    ],
+    "difference": [
+     0.222,
+     -0.153,
+     0.604
+    ],
+    "observed_table_s11": [
+     0.504,
+     0.144,
+     0.873
+    ]
+   },
+   {
+    "floor": "20",
+    "observed": [
+     0.134,
+     -0.071,
+     0.362
+    ],
+    "reference": [
+     0.055,
+     -0.024,
+     0.154
+    ],
+    "difference": [
+     0.08,
+     -0.1,
+     0.263
+    ],
+    "observed_table_s11": [
+     0.134,
+     -0.075,
+     0.365
+    ]
+   },
+   {
+    "floor": "40",
+    "observed": [
+     -0.02,
+     -0.111,
+     0.08
+    ],
+    "reference": [
+     0.0,
+     -0.015,
+     0.011
+    ],
+    "difference": [
+     -0.021,
+     -0.1,
+     0.071
+    ],
+    "observed_table_s11": [
+     -0.02,
+     -0.107,
+     0.078
+    ]
+   }
+  ],
+  "source": "release: pfas-reporting-rules v1.0.0, results/figures/S5/independence_reference.csv (observed and reference, with intervals from the same 1,999 draws as the differences); differences from table #27 (Table S12)"
+ },
+ "S6": {
+  "rows": [
+   {
+    "panel": "Shared six",
+    "difference": [
+     -0.363,
+     -0.774,
+     0.057
+    ],
+    "bounds": [
+     -20.352,
+     19.687
+    ],
+    "lower_ci": [
+     -20.352,
+     -20.713,
+     -19.976
+    ],
+    "upper_ci": [
+     19.687,
+     19.293,
+     20.073
+    ]
+   },
+   {
+    "panel": "Complete 25",
+    "difference": [
+     1.106,
+     0.441,
+     1.797
+    ],
+    "bounds": [
+     -102.246,
+     103.649
+    ],
+    "lower_ci": [
+     -102.246,
+     -102.839,
+     -101.618
+    ],
+    "upper_ci": [
+     103.649,
+     103.031,
+     104.258
+    ]
+   },
+   {
+    "panel": "Added trio",
+    "difference": [
+     1.449,
+     1.126,
+     1.806
+    ],
+    "bounds": [
+     -8.943,
+     10.984
+    ],
+    "lower_ci": [
+     -8.943,
+     -9.25,
+     -8.609
+    ],
+    "upper_ci": [
+     10.984,
+     10.693,
+     11.298
+    ]
+   },
+   {
+    "panel": "Other 16",
+    "difference": [
+     0.02,
+     -0.058,
+     0.109
+    ],
+    "bounds": [
+     -72.951,
+     72.978
+    ],
+    "lower_ci": [
+     -72.951,
+     -73.025,
+     -72.862
+    ],
+    "upper_ci": [
+     72.978,
+     72.904,
+     73.063
+    ]
+   }
+  ],
+  "source": "tables #28-#29 (Table S13)"
+ },
+ "R1": {
+  "alpha": [
+   0.05,
+   0.1,
+   0.15,
+   0.2,
+   0.3,
+   0.35,
+   0.4,
+   0.45,
+   0.55,
+   0.6,
+   0.65,
+   0.7,
+   0.8,
+   0.85,
+   0.9,
+   0.95
+  ],
+  "shared_shock": [
+   0.19793,
+   0.15516,
+   0.12158,
+   0.09055,
+   0.05426,
+   0.04378,
+   0.02935,
+   0.02383,
+   0.01377,
+   0.01055,
+   0.00669,
+   0.00477,
+   0.0005,
+   -0.0,
+   -0.00011,
+   -0.0003
+  ],
+  "gaussian": [
+   0.19709,
+   0.15616,
+   0.12448,
+   0.09312,
+   0.05549,
+   0.04475,
+   0.03035,
+   0.02479,
+   0.01423,
+   0.01045,
+   0.00655,
+   0.00429,
+   -0.00019,
+   -0.00036,
+   -0.00029,
+   -0.00043
+  ],
+  "band_lo": [
+   0.16844,
+   0.12817,
+   0.09732,
+   0.07006,
+   0.03797,
+   0.02829,
+   0.01641,
+   0.01184,
+   0.00491,
+   0.00248,
+   -1e-05,
+   -0.00019,
+   -0.00296,
+   -0.00228,
+   -0.00185,
+   -0.00109
+  ],
+  "band_hi": [
+   0.22716,
+   0.1828,
+   0.14845,
+   0.11345,
+   0.07174,
+   0.0603,
+   0.04347,
+   0.03692,
+   0.02328,
+   0.01842,
+   0.01311,
+   0.00922,
+   0.00315,
+   0.00172,
+   0.00127,
+   0.00023
+  ],
+  "source": "release: pfas-reporting-rules v1.0.0, results/figures/S7/threshold_path.csv; band = union of the two models' simultaneous 95% intervals"
+ },
+ "R2": {
+  "national": {
+   "Measured at native cutoffs": {
+    "gw": [
+     7.82,
+     7.03,
+     8.66
+    ],
+    "sw": [
+     8.13,
+     7.26,
+     9.02
+    ],
+    "contrast": [
+     0.31,
+     -0.89,
+     1.45
+    ]
+   },
+   "Retained at older cutoffs": {
+    "gw": [
+     0.19,
+     0.1,
+     0.3
+    ],
+    "sw": [
+     0.17,
+     0.03,
+     0.36
+    ],
+    "contrast": [
+     -0.02,
+     -0.2,
+     0.19
+    ]
+   },
+   "Independent, fixed margins": {
+    "gw": [
+     5.02,
+     4.82,
+     5.28
+    ],
+    "sw": [
+     3.15,
+     2.97,
+     3.36
+    ],
+    "contrast": [
+     -1.88,
+     -2.2,
+     -1.57
+    ]
+   },
+   "Shared shock, fixed margins": {
+    "gw": [
+     9.14,
+     8.97,
+     9.33
+    ],
+    "sw": [
+     6.76,
+     6.59,
+     6.96
+    ],
+    "contrast": [
+     -2.37,
+     -2.64,
+     -2.11
+    ]
+   },
+   "Gaussian factor-2, fixed margins": {
+    "gw": [
+     8.64,
+     8.48,
+     8.84
+    ],
+    "sw": [
+     6.49,
+     6.33,
+     6.7
+    ],
+    "contrast": [
+     -2.15,
+     -2.42,
+     -1.88
+    ]
+   },
+   "Count-prior diagnostic": {
+    "gw": [
+     9.505,
+     9.328,
+     9.728
+    ],
+    "sw": [
+     7.099,
+     6.927,
+     7.305
+    ],
+    "contrast": [
+     -2.406,
+     -2.691,
+     -2.129
+    ]
+   },
+   "Training empirical composition": {
+    "gw": [
+     7.57,
+     7.36,
+     7.82
+    ],
+    "sw": [
+     7.2,
+     7.04,
+     7.41
+    ],
+    "contrast": [
+     -0.36,
+     -0.67,
+     -0.07
+    ]
+   },
+   "Logistic, no auxiliaries": {
+    "gw": [
+     3.72,
+     3.51,
+     3.97
+    ],
+    "sw": [
+     3.75,
+     3.57,
+     3.96
+    ],
+    "contrast": [
+     0.03,
+     -0.29,
+     0.33
+    ]
+   },
+   "Linear, no auxiliaries": {
+    "gw": [
+     7.61,
+     7.43,
+     7.82
+    ],
+    "sw": [
+     7.41,
+     7.24,
+     7.61
+    ],
+    "contrast": [
+     -0.2,
+     -0.47,
+     0.07
+    ]
+   },
+   "Nonlinear, no auxiliaries": {
+    "gw": [
+     7.89,
+     7.74,
+     8.08
+    ],
+    "sw": [
+     7.77,
+     7.62,
+     7.97
+    ],
+    "contrast": [
+     -0.12,
+     -0.37,
+     0.13
+    ]
+   },
+   "Logistic, three auxiliaries": {
+    "gw": [
+     6.08,
+     5.44,
+     6.69
+    ],
+    "sw": [
+     8.04,
+     7.37,
+     8.72
+    ],
+    "contrast": [
+     1.96,
+     1.08,
+     2.85
+    ]
+   },
+   "Linear, three auxiliaries": {
+    "gw": [
+     8.17,
+     7.65,
+     8.69
+    ],
+    "sw": [
+     8.67,
+     8.14,
+     9.21
+    ],
+    "contrast": [
+     0.5,
+     -0.22,
+     1.23
+    ]
+   },
+   "Nonlinear, three auxiliaries": {
+    "gw": [
+     7.95,
+     7.43,
+     8.46
+    ],
+    "sw": [
+     9.3,
+     8.75,
+     9.87
+    ],
+    "contrast": [
+     1.35,
+     0.62,
+     2.1
+    ]
+   }
+  },
+  "washington": {
+   "Measured at native cutoffs": {
+    "gw": [
+     4.05,
+     3.05,
+     5.11
+    ],
+    "sw": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "contrast": [
+     -4.05,
+     -5.11,
+     -3.05
+    ]
+   },
+   "Retained at older cutoffs": {
+    "gw": [
+     0.17,
+     0.0,
+     0.39
+    ],
+    "sw": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "contrast": [
+     -0.17,
+     -0.39,
+     0.0
+    ]
+   },
+   "Logistic, no auxiliaries": {
+    "gw": [
+     0.58,
+     0.37,
+     0.84
+    ],
+    "sw": [
+     0.63,
+     0.62,
+     0.64
+    ],
+    "contrast": [
+     0.05,
+     -0.21,
+     0.26
+    ]
+   },
+   "Linear, no auxiliaries": {
+    "gw": [
+     2.13,
+     1.89,
+     2.41
+    ],
+    "sw": [
+     3.0,
+     2.96,
+     3.05
+    ],
+    "contrast": [
+     0.88,
+     0.59,
+     1.11
+    ]
+   },
+   "Nonlinear, no auxiliaries": {
+    "gw": [
+     2.25,
+     2.03,
+     2.51
+    ],
+    "sw": [
+     3.21,
+     3.18,
+     3.24
+    ],
+    "contrast": [
+     0.96,
+     0.69,
+     1.18
+    ]
+   },
+   "Logistic, three auxiliaries": {
+    "gw": [
+     2.51,
+     1.89,
+     3.18
+    ],
+    "sw": [
+     0.09,
+     0.09,
+     0.09
+    ],
+    "contrast": [
+     -2.42,
+     -3.08,
+     -1.8
+    ]
+   },
+   "Linear, three auxiliaries": {
+    "gw": [
+     3.68,
+     3.08,
+     4.34
+    ],
+    "sw": [
+     1.03,
+     1.02,
+     1.04
+    ],
+    "contrast": [
+     -2.66,
+     -3.31,
+     -2.06
+    ]
+   },
+   "Nonlinear, three auxiliaries": {
+    "gw": [
+     3.75,
+     3.12,
+     4.42
+    ],
+    "sw": [
+     0.99,
+     0.97,
+     1.01
+    ],
+    "contrast": [
+     -2.76,
+     -3.43,
+     -2.13
+    ]
+   }
+  },
+  "support": {
+   "National Groundwater": {
+    "events": 11349,
+    "pws": 3555,
+    "multi": 857
+   },
+   "National Surface water": {
+    "events": 4374,
+    "pws": 3406,
+    "multi": 379
+   },
+   "Washington Groundwater": {
+    "events": 1776,
+    "pws": 1418,
+    "multi": 72
+   },
+   "Washington Surface water": {
+    "events": 42,
+    "pws": 41,
+    "multi": 0
+   }
+  },
+  "source": "tables #64-#66 (Table S15)"
+ },
+ "S8": {
+  "a": [
+   {
+    "native_count": "2",
+    "cells": [
+     279,
+     0,
+     0
+    ],
+    "total": 279
+   },
+   {
+    "native_count": "3",
+    "cells": [
+     253,
+     7,
+     0
+    ],
+    "total": 260
+   },
+   {
+    "native_count": "4",
+    "cells": [
+     131,
+     8,
+     2
+    ],
+    "total": 141
+   },
+   {
+    "native_count": "5",
+    "cells": [
+     107,
+     30,
+     7
+    ],
+    "total": 144
+   },
+   {
+    "native_count": "6",
+    "cells": [
+     2,
+     2,
+     1
+    ],
+    "total": 5
+   },
+   {
+    "native_count": "Total",
+    "cells": [
+     772,
+     47,
+     10
+    ],
+    "total": 829
+   }
+  ],
+  "b": [
+   {
+    "pattern": "PFBS + PFHpA + PFHxS + PFOA + PFOS",
+    "events": 140,
+    "cells": [
+     103,
+     30,
+     7
+    ]
+   },
+   {
+    "pattern": "PFBS + PFOA + PFOS",
+    "events": 100,
+    "cells": [
+     99,
+     1,
+     0
+    ]
+   },
+   {
+    "pattern": "PFBS + PFHxS + PFOA + PFOS",
+    "events": 74,
+    "cells": [
+     68,
+     6,
+     0
+    ]
+   },
+   {
+    "pattern": "PFBS + PFHxS + PFOS",
+    "events": 71,
+    "cells": [
+     69,
+     2,
+     0
+    ]
+   },
+   {
+    "pattern": "PFHxS + PFOS",
+    "events": 68,
+    "cells": [
+     68,
+     0,
+     0
+    ]
+   },
+   {
+    "pattern": "PFBS + PFOS",
+    "events": 55,
+    "cells": [
+     55,
+     0,
+     0
+    ]
+   },
+   {
+    "pattern": "PFOA + PFOS",
+    "events": 55,
+    "cells": [
+     55,
+     0,
+     0
+    ]
+   },
+   {
+    "pattern": "PFHxS + PFOA + PFOS",
+    "events": 35,
+    "cells": [
+     34,
+     1,
+     0
+    ]
+   },
+   {
+    "pattern": "Other native multi-PFAS patterns",
+    "events": 231,
+    "cells": [
+     221,
+     7,
+     3
+    ]
+   }
+  ],
+  "c": [
+   {
+    "group": "≥1 of 25 PFAS",
+    "n": 1711,
+    "segments": [
+     359,
+     523,
+     829
+    ]
+   },
+   {
+    "group": "≥2 of 25 PFAS",
+    "n": 1180,
+    "segments": [
+     159,
+     192,
+     829
+    ]
+   }
+  ],
+  "c_hidden": [
+   351,
+   1180
+  ],
+  "source": {
+   "a": "table #13 (Table S5A)",
+   "b": "table #14 (Table S5B)",
+   "c": "derived from tables #15-#16 (Table S6A-B): segments = counts given there"
+  }
+ },
+ "S9": {
+  "a": {
+   "Six, native limits": {
+    "gw": [
+     7.75,
+     7.08,
+     8.42
+    ],
+    "sw": [
+     6.78,
+     6.03,
+     7.5
+    ]
+   },
+   "25, native limits": {
+    "gw": [
+     10.59,
+     9.78,
+     11.34
+    ],
+    "sw": [
+     14.26,
+     13.3,
+     15.21
+    ]
+   }
+  },
+  "b": [
+   {
+    "analyte": "PFBA",
+    "gw": 0.4852,
+    "sw": 2.0828,
+    "difference": [
+     1.5975,
+     1.2765,
+     1.9298
+    ]
+   },
+   {
+    "analyte": "PFPeA",
+    "gw": 1.3222,
+    "sw": 2.836,
+    "difference": [
+     1.5138,
+     1.1684,
+     1.8825
+    ]
+   },
+   {
+    "analyte": "PFHxA",
+    "gw": 0.9714,
+    "sw": 2.4339,
+    "difference": [
+     1.4625,
+     1.1688,
+     1.7875
+    ]
+   },
+   {
+    "analyte": "HFPO-DA",
+    "gw": 0.0025,
+    "sw": 0.07,
+    "difference": [
+     0.0676,
+     0.0222,
+     0.1257
+    ]
+   },
+   {
+    "analyte": "6:2 FTS",
+    "gw": 0.0359,
+    "sw": 0.0594,
+    "difference": [
+     0.0236,
+     -0.0236,
+     0.0715
+    ]
+   },
+   {
+    "analyte": "4:2 FTS",
+    "gw": 0.0067,
+    "sw": 0.0,
+    "difference": [
+     -0.0067,
+     -0.0233,
+     0.0
+    ]
+   },
+   {
+    "analyte": "PFDoA",
+    "gw": 0.0088,
+    "sw": 0.0,
+    "difference": [
+     -0.0088,
+     -0.0206,
+     0.0
+    ]
+   },
+   {
+    "analyte": "PFPeS",
+    "gw": 0.0091,
+    "sw": 0.0,
+    "difference": [
+     -0.0091,
+     -0.0309,
+     0.0
+    ]
+   }
+  ],
+  "b_trio": 4.5738,
+  "b_other16": {
+   "difference": [
+    0.0666,
+    -0.0056,
+    0.144
+   ],
+   "members": [
+    "11Cl-PF3OUdS",
+    "4:2 FTS",
+    "6:2 FTS",
+    "8:2 FTS",
+    "9Cl-PF3ONS",
+    "ADONA",
+    "HFPO-DA",
+    "NFDHA",
+    "PFDA",
+    "PFDoA",
+    "PFEESA",
+    "PFHpS",
+    "PFMBA",
+    "PFMPA",
+    "PFPeS",
+    "PFUnA"
+   ],
+   "source": "release: pfas-reporting-rules v1.0.0, results/figures/Fig3/Fig3b_panel_attribution.csv (interval computed jointly, not by summing limits)"
+  },
+  "b_other_zero": 11,
+  "c": [
+   {
+    "floor": "Native",
+    "effect": [
+     4.64,
+     3.827,
+     5.474
+    ]
+   },
+   {
+    "floor": "5",
+    "effect": [
+     2.986,
+     2.351,
+     3.613
+    ]
+   },
+   {
+    "floor": "10",
+    "effect": [
+     0.504,
+     0.144,
+     0.873
+    ]
+   },
+   {
+    "floor": "20",
+    "effect": [
+     0.134,
+     -0.075,
+     0.365
+    ]
+   },
+   {
+    "floor": "40",
+    "effect": [
+     -0.02,
+     -0.107,
+     0.078
+    ]
+   }
+  ],
+  "d": {
+   "Groundwater": {
+    "reference_positive": 2393,
+    "label": 73.55,
+    "pair": 37.93
+   },
+   "Surface water": {
+    "reference_positive": 1071,
+    "label": 47.71,
+    "pair": 15.34
+   }
+  },
+  "source": {
+   "a": "table #22 (Table S9A)",
+   "b": "table #25 (Table S10); the other 11 analytes contribute 0.0000",
+   "c": "table #26 (Table S11)",
+   "d": "table #21 (Table S8C), six PFAS, two samples"
+  }
+ },
+ "S10": {
+  "a": {
+   "Independence": {
+    "pattern": 0.239951,
+    "count": 0.185354,
+    "identity": 0.054597
+   },
+   "Count prior": {
+    "pattern": 0.205668,
+    "count": 0.150596,
+    "identity": 0.055072
+   },
+   "Shared shock": {
+    "pattern": 0.204576,
+    "count": 0.15097,
+    "identity": 0.053606
+   },
+   "Gaussian factor-2": {
+    "pattern": 0.20552,
+    "count": 0.150669,
+    "identity": 0.054851
+   }
+  },
+  "b": {
+   "Pattern": {
+    "Shared shock": [
+     0.035375,
+     0.023928,
+     0.048519
+    ],
+    "Gaussian factor-2": [
+     0.034431,
+     0.022995,
+     0.047612
+    ]
+   },
+   "Count": {
+    "Shared shock": [
+     0.034384,
+     0.02305,
+     0.047432
+    ],
+    "Gaussian factor-2": [
+     0.034685,
+     0.023524,
+     0.047544
+    ]
+   },
+   "Conditional identity": {
+    "Shared shock": [
+     0.000991,
+     -0.001549,
+     0.004286
+    ],
+    "Gaussian factor-2": [
+     -0.000254,
+     -0.002716,
+     0.00217
+    ]
+   }
+  },
+  "c": {
+   "Observed": [
+    96.6567,
+    1.9798,
+    0.77845,
+    0.36782,
+    0.14088,
+    0.06713,
+    0.00923
+   ],
+   "Independence": [
+    93.51979,
+    5.6865,
+    0.59213,
+    0.12211,
+    0.04888,
+    0.02307,
+    0.00752
+   ],
+   "Shared shock": [
+    95.80539,
+    2.33382,
+    0.94568,
+    0.49496,
+    0.24114,
+    0.15558,
+    0.02343
+   ]
+  },
+  "c_source": {
+   "Observed": "K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv",
+   "models": "release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+  },
+  "d": [
+   {
+    "pattern": "PFOA + PFOS",
+    "Observed": 0.19469999999999998,
+    "Independence": 0.11556,
+    "Shared shock": 0.331477,
+    "Observed_source": "table #41 (Table R4A)"
+   },
+   {
+    "pattern": "PFHpA + PFOA",
+    "Observed": 0.191798,
+    "Independence": 0.049715,
+    "Shared shock": 0.090161,
+    "Observed_source": "release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv"
+   },
+   {
+    "pattern": "PFHxS + PFOS",
+    "Observed": 0.1545,
+    "Independence": 0.052715,
+    "Shared shock": 0.152613,
+    "Observed_source": "table #41 (Table R4A)"
+   },
+   {
+    "pattern": "PFBS + PFHpA + PFOA",
+    "Observed": 0.1003,
+    "Independence": 0.015967,
+    "Shared shock": 0.04213,
+    "Observed_source": "table #41 (Table R4A)"
+   },
+   {
+    "pattern": "PFBS + PFOA + PFOS",
+    "Observed": 0.08589999999999999,
+    "Independence": 0.017493,
+    "Shared shock": 0.125301,
+    "Observed_source": "table #41 (Table R4A)"
+   },
+   {
+    "pattern": "PFBS + PFOA",
+    "Observed": 0.071696,
+    "Independence": 0.077556,
+    "Shared shock": 0.075607,
+    "Observed_source": "release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv"
+   }
+  ],
+  "source": {
+   "a": "table #35 (Table S14A)",
+   "b": "table #36 (Table S14B)",
+   "c": "see c_source",
+   "d": "patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+  }
+ },
+ "S11": {
+  "a": {
+   "Linear": [
+    0.644426,
+    0.516593,
+    0.515942,
+    0.500535
+   ],
+   "Nonlinear": [
+    0.63512,
+    0.508449,
+    0.509388,
+    0.497823
+   ]
+  },
+  "a_ci": {
+   "Linear": [
+    [
+     0.5836235071815286,
+     0.7051704243983605
+    ],
+    [
+     0.4720332718450616,
+     0.5616268310544071
+    ],
+    [
+     0.4710701391349935,
+     0.5615652737483497
+    ],
+    [
+     0.4633958788766718,
+     0.5385808664150517
+    ]
+   ],
+   "Nonlinear": [
+    [
+     0.5728627184747009,
+     0.6977177280398523
+    ],
+    [
+     0.4610224926504409,
+     0.5561501400568118
+    ],
+    [
+     0.4603467006681385,
+     0.5587442457236502
+    ],
+    [
+     0.4550776225580967,
+     0.5410050059831449
+    ]
+   ]
+  },
+  "a_paired": {
+   "Linear": {
+    "None → count": {
+     "value": 0.127832,
+     "pws": [
+      0.108252,
+      0.147305
+     ],
+     "jurisdiction": [
+      0.092185,
+      0.174084
+     ]
+    },
+    "Count → flags": {
+     "value": 0.000652,
+     "pws": [
+      -0.001563,
+      0.002999
+     ],
+     "jurisdiction": [
+      -0.002913,
+      0.004493
+     ]
+    },
+    "Flags → flags and concentrations": {
+     "value": 0.015406,
+     "pws": [
+      0.005094,
+      0.025869
+     ],
+     "jurisdiction": [
+      0.003722,
+      0.034491
+     ]
+    },
+    "None → full three": {
+     "value": 0.14389,
+     "pws": [
+      0.115418,
+      0.172773
+     ],
+     "jurisdiction": [
+      0.098888,
+      0.207739
+     ]
+    }
+   },
+   "Nonlinear": {
+    "None → count": {
+     "value": 0.126671,
+     "pws": [
+      0.108414,
+      0.144572
+     ],
+     "jurisdiction": [
+      0.092779,
+      0.170291
+     ]
+    },
+    "Count → flags": {
+     "value": -0.000938,
+     "pws": [
+      -0.00592,
+      0.003525
+     ],
+     "jurisdiction": [
+      -0.007253,
+      0.005034
+     ]
+    },
+    "Flags → flags and concentrations": {
+     "value": 0.011564,
+     "pws": [
+      0.003859,
+      0.01936
+     ],
+     "jurisdiction": [
+      0.001739,
+      0.025082
+     ]
+    },
+    "None → full three": {
+     "value": 0.137297,
+     "pws": [
+      0.113811,
+      0.160781
+     ],
+     "jurisdiction": [
+      0.097562,
+      0.192375
+     ]
+    }
+   }
+  },
+  "b": {
+   "Linear": {
+    "None → count": {
+     "value": 0.126669,
+     "pws": [
+      0.040396,
+      0.203963
+     ],
+     "jurisdiction": [
+      0.031458,
+      0.272229
+     ]
+    },
+    "Count → flags": {
+     "value": -0.007486,
+     "pws": [
+      -0.023423,
+      0.010527
+     ],
+     "jurisdiction": [
+      -0.028999,
+      0.013442
+     ]
+    },
+    "Flags → flags and concentrations": {
+     "value": 0.115206,
+     "pws": [
+      0.016337,
+      0.201449
+     ],
+     "jurisdiction": [
+      0.010645,
+      0.289849
+     ]
+    },
+    "None → full three": {
+     "value": 0.234388,
+     "pws": [
+      0.066074,
+      0.388879
+     ],
+     "jurisdiction": [
+      0.05119,
+      0.541835
+     ]
+    }
+   },
+   "Nonlinear": {
+    "None → count": {
+     "value": 0.089768,
+     "pws": [
+      0.021605,
+      0.149736
+     ],
+     "jurisdiction": [
+      0.014389,
+      0.202597
+     ]
+    },
+    "Count → flags": {
+     "value": -0.03064,
+     "pws": [
+      -0.064018,
+      -0.000975
+     ],
+     "jurisdiction": [
+      -0.078278,
+      0.00452
+     ]
+    },
+    "Flags → flags and concentrations": {
+     "value": 0.058328,
+     "pws": [
+      -0.002897,
+      0.109708
+     ],
+     "jurisdiction": [
+      -0.023591,
+      0.16544
+     ]
+    },
+    "None → full three": {
+     "value": 0.117456,
+     "pws": [
+      -0.007535,
+      0.233868
+     ],
+     "jurisdiction": [
+      -0.029785,
+      0.344755
+     ]
+    }
+   }
+  },
+  "c": {
+   "Logistic": {
+    "none": 0.661829,
+    "three": 0.471381,
+    "value": 0.190448,
+    "pws": [
+     0.10893,
+     0.274846
+    ],
+    "county": [
+     0.058001,
+     0.359213
+    ]
+   },
+   "Linear": {
+    "none": 0.507001,
+    "three": 0.422294,
+    "value": 0.084707,
+    "pws": [
+     0.051733,
+     0.117053
+    ],
+    "county": [
+     0.031181,
+     0.14995
+    ]
+   },
+   "Nonlinear": {
+    "none": 0.478977,
+    "three": 0.39551,
+    "value": 0.083467,
+    "pws": [
+     0.052678,
+     0.113357
+    ],
+    "county": [
+     0.032745,
+     0.14783
+    ]
+   }
+  },
+  "c_ci": {
+   "Logistic": {
+    "none": [
+     0.540859182409959,
+     0.7885540346699494
+    ],
+    "three": [
+     0.3950634302112819,
+     0.5520152542113433
+    ]
+   },
+   "Linear": {
+    "none": [
+     0.4219377418044561,
+     0.5932017000203283
+    ],
+    "three": [
+     0.3521182083863268,
+     0.4957704838060545
+    ]
+   },
+   "Nonlinear": {
+    "none": [
+     0.4002227134126904,
+     0.560454274813759
+    ],
+    "three": [
+     0.3312909249860974,
+     0.4625541834842537
+    ]
+   }
+  },
+  "d": {
+   "Logistic": {
+    "none": 1.816299,
+    "three": 1.701376,
+    "value": 0.114924,
+    "pws": [
+     0.024672,
+     0.198098
+    ],
+    "county": [
+     0.023147,
+     0.176073
+    ]
+   },
+   "Linear": {
+    "none": 1.912637,
+    "three": 1.830391,
+    "value": 0.082246,
+    "pws": [
+     -0.0139,
+     0.198247
+    ],
+    "county": [
+     0.014545,
+     0.160348
+    ]
+   },
+   "Nonlinear": {
+    "none": 1.55135,
+    "three": 1.501339,
+    "value": 0.050011,
+    "pws": [
+     -0.010831,
+     0.110655
+    ],
+    "county": [
+     0.005847,
+     0.103476
+    ]
+   }
+  },
+  "inputs": [
+   "No auxiliary",
+   "Auxiliary count",
+   "Individual flags",
+   "Flags and concentrations"
+  ],
+  "comparisons": [
+   "None → count",
+   "Count → flags",
+   "Flags → flags and concentrations",
+   "None → full three"
+  ],
+  "source": {
+   "a": "table #55 (Table R11) and #56 (Table R12, pattern); intervals release: pfas-reporting-rules v1.0.0, results/figures/Fig5/Fig5a_national_pattern.csv",
+   "b": "table #56 (Table R12, identity count 1-5)",
+   "c": "table #57 (Table R13, pattern); intervals release: pfas-reporting-rules v1.0.0, results/figures/Fig5/Fig5c_washington_pattern.csv",
+   "d": "table #57 (Table R13, identity count 1-5)"
+  }
+ },
+ "S12": {
+  "a": [
+   {
+    "condition": "Measured",
+    "key": "Measured at native cutoffs",
+    "gw": [
+     7.82,
+     7.03,
+     8.66
+    ],
+    "sw": [
+     8.13,
+     7.26,
+     9.02
+    ],
+    "contrast": [
+     0.31,
+     -0.89,
+     1.45
+    ]
+   },
+   {
+    "condition": "Older-cutoff summary",
+    "key": "Retained at older cutoffs",
+    "gw": [
+     0.19,
+     0.1,
+     0.3
+    ],
+    "sw": [
+     0.17,
+     0.03,
+     0.36
+    ],
+    "contrast": [
+     -0.02,
+     -0.2,
+     0.19
+    ]
+   },
+   {
+    "condition": "Independence",
+    "key": "Independent, fixed margins",
+    "gw": [
+     5.02,
+     4.82,
+     5.28
+    ],
+    "sw": [
+     3.15,
+     2.97,
+     3.36
+    ],
+    "contrast": [
+     -1.88,
+     -2.2,
+     -1.57
+    ]
+   },
+   {
+    "condition": "Shared shock",
+    "key": "Shared shock, fixed margins",
+    "gw": [
+     9.14,
+     8.97,
+     9.33
+    ],
+    "sw": [
+     6.76,
+     6.59,
+     6.96
+    ],
+    "contrast": [
+     -2.37,
+     -2.64,
+     -2.11
+    ]
+   },
+   {
+    "condition": "Gaussian factor-2",
+    "key": "Gaussian factor-2, fixed margins",
+    "gw": [
+     8.64,
+     8.48,
+     8.84
+    ],
+    "sw": [
+     6.49,
+     6.33,
+     6.7
+    ],
+    "contrast": [
+     -2.15,
+     -2.42,
+     -1.88
+    ]
+   },
+   {
+    "condition": "Count prior",
+    "key": "Count-prior diagnostic",
+    "gw": [
+     9.505,
+     9.328,
+     9.728
+    ],
+    "sw": [
+     7.099,
+     6.927,
+     7.305
+    ],
+    "contrast": [
+     -2.406,
+     -2.691,
+     -2.129
+    ]
+   },
+   {
+    "condition": "Empirical composition",
+    "key": "Training empirical composition",
+    "gw": [
+     7.57,
+     7.36,
+     7.82
+    ],
+    "sw": [
+     7.2,
+     7.04,
+     7.41
+    ],
+    "contrast": [
+     -0.36,
+     -0.67,
+     -0.07
+    ]
+   },
+   {
+    "condition": "Nonlinear, no auxiliaries",
+    "key": "Nonlinear, no auxiliaries",
+    "gw": [
+     7.89,
+     7.74,
+     8.08
+    ],
+    "sw": [
+     7.77,
+     7.62,
+     7.97
+    ],
+    "contrast": [
+     -0.12,
+     -0.37,
+     0.13
+    ]
+   }
+  ],
+  "b": [
+   {
+    "condition": "Older-cutoff summary",
+    "number": 1,
+    "gw_bias": -7.63,
+    "sw_bias": -7.96
+   },
+   {
+    "condition": "Independence",
+    "number": 2,
+    "gw_bias": -2.8,
+    "sw_bias": -4.98
+   },
+   {
+    "condition": "Shared shock",
+    "number": 3,
+    "gw_bias": 1.32,
+    "sw_bias": -1.37
+   },
+   {
+    "condition": "Gaussian factor-2",
+    "number": 4,
+    "gw_bias": 0.82,
+    "sw_bias": -1.64
+   },
+   {
+    "condition": "Count prior",
+    "number": 5,
+    "gw_bias": 1.685,
+    "sw_bias": -1.031
+   },
+   {
+    "condition": "Empirical composition",
+    "number": 6,
+    "gw_bias": -0.25,
+    "sw_bias": -0.93
+   },
+   {
+    "condition": "Nonlinear, no auxiliaries",
+    "number": 7,
+    "gw_bias": 0.07,
+    "sw_bias": -0.36
+   }
+  ],
+  "c": {
+   "gw": [
+    {
+     "pfas": "PFBS",
+     "observed": 8.24,
+     "predicted": 8.703,
+     "bias": [
+      0.463,
+      -0.324,
+      1.241
+     ]
+    },
+    {
+     "pfas": "PFHpA",
+     "observed": 2.335,
+     "predicted": 2.65,
+     "bias": [
+      0.316,
+      -0.163,
+      0.747
+     ]
+    },
+    {
+     "pfas": "PFHxS",
+     "observed": 4.598,
+     "predicted": 5.166,
+     "bias": [
+      0.568,
+      -0.104,
+      1.193
+     ]
+    },
+    {
+     "pfas": "PFNA",
+     "observed": 0.442,
+     "predicted": 0.415,
+     "bias": [
+      -0.027,
+      -0.172,
+      0.092
+     ]
+    },
+    {
+     "pfas": "PFOA",
+     "observed": 6.866,
+     "predicted": 8.35,
+     "bias": [
+      1.484,
+      0.722,
+      2.148
+     ]
+    },
+    {
+     "pfas": "PFOS",
+     "observed": 6.704,
+     "predicted": 8.638,
+     "bias": [
+      1.933,
+      1.174,
+      2.677
+     ]
+    }
+   ],
+   "sw": [
+    {
+     "pfas": "PFBS",
+     "observed": 10.772,
+     "predicted": 7.099,
+     "bias": [
+      -3.674,
+      -4.981,
+      -2.556
+     ]
+    },
+    {
+     "pfas": "PFHpA",
+     "observed": 2.595,
+     "predicted": 1.84,
+     "bias": [
+      -0.755,
+      -1.239,
+      -0.275
+     ]
+    },
+    {
+     "pfas": "PFHxS",
+     "observed": 3.889,
+     "predicted": 3.499,
+     "bias": [
+      -0.39,
+      -1.034,
+      0.217
+     ]
+    },
+    {
+     "pfas": "PFNA",
+     "observed": 0.074,
+     "predicted": 0.235,
+     "bias": [
+      0.161,
+      0.047,
+      0.233
+     ]
+    },
+    {
+     "pfas": "PFOA",
+     "observed": 8.168,
+     "predicted": 6.93,
+     "bias": [
+      -1.238,
+      -2.011,
+      -0.441
+     ]
+    },
+    {
+     "pfas": "PFOS",
+     "observed": 7.388,
+     "predicted": 6.253,
+     "bias": [
+      -1.135,
+      -1.918,
+      -0.359
+     ]
+    }
+   ]
+  },
+  "expected_count": {
+   "Groundwater": {
+    "observed": 0.2918,
+    "predicted": 0.3392,
+    "bias": [
+     0.0474,
+     0.0186,
+     0.0739
+    ]
+   },
+   "Surface water": {
+    "observed": 0.3289,
+    "predicted": 0.2586,
+    "bias": [
+     -0.0703,
+     -0.0976,
+     -0.0436
+    ]
+   }
+  },
+  "source": {
+   "a": "table #65 (Table S15B)",
+   "b": "derived: rate minus measured rate, table #65",
+   "c": "tables #73-#74 (Table R17A-B)"
+  }
+ },
+ "S13": {
+  "endpoints": [
+   "Functional-group state",
+   "PFOA–PFOS",
+   "PFHxS–PFOS"
+  ],
+  "ucmr5": [
+   {
+    "candidate": "Shared shock, fixed margins",
+    "reference": "Independent, fixed margins",
+    "Functional-group state": [
+     -0.003186,
+     -0.005589,
+     -0.000784
+    ],
+    "PFOA–PFOS": [
+     -0.003892,
+     -0.011545,
+     0.00376
+    ],
+    "PFHxS–PFOS": [
+     -0.001426,
+     -0.002983,
+     0.000131
+    ]
+   },
+   {
+    "candidate": "Gaussian factor-2, fixed margins",
+    "reference": "Independent, fixed margins",
+    "Functional-group state": [
+     -0.003621,
+     -0.005174,
+     -0.002068
+    ],
+    "PFOA–PFOS": [
+     -0.002698,
+     -0.008251,
+     0.002856
+    ],
+    "PFHxS–PFOS": [
+     -0.002541,
+     -0.004716,
+     -0.000366
+    ]
+   },
+   {
+    "candidate": "Training empirical composition",
+    "reference": "Independent, fixed margins",
+    "Functional-group state": [
+     -0.003894,
+     -0.009999,
+     0.00221
+    ],
+    "PFOA–PFOS": [
+     0.000248,
+     -0.003813,
+     0.004308
+    ],
+    "PFHxS–PFOS": [
+     -0.000965,
+     -0.003317,
+     0.001387
+    ]
+   },
+   {
+    "candidate": "Logistic, three auxiliaries",
+    "reference": "Logistic, no auxiliaries",
+    "Functional-group state": [
+     0.002448,
+     -0.000279,
+     0.005176
+    ],
+    "PFOA–PFOS": [
+     0.002906,
+     0.000466,
+     0.005345
+    ],
+    "PFHxS–PFOS": [
+     0.004988,
+     0.001719,
+     0.008256
+    ]
+   },
+   {
+    "candidate": "Linear, three auxiliaries",
+    "reference": "Linear, no auxiliaries",
+    "Functional-group state": [
+     0.00345,
+     0.001203,
+     0.005696
+    ],
+    "PFOA–PFOS": [
+     0.009603,
+     -0.00473,
+     0.023936
+    ],
+    "PFHxS–PFOS": [
+     0.004581,
+     0.002337,
+     0.006824
+    ]
+   },
+   {
+    "candidate": "Nonlinear, three auxiliaries",
+    "reference": "Nonlinear, no auxiliaries",
+    "Functional-group state": [
+     -0.001976,
+     -0.004664,
+     0.000711
+    ],
+    "PFOA–PFOS": [
+     0.001301,
+     -0.001482,
+     0.004084
+    ],
+    "PFHxS–PFOS": [
+     0.002894,
+     0.000603,
+     0.005184
+    ]
+   }
+  ],
+  "wa_pws": [
+   {
+    "candidate": "Logistic, three auxiliaries",
+    "reference": "Logistic, no auxiliaries",
+    "Functional-group state": [
+     0.003751,
+     -0.000109,
+     0.007611
+    ],
+    "PFOA–PFOS": [
+     0.002317,
+     -0.000274,
+     0.004908
+    ],
+    "PFHxS–PFOS": [
+     0.002984,
+     0.000671,
+     0.005298
+    ]
+   },
+   {
+    "candidate": "Linear, three auxiliaries",
+    "reference": "Linear, no auxiliaries",
+    "Functional-group state": [
+     0.003376,
+     -0.000628,
+     0.007379
+    ],
+    "PFOA–PFOS": [
+     0.005646,
+     -0.000615,
+     0.011907
+    ],
+    "PFHxS–PFOS": [
+     0.004864,
+     -1.4e-05,
+     0.009743
+    ]
+   },
+   {
+    "candidate": "Nonlinear, three auxiliaries",
+    "reference": "Nonlinear, no auxiliaries",
+    "Functional-group state": [
+     0.000175,
+     -0.001953,
+     0.002302
+    ],
+    "PFOA–PFOS": [
+     -0.001147,
+     -0.002406,
+     0.000111
+    ],
+    "PFHxS–PFOS": [
+     0.003284,
+     0.00097,
+     0.005597
+    ]
+   }
+  ],
+  "wa_county": [
+   {
+    "candidate": "Logistic, three auxiliaries",
+    "reference": "Logistic, no auxiliaries",
+    "Functional-group state": [
+     0.003751,
+     -0.000803,
+     0.008305
+    ],
+    "PFOA–PFOS": [
+     0.002317,
+     -0.000649,
+     0.005283
+    ],
+    "PFHxS–PFOS": [
+     0.002984,
+     0.000447,
+     0.005522
+    ]
+   },
+   {
+    "candidate": "Linear, three auxiliaries",
+    "reference": "Linear, no auxiliaries",
+    "Functional-group state": [
+     0.003376,
+     -0.001415,
+     0.008166
+    ],
+    "PFOA–PFOS": [
+     0.005646,
+     -0.000442,
+     0.011735
+    ],
+    "PFHxS–PFOS": [
+     0.004864,
+     -0.00084,
+     0.010569
+    ]
+   },
+   {
+    "candidate": "Nonlinear, three auxiliaries",
+    "reference": "Nonlinear, no auxiliaries",
+    "Functional-group state": [
+     0.000175,
+     -0.002097,
+     0.002447
+    ],
+    "PFOA–PFOS": [
+     -0.001147,
+     -0.002462,
+     0.000167
+    ],
+    "PFHxS–PFOS": [
+     0.003284,
+     0.000219,
+     0.006349
+    ]
+   }
+  ],
+  "source": "tables #80-#82 (Table R19A-C)"
+ },
+ "_checks": [
+  {
+   "check": "S7a UCMR 3 samples, UCMR 3 MRLs rate equals k/n",
+   "ok": true,
+   "detail": "36/7677 = 0.469%"
+  },
+  {
+   "check": "S7a UCMR 5 samples, UCMR 5 MRLs rate equals k/n",
+   "ok": true,
+   "detail": "829/7677 = 10.798%"
+  },
+  {
+   "check": "S7a UCMR 5 samples, UCMR 3 cutoffs rate equals k/n",
+   "ok": true,
+   "detail": "10/7677 = 0.13%"
+  },
+  {
+   "check": "S7c printed share equals k/n",
+   "ok": true,
+   "detail": "36/79 = 45.6%"
+  },
+  {
+   "check": "S7c printed share equals k/n",
+   "ok": true,
+   "detail": "829/1353 = 61.3%"
+  },
+  {
+   "check": "S7c printed share equals k/n",
+   "ok": true,
+   "detail": "10/58 = 17.2%"
+  },
+  {
+   "check": "S7d native = reclassification + shared-cutoff (points)",
+   "ok": true,
+   "detail": "{'native': (6.601, 4.106, 9.489), 'reclassification': (6.835, 4.283, 9.759), 'shared_cutoff': (-0.234, -0.522, -0.053)}"
+  },
+  {
+   "check": "S1 release reproduces the 9 tabulated estimates and 18 interval ends",
+   "ok": true,
+   "detail": "max |difference| 0.0005 pp (tables give 3 decimals)"
+  },
+  {
+   "check": "S1 digitizer reproduces the 9 tabulated estimates and 18 interval ends",
+   "ok": true,
+   "detail": "worst error 0.47 px"
+  },
+  {
+   "check": "S2a release ends at the tabulated count at UCMR 3 cutoffs",
+   "ok": true,
+   "detail": "1.2063% vs 1.2063% (Table S5A)"
+  },
+  {
+   "check": "S2b release ends at the tabulated count at UCMR 3 cutoffs",
+   "ok": true,
+   "detail": "93.1242% vs 93.1242% (Table S5A)"
+  },
+  {
+   "check": "S2 trapezoid integral of the release curve, multiple_obs",
+   "ok": true,
+   "detail": "0.271984 vs Table S7 0.271984"
+  },
+  {
+   "check": "S2 trapezoid integral of the release curve, multiple_ref",
+   "ok": true,
+   "detail": "0.257344 vs Table S7 0.257344"
+  },
+  {
+   "check": "S2 trapezoid integral of the release curve, none_obs",
+   "ok": true,
+   "detail": "0.543185 vs Table S7 0.543185"
+  },
+  {
+   "check": "S2 trapezoid integral of the release curve, none_ref",
+   "ok": true,
+   "detail": "0.501407 vs Table S7 0.501407"
+  },
+  {
+   "check": "S3a digitizer reproduces the six tabulated point estimates",
+   "ok": true,
+   "detail": "worst error 0.47 px"
+  },
+  {
+   "check": "S3b release support counts equal the counts printed in the figure",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S3b recomputed top-12 pairs are the printed pairs in the printed order",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S3b recomputed paired cohort size",
+   "ok": true,
+   "detail": "25755 vs 25,756 (Table S8A)"
+  },
+  {
+   "check": "S3b recomputation from the UCMR 5 file reproduces the release counts and fractions",
+   "ok": true,
+   "detail": "12 of 12 support counts exact"
+  },
+  {
+   "check": "S4 change = 25 - six (Location-proportional strata)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S4 change = 25 - six (PWS equal within strata)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S4 change = 25 - six (Jurisdiction equal)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S4 change = 25 - six (Excluding Texas)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 observed in Table S12 equals Table S11 (Native)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 difference = observed - reference (Native)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 release reproduces Table S12 (Native)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 observed in Table S12 equals Table S11 (5)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 difference = observed - reference (5)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 release reproduces Table S12 (5)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 observed in Table S12 equals Table S11 (10)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 difference = observed - reference (10)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 release reproduces Table S12 (10)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 observed in Table S12 equals Table S11 (20)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 difference = observed - reference (20)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 release reproduces Table S12 (20)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 observed in Table S12 equals Table S11 (40)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 difference = observed - reference (40)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S5 release reproduces Table S12 (40)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S6 bounds in Table S13 panels A and B agree (Shared six)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S6 bounds in Table S13 panels A and B agree (Complete 25)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S6 bounds in Table S13 panels A and B agree (Added trio)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S6 bounds in Table S13 panels A and B agree (Other 16)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R1 axis calibration residual",
+   "ok": true,
+   "detail": "0.0001, 0.0001"
+  },
+  {
+   "check": "R1 both series fall to about zero at the UCMR 3 end",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Measured at native cutoffs)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Retained at older cutoffs)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Independent, fixed margins)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Shared shock, fixed margins)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Gaussian factor-2, fixed margins)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Count-prior diagnostic)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Training empirical composition)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Logistic, no auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Linear, no auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Nonlinear, no auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Logistic, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Linear, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "R2/S12 national contrast = SW - GW (Nonlinear, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (2)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (3)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (4)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (5)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (6)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8a row sums (Total)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFBS + PFHpA + PFHxS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFBS + PFOA + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFBS + PFHxS + PFOA )",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFBS + PFHxS + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFHxS + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFBS + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFOA + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (PFHxS + PFOA + PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b row sums (Other native multi-P)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8b rows sum to 829",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S8c >=2 shared segment equals the 829 six-panel multi-PFAS events in both groups",
+   "ok": true,
+   "detail": "[{'group': '≥1 of 25 PFAS', 'n': 1711, 'segments': [359, 523, 829]}, {'group': '≥2 of 25 PFAS', 'n': 1180, 'segments': [159, 192, 829]}]"
+  },
+  {
+   "check": "S8c hidden bracket = 351/1,180",
+   "ok": true,
+   "detail": "351/1180 = 29.7%"
+  },
+  {
+   "check": "S9b contributions sum to the native panel effect",
+   "ok": true,
+   "detail": "4.6404 vs 4.64"
+  },
+  {
+   "check": "S9b release reproduces the Table S10 contributions of PFBA, PFPeA and PFHxA",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S9b release aggregate of the other 16 PFAS equals the sum of their Table S10 contributions",
+   "ok": true,
+   "detail": "0.0666 vs 0.0666"
+  },
+  {
+   "check": "S10a pattern = count + identity (Independence)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10a pattern = count + identity (Count prior)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10a pattern = count + identity (Shared shock)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10a pattern = count + identity (Gaussian factor-2)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10 axis calibration residual",
+   "ok": true,
+   "detail": "0.0000, 0.0000"
+  },
+  {
+   "check": "S10c release observed K=0 and K=1 equal Table R4C and the sum of Table R4B singletons",
+   "ok": true,
+   "detail": "96.6567% and 1.9798% vs 96.6567% and 1.9798%"
+  },
+  {
+   "check": "S10c release distributions sum to 100%",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10d dot matrix has six constituent columns",
+   "ok": true,
+   "detail": "[67, 148, 230, 311, 392, 474]"
+  },
+  {
+   "check": "S10d dot matrix identifies six two- or three-PFAS patterns",
+   "ok": true,
+   "detail": "['PFOA + PFOS', 'PFHpA + PFOA', 'PFHxS + PFOS', 'PFBS + PFHpA + PFOA', 'PFBS + PFOA + PFOS', 'PFBS + PFOA']"
+  },
+  {
+   "check": "S10d release lists the dot-matrix patterns in the same order",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S10d release observed frequencies equal Table R4A",
+   "ok": true,
+   "detail": "4 patterns tabulated; max |difference| 0.000044 percentage points"
+  },
+  {
+   "check": "S11a successive pattern differences equal Table R12 (Linear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11a successive pattern differences equal Table R12 (Nonlinear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11c reduction = none - three (Logistic)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11c reduction = none - three (Linear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11c reduction = none - three (Nonlinear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11a release absolute losses equal Table R11",
+   "ok": true,
+   "detail": "max |difference| 4.70e-07 nats"
+  },
+  {
+   "check": "S11c release absolute losses equal Table R13 (Logistic)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11c release absolute losses equal Table R13 (Linear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S11c release absolute losses equal Table R13 (Nonlinear)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFBS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFHpA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFHxS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFNA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFOA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (gw PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFBS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFHpA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFHxS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFNA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFOA)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S12c bias = predicted - observed (sw PFOS)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S13 Washington PWS and county blocks share point estimates (Logistic, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S13 Washington PWS and county blocks share point estimates (Linear, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "S13 Washington PWS and county blocks share point estimates (Nonlinear, three auxiliaries)",
+   "ok": true,
+   "detail": ""
+  }
+ ],
+ "_digitizer_vs_release": {
+  "S1": {
+   "max_abs_difference": 0.0187,
+   "unit": "percentage points"
+  },
+  "S2a observed and reference mean": {
+   "max_abs_difference": 0.4597,
+   "unit": "percentage points"
+  },
+  "S2a envelope": {
+   "max_abs_difference": 1.6319,
+   "unit": "percentage points"
+  },
+  "S2b observed and reference mean": {
+   "max_abs_difference": 0.2785,
+   "unit": "percentage points"
+  },
+  "S2b envelope": {
+   "max_abs_difference": 1.6892,
+   "unit": "percentage points"
+  },
+  "S3b": {
+   "max_abs_difference": 0.2436,
+   "unit": "percentage points"
+  },
+  "R1 model curves": {
+   "max_abs_difference": 0.0005,
+   "unit": "nats"
+  },
+  "R1 band below the axis top (0.20 nats)": {
+   "max_abs_difference": 0.0014,
+   "unit": "nats"
+  },
+  "S10c (K=1-6)": {
+   "max_abs_difference": 0.0071,
+   "unit": "relative difference"
+  },
+  "S10d": {
+   "max_abs_difference": 0.0007,
+   "unit": "percentage points"
+  }
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "unseen_systems": {
+  "unseen": {
+   "n": 588,
+   "pop_m": 42.0,
+   "tested_before_ucmr5": 0.732993,
+   "never_tested": 0.156463,
+   "dk_or_blank": 0.110544,
+   "treated": 0.086735,
+   "aware_of_sources": 0.207483,
+   "seen_today_under_ucmr3_rule": 0.068027,
+   "max_oaos_median": 7.7,
+   "max_oaos_below_20": 0.914966,
+   "large_share": 0.942177,
+   "any_surface_water": 0.579932,
+   "pop_quartiles": [
+    17615,
+    32362,
+    59991
+   ],
+   "n_pop_under_10000": 31,
+   "top_states": {
+    "FL": 83,
+    "CA": 79,
+    "NJ": 65,
+    "MA": 52,
+    "PA": 37,
+    "SC": 28,
+    "NC": 27,
+    "AL": 22
+   },
+   "n_states": 42,
+   "never_tested_pop_m": 3.5,
+   "never_tested_n": 92,
+   "untested_or_dk_and_untreated_n": 157
+  },
+  "seen": {
+   "n": 111,
+   "pop_m": 11.48,
+   "tested_before_ucmr5": 0.927928,
+   "never_tested": 0.036036,
+   "dk_or_blank": 0.036036,
+   "treated": 0.324324,
+   "aware_of_sources": 0.477477,
+   "seen_today_under_ucmr3_rule": 0.315315,
+   "max_oaos_median": 13.3,
+   "max_oaos_below_20": 0.657658,
+   "large_share": 0.972973,
+   "any_surface_water": 0.594595,
+   "pop_quartiles": [
+    21643,
+    39451,
+    100247
+   ],
+   "n_pop_under_10000": 3,
+   "top_states": {
+    "CA": 20,
+    "NC": 15,
+    "NJ": 13,
+    "AL": 11,
+    "FL": 9,
+    "GA": 6,
+    "PA": 6,
+    "AZ": 3
+   },
+   "n_states": 26
+  },
+  "unseen_largest": [
+   {
+    "PWSID": "PA1510001",
+    "name": "PHILADELPHIA WATER DEPARTMENT",
+    "state": "PA",
+    "pop": 1600000,
+    "max_PFOA_or_PFOS": 7.4,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "VA6059501",
+    "name": "FAIRFAX COUNTY WATER AUTHORITY",
+    "state": "VA",
+    "pop": 1121613,
+    "max_PFOA_or_PFOS": 4.6,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "PR0002591",
+    "name": "METROPOLITANO",
+    "state": "PR",
+    "pop": 1084637,
+    "max_PFOA_or_PFOS": 6.2,
+    "tested_before": false,
+    "treated": false
+   },
+   {
+    "PWSID": "TX2200012",
+    "name": "CITY OF FORT WORTH",
+    "state": "TX",
+    "pop": 955900,
+    "max_PFOA_or_PFOS": 6.2,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "PA1460073",
+    "name": "AQUA PA MAIN SYSTEM",
+    "state": "PA",
+    "pop": 822600,
+    "max_PFOA_or_PFOS": 11.8,
+    "tested_before": true,
+    "treated": true
+   },
+   {
+    "PWSID": "OH3102612",
+    "name": "CINCINNATI PUBLIC WATER SYSTEM",
+    "state": "OH",
+    "pop": 800000,
+    "max_PFOA_or_PFOS": 5.2,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "NJ0238001",
+    "name": "VEOLIA WATER NEW JERSEY HACKENSACK",
+    "state": "NJ",
+    "pop": 792713,
+    "max_PFOA_or_PFOS": 13.0,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "TX0710002",
+    "name": "EL PASO WATER UTILITIES",
+    "state": "TX",
+    "pop": 747168,
+    "max_PFOA_or_PFOS": 6.4,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "FL6290327",
+    "name": "CITY OF TAMPA WATER DEPARTMENT",
+    "state": "FL",
+    "pop": 733886,
+    "max_PFOA_or_PFOS": 5.7,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "FL4504393",
+    "name": "PALM BEACH COUNTY WATER UTILITIES",
+    "state": "FL",
+    "pop": 671114,
+    "max_PFOA_or_PFOS": 19.0,
+    "tested_before": true,
+    "treated": false
+   },
+   {
+    "PWSID": "CA1010007",
+    "name": "CITY OF FRESNO",
+    "state": "CA",
+    "pop": 545970,
+    "max_PFOA_or_PFOS": 21.5,
+    "tested_before": true,
+    "treated": true
+   },
+   {
+    "PWSID": "CA3410020",
+    "name": "CITY OF SACRAMENTO MAIN",
+    "state": "CA",
+    "pop": 527979,
+    "max_PFOA_or_PFOS": 38.8,
+    "tested_before": true,
+    "treated": false
+   }
+  ],
+  "jurisdictions": {
+   "states": 39,
+   "territories": [
+    "PR"
+   ],
+   "epa_region_tribal": [
+    "01",
+    "09"
+   ]
+  }
+ },
+ "unseen_eps": {
+  "n": 782,
+  "mean_below_u3_mrls": 0.980818,
+  "no_sample_at_u3_mrls_today": 0.948849
+ },
+ "all_exceeding_systems": {
+  "n": 1173,
+  "pop_m": 56.63,
+  "tested_before_ucmr5": 0.665814,
+  "never_tested": 0.209719,
+  "never_tested_n": 246,
+  "never_tested_pop_m": 4.64,
+  "dk_or_blank": 0.124467,
+  "treated": 0.096334,
+  "aware_of_sources": 0.206309
+ },
+ "texas_canada_only": {
+  "n_ep": 75,
+  "seen_under_ucmr3_rule": 0,
+  "pfoa_pfos_max": 3.95
+ },
+ "treated_eps": {
+  "n": 288,
+  "any_pfas": 177,
+  "short_only": 120,
+  "short_only_seen_under_ucmr3_rule": 1,
+  "short_only_median_short_sum": 10.6
+ },
+ "treatment_vs_visibility": {
+  "by_band": {
+   "4-8|unseen": {
+    "treated": 0.0684,
+    "n": 307
+   },
+   "4-8|seen": {
+    "treated": 0.2222,
+    "n": 27
+   },
+   "8-20|unseen": {
+    "treated": 0.1126,
+    "n": 231
+   },
+   "8-20|seen": {
+    "treated": 0.3913,
+    "n": 46
+   },
+   ">20|unseen": {
+    "treated": 0.08,
+    "n": 50
+   },
+   ">20|seen": {
+    "treated": 0.3158,
+    "n": 38
+   }
+  },
+  "adjusted_or_all": {
+   "or": 4.73,
+   "lo": 2.77,
+   "hi": 8.07,
+   "p": 1.169021515028328e-08,
+   "n": 699
+  },
+  "adjusted_or_self_reported_testers": {
+   "or": 3.71,
+   "lo": 2.15,
+   "hi": 6.39,
+   "p": 2.338913946104975e-06,
+   "n": 534
+  }
+ },
+ "never_tested_split": {
+  "in_ucmr3": {
+   "n": 699,
+   "pop_m": 53.48,
+   "never_n": 96,
+   "never_share": 0.1373,
+   "never_pop_m": 3.72,
+   "small_n": 37
+  },
+  "not_in_ucmr3": {
+   "n": 474,
+   "pop_m": 3.15,
+   "never_n": 150,
+   "never_share": 0.3165,
+   "never_pop_m": 0.91,
+   "small_n": 440
+  }
+ }
+}

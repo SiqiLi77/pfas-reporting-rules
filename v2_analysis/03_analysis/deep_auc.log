@@ -1,0 +1,9 @@
+AFFF 29@U5 {'29@U5|magnitude|byPWS': 0.562, '29@U5|magnitude|byState': 0.558, '29@U5|composition|byPWS': 0.559, '29@U5|composition|byState': 0.544, '29@U5|full|byPWS': 0.56, '29@U5|full|byState': 0.546}
+AFFF 6@U5 {'6@U5|magnitude|byPWS': 0.543, '6@U5|magnitude|byState': 0.543, '6@U5|composition|byPWS': 0.539, '6@U5|composition|byState': 0.541, '6@U5|full|byPWS': 0.537, '6@U5|full|byState': 0.533}
+AFFF 6@U3 {'6@U3|magnitude|byPWS': 0.459, '6@U3|magnitude|byState': 0.454, '6@U3|composition|byPWS': 0.455, '6@U3|composition|byState': 0.451, '6@U3|full|byPWS': 0.456, '6@U3|full|byState': 0.451}
+AFFF detected-only {'detectedOnly|29@U5|composition|byPWS': 0.61, 'detectedOnly|6@U5|composition|byPWS': 0.591}
+Industrial 29@U5 {'29@U5|magnitude|byPWS': 0.62, '29@U5|magnitude|byState': 0.554, '29@U5|composition|byPWS': 0.637, '29@U5|composition|byState': 0.579, '29@U5|full|byPWS': 0.613, '29@U5|full|byState': 0.562}
+Industrial 6@U5 {'6@U5|magnitude|byPWS': 0.564, '6@U5|magnitude|byState': 0.516, '6@U5|composition|byPWS': 0.556, '6@U5|composition|byState': 0.483, '6@U5|full|byPWS': 0.574, '6@U5|full|byState': 0.501}
+Industrial 6@U3 {'6@U3|magnitude|byPWS': 0.44, '6@U3|magnitude|byState': 0.382, '6@U3|composition|byPWS': 0.433, '6@U3|composition|byState': 0.37, '6@U3|full|byPWS': 0.434, '6@U3|full|byState': 0.371}
+Industrial detected-only {'detectedOnly|29@U5|composition|byPWS': 0.691, 'detectedOnly|6@U5|composition|byPWS': 0.543}
+done

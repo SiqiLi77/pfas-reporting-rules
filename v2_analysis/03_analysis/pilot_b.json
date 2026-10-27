@@ -1,0 +1,348 @@
+{
+ "era_visibility": {
+  "mcl_locs": 2101,
+  "visible_any6_at_u3": 195,
+  "visible_pfoa_pfos_at_u3": 139,
+  "band_4_8": [
+   1136,
+   19
+  ],
+  "band_8_20": [
+   780,
+   63
+  ],
+  "band_20_999": [
+   185,
+   113
+  ],
+  "pop_mcl_m": 56.708171,
+  "pop_invisible_m": 48.298871
+ },
+ "matched": {
+  "n": 7856,
+  "mcl": 856,
+  "mcl_with_u3_det": 73,
+  "nonexc_with_u3_det": 65
+ },
+ "greedy": [
+  {
+   "k": 1,
+   "added": "PFPeA",
+   "pct_detected_locs": 54.0,
+   "pct_mass": 16.8,
+   "pct_F": 17.1,
+   "pct_canada_exceed_captured_at30": 8.3
+  },
+  {
+   "k": 2,
+   "added": "PFBA",
+   "pct_detected_locs": 71.4,
+   "pct_mass": 37.5,
+   "pct_F": 37.3,
+   "pct_canada_exceed_captured_at30": 20.5
+  },
+  {
+   "k": 3,
+   "added": "PFBS",
+   "pct_detected_locs": 83.4,
+   "pct_mass": 49.7,
+   "pct_F": 48.2,
+   "pct_canada_exceed_captured_at30": 30.5
+  },
+  {
+   "k": 4,
+   "added": "PFOS",
+   "pct_detected_locs": 91.1,
+   "pct_mass": 64.0,
+   "pct_F": 62.8,
+   "pct_canada_exceed_captured_at30": 47.7
+  },
+  {
+   "k": 5,
+   "added": "PFHxS",
+   "pct_detected_locs": 94.8,
+   "pct_mass": 71.5,
+   "pct_F": 70.1,
+   "pct_canada_exceed_captured_at30": 59.8
+  },
+  {
+   "k": 6,
+   "added": "PFOA",
+   "pct_detected_locs": 97.8,
+   "pct_mass": 82.4,
+   "pct_F": 81.9,
+   "pct_canada_exceed_captured_at30": 78.6
+  },
+  {
+   "k": 7,
+   "added": "6:2 FTS",
+   "pct_detected_locs": 99.0,
+   "pct_mass": 84.7,
+   "pct_F": 84.0,
+   "pct_canada_exceed_captured_at30": 79.9
+  },
+  {
+   "k": 8,
+   "added": "PFHxA",
+   "pct_detected_locs": 99.5,
+   "pct_mass": 96.0,
+   "pct_F": 95.8,
+   "pct_canada_exceed_captured_at30": 95.6
+  },
+  {
+   "k": 9,
+   "added": "PFNA",
+   "pct_detected_locs": 99.7,
+   "pct_mass": 96.6,
+   "pct_F": 96.4,
+   "pct_canada_exceed_captured_at30": 96.3
+  },
+  {
+   "k": 10,
+   "added": "PFHpA",
+   "pct_detected_locs": 99.9,
+   "pct_mass": 99.1,
+   "pct_F": 99.1,
+   "pct_canada_exceed_captured_at30": 99.0
+  },
+  {
+   "k": 11,
+   "added": "HFPO-DA",
+   "pct_detected_locs": 99.9,
+   "pct_mass": 99.5,
+   "pct_F": 99.5,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 12,
+   "added": "PFDoA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.5,
+   "pct_F": 99.5,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 13,
+   "added": "4:2 FTS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.5,
+   "pct_F": 99.5,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 14,
+   "added": "NFDHA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.5,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 15,
+   "added": "NMeFOSAA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.6,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 16,
+   "added": "8:2 FTS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.6,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 17,
+   "added": "9Cl-PF3ONS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.6,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 18,
+   "added": "11Cl-PF3OUdS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.6,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 19,
+   "added": "ADONA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.6,
+   "pct_F": 99.6,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 20,
+   "added": "PFDA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.7,
+   "pct_F": 99.7,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 21,
+   "added": "PFEESA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.7,
+   "pct_F": 99.7,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 22,
+   "added": "PFHpS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.7,
+   "pct_F": 99.7,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 23,
+   "added": "PFMBA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.7,
+   "pct_F": 99.7,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 24,
+   "added": "PFMPA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 99.7,
+   "pct_F": 99.7,
+   "pct_canada_exceed_captured_at30": 99.9
+  },
+  {
+   "k": 25,
+   "added": "PFPeS",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 100.0,
+   "pct_F": 100.0,
+   "pct_canada_exceed_captured_at30": 100.0
+  },
+  {
+   "k": 26,
+   "added": "PFUnA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 100.0,
+   "pct_F": 100.0,
+   "pct_canada_exceed_captured_at30": 100.0
+  },
+  {
+   "k": 27,
+   "added": "NEtFOSAA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 100.0,
+   "pct_F": 100.0,
+   "pct_canada_exceed_captured_at30": 100.0
+  },
+  {
+   "k": 28,
+   "added": "PFTA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 100.0,
+   "pct_F": 100.0,
+   "pct_canada_exceed_captured_at30": 100.0
+  },
+  {
+   "k": 29,
+   "added": "PFTrDA",
+   "pct_detected_locs": 100.0,
+   "pct_mass": 100.0,
+   "pct_F": 100.0,
+   "pct_canada_exceed_captured_at30": 100.0
+  }
+ ],
+ "six_capture": {
+  "pct_detected_locs": 70.5,
+  "pct_mass": 48.0,
+  "pct_F": 47.9
+ },
+ "jaccard_quantile": {
+  "PFOA/PFOS max": {
+   "PFOA/PFOS max": 1.0,
+   "UCMR3 six sum": 0.643,
+   "PFAS4 sum": 0.736,
+   "MA6 sum": 0.727,
+   "EU20(15) sum": 0.475,
+   "Canada25 sum": 0.475,
+   "Total organofluorine (molar F)": 0.48,
+   "RPF-weighted (PFOA eq)": 0.736
+  },
+  "UCMR3 six sum": {
+   "PFOA/PFOS max": 0.643,
+   "UCMR3 six sum": 1.0,
+   "PFAS4 sum": 0.77,
+   "MA6 sum": 0.796,
+   "EU20(15) sum": 0.626,
+   "Canada25 sum": 0.614,
+   "Total organofluorine (molar F)": 0.612,
+   "RPF-weighted (PFOA eq)": 0.726
+  },
+  "PFAS4 sum": {
+   "PFOA/PFOS max": 0.736,
+   "UCMR3 six sum": 0.77,
+   "PFAS4 sum": 1.0,
+   "MA6 sum": 0.921,
+   "EU20(15) sum": 0.525,
+   "Canada25 sum": 0.52,
+   "Total organofluorine (molar F)": 0.523,
+   "RPF-weighted (PFOA eq)": 0.828
+  },
+  "MA6 sum": {
+   "PFOA/PFOS max": 0.727,
+   "UCMR3 six sum": 0.796,
+   "PFAS4 sum": 0.921,
+   "MA6 sum": 1.0,
+   "EU20(15) sum": 0.557,
+   "Canada25 sum": 0.552,
+   "Total organofluorine (molar F)": 0.555,
+   "RPF-weighted (PFOA eq)": 0.819
+  },
+  "EU20(15) sum": {
+   "PFOA/PFOS max": 0.475,
+   "UCMR3 six sum": 0.626,
+   "PFAS4 sum": 0.525,
+   "MA6 sum": 0.557,
+   "EU20(15) sum": 1.0,
+   "Canada25 sum": 0.961,
+   "Total organofluorine (molar F)": 0.949,
+   "RPF-weighted (PFOA eq)": 0.519
+  },
+  "Canada25 sum": {
+   "PFOA/PFOS max": 0.475,
+   "UCMR3 six sum": 0.614,
+   "PFAS4 sum": 0.52,
+   "MA6 sum": 0.552,
+   "EU20(15) sum": 0.961,
+   "Canada25 sum": 1.0,
+   "Total organofluorine (molar F)": 0.979,
+   "RPF-weighted (PFOA eq)": 0.519
+  },
+  "Total organofluorine (molar F)": {
+   "PFOA/PFOS max": 0.48,
+   "UCMR3 six sum": 0.612,
+   "PFAS4 sum": 0.523,
+   "MA6 sum": 0.555,
+   "EU20(15) sum": 0.949,
+   "Canada25 sum": 0.979,
+   "Total organofluorine (molar F)": 1.0,
+   "RPF-weighted (PFOA eq)": 0.524
+  },
+  "RPF-weighted (PFOA eq)": {
+   "PFOA/PFOS max": 0.736,
+   "UCMR3 six sum": 0.726,
+   "PFAS4 sum": 0.828,
+   "MA6 sum": 0.819,
+   "EU20(15) sum": 0.519,
+   "Canada25 sum": 0.519,
+   "Total organofluorine (molar F)": 0.524,
+   "RPF-weighted (PFOA eq)": 1.0
+  }
+ }
+}

@@ -1,0 +1,40 @@
+UCMR5_All.txt rows: August file 1,992,002; October file 1,991,977
+rows only in the August file: 27 ; only in the October file: 2
+  withdrawn in October: OK2002608 | TUTTLE | TP001 | TP001 | 10/7/2025 | 133421P | EPA 533: 25 rows, 0 reported
+  same row up to non-printing bytes: WY5680122 | USAF F.E. WARREN AFB | 20001 | EP1 | 12/17/2024 | 123738P | EPA 533 | PFOA
+  same row up to non-printing bytes: WY5680122 | USAF F.E. WARREN AFB | 20001 | EP1 | 12/17/2024 | 123738P | EPA 533 | PFOS
+rows added in the October file: 0
+aug file: 66,741 events, 6,571 with more than one date (median 61 days between first and last, maximum 1,127); 154 with more than one Method 533 date, 381 without a Method 533 sample; the rule changes 1,067 dates from those in file order
+oct file: 66,741 events, 6,571 with more than one date (median 61 days between first and last, maximum 1,127); 154 with more than one Method 533 date, 382 without a Method 533 sample; the rule changes 1,064 dates from those in file order
+events in both files dated differently by the new rule: 0
+events in both files dated differently by the old rule: 540
+
+outputs compared: 24 JSON files
+calib_epa_table4.json             61 numbers,      0 changed, largest relative change 0.00%
+deep_auc.json                     44 numbers,     13 changed, largest relative change 0.88%
+deep_decide.json                 142 numbers,     30 changed, largest relative change 0.01%
+deep_drought.json                 44 numbers,      0 changed, largest relative change 0.00%
+deep_ej.json                     168 numbers,      0 changed, largest relative change 0.00%
+deep_ej2.json                     48 numbers,      0 changed, largest relative change 0.00%
+deep_ej3.json                    226 numbers,      0 changed, largest relative change 0.00%
+deep_ej4.json                     32 numbers,      0 changed, largest relative change 0.00%
+deep_ej5_firth.json              130 numbers,      0 changed, largest relative change 0.00%
+deep_family.json                  74 numbers,      0 changed, largest relative change 0.00%
+deep_lost.json                    29 numbers,      0 changed, largest relative change 0.00%
+deep_misc.json                   124 numbers,      0 changed, largest relative change 0.00%
+deep_story.json                  132 numbers,      0 changed, largest relative change 0.00%
+deep_tables_extra.json           319 numbers,      0 changed, largest relative change 0.00%
+deep_treat_season.json            47 numbers,      0 changed, largest relative change 0.00%
+fig_r6_data.json                  60 numbers,      0 changed, largest relative change 0.00%
+fig_v2_02_data.json              194 numbers,      0 changed, largest relative change 0.00%
+pilot_a.json                     155 numbers,      0 changed, largest relative change 0.00%
+pilot_b.json                     227 numbers,      0 changed, largest relative change 0.00%
+pilot_c.json                     135 numbers,      0 changed, largest relative change 0.00%
+pilot_d.json                      14 numbers,      0 changed, largest relative change 0.00%
+pilot_e.json                      22 numbers,      0 changed, largest relative change 0.00%
+pilot_i.json                      26 numbers,      0 changed, largest relative change 0.00%
+si_redraw_data.json            1,618 numbers,      6 changed, largest relative change 0.08%
+
+August snapshot against the current outputs: 0 of 24 files differ
+
+49 of 4,071 output numbers differ between the two files

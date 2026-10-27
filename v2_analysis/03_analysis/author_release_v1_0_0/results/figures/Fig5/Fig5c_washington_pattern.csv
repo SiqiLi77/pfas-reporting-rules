@@ -1,0 +1,7 @@
+weighting,name,metric,estimate,ci95_lower,ci95_upper,events,informative_events,valid_bootstrap_replicates
+jurisdiction_pws_equal,baseline__independent,pattern_nll,0.6618291791868157,0.540859182409959,0.7885540346699494,1819,133,5000
+jurisdiction_pws_equal,baseline__linear,pattern_nll,0.5070012134085898,0.4219377418044561,0.5932017000203283,1819,133,5000
+jurisdiction_pws_equal,baseline__nonlinear,pattern_nll,0.478977415275306,0.4002227134126904,0.560454274813759,1819,133,5000
+jurisdiction_pws_equal,selected3__independent,pattern_nll,0.4713808701478008,0.3950634302112819,0.5520152542113433,1819,133,5000
+jurisdiction_pws_equal,selected3__linear,pattern_nll,0.4222943870118146,0.3521182083863268,0.4957704838060545,1819,133,5000
+jurisdiction_pws_equal,selected3__nonlinear,pattern_nll,0.3955099319625447,0.3312909249860974,0.4625541834842537,1819,133,5000

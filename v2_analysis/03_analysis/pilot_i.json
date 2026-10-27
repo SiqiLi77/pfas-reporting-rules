@@ -1,0 +1,48 @@
+{
+ "AFFF-type source vs not aware": {
+  "n_pos": 1493,
+  "n_neg": 17920,
+  "25+4 @UCMR5 MRL": 0.604,
+  "6 @UCMR5 MRL": 0.572,
+  "6 @UCMR3 MRL": 0.504
+ },
+ "Industrial-only vs not aware": {
+  "n_pos": 347,
+  "n_neg": 17920,
+  "25+4 @UCMR5 MRL": 0.666,
+  "6 @UCMR5 MRL": 0.609,
+  "6 @UCMR3 MRL": 0.505
+ },
+ "pfca_share_ozone_SW": [
+  80,
+  0.7236465052904983
+ ],
+ "pfca_share_ozone_GW": [
+  6,
+  0.34118895082785594
+ ],
+ "pfca_share_permanganate_SW": [
+  93,
+  0.5483870967741935
+ ],
+ "pfca_share_permanganate_GW": [
+  43,
+  0.5543575920934412
+ ],
+ "pfca_share_chloramine_SW": [
+  510,
+  0.7153646499927062
+ ],
+ "pfca_share_chloramine_GW": [
+  238,
+  0.3851711645703586
+ ],
+ "pfca_share_free chlorine only_SW": [
+  258,
+  0.4594480321873502
+ ],
+ "pfca_share_free chlorine only_GW": [
+  1547,
+  0.3204301075268817
+ ]
+}

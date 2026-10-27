@@ -1,0 +1,43 @@
+within-UCMR5 persistence P(detected at U3 MRLs in another event | detected in one) = 0.555
+    analyte grp  median_ng_L  sdlog  P(<MRL)
+0      PFOA  GW        0.516   1.35    0.936
+1      PFOA  SW        0.834   1.05    0.932
+2      PFOS  GW        0.342   1.66    0.931
+3      PFOS  SW        0.544   1.32    0.935
+4     PFHxS  GW        0.273   1.51    0.943
+5     PFHxS  SW        0.290   1.31    0.963
+6      PFNA  GW        0.010   2.23    0.996
+7      PFNA  SW        0.029   1.63    0.999
+8      PFBA  GW        0.159   1.98    0.959
+9      PFBA  SW        1.903   0.90    0.860
+10    PFPeA  GW        0.323   1.59    0.920
+11    PFPeA  SW        0.704   1.34    0.860
+12    PFHxA  GW        0.348   1.44    0.933
+13    PFHxA  SW        0.888   1.06    0.875
+14     PFBS  GW        0.418   1.39    0.923
+15     PFBS  SW        0.577   1.26    0.905
+16  HFPO-DA  SW        0.010   2.38    0.996
+independent (1000 replicates)
+           standard  nd0_exceed  hidden_exceed_p50  expected_hidden  expected_hidden_mcse  uncertain_0.1_0.9
+0  US2026_PFOA_PFOS        2099                 19             54.9                  0.19                143
+1            HI_EPA         116                  0              1.1                  0.03                  3
+2   Canada_sum25_30        1143                129            142.2                  0.18                146
+3    Sweden_PFAS4_4        2573                475           1201.7                  0.89                903
+4   Denmark_PFAS4_2        3228               6223          12025.8                  2.33              23042
+5       MA_PFAS6_20         660                 49             51.8                  0.13                 74
+6  Germany_PFAS4_20         594                 25             30.7                  0.10                 44
+7      EU_sum20_100         169                  7              8.4                  0.04                 10
+comonotone (1000 replicates)
+           standard  nd0_exceed  hidden_exceed_p50  expected_hidden  expected_hidden_mcse  uncertain_0.1_0.9
+0  US2026_PFOA_PFOS        2099                 20             53.3                  0.19                136
+1            HI_EPA         116                  0              1.1                  0.03                  3
+2   Canada_sum25_30        1143                100            173.5                  0.30                312
+3    Sweden_PFAS4_4        2573                378           3378.2                  1.65              23351
+4   Denmark_PFAS4_2        3228               6171           9943.4                  2.33              23226
+5       MA_PFAS6_20         660                 39             56.2                  0.16                103
+6  Germany_PFAS4_20         594                 22             31.4                  0.11                 53
+7      EU_sum20_100         169                  6              7.6                  0.06                 14
+entry points without any PFAS-4 report: 22793
+  source  samples   n_ep  Denmark_PFAS4_2|independent  Denmark_PFAS4_2|comonotone  Sweden_PFAS4_4|independent  Sweden_PFAS4_4|comonotone
+0     GW        2  16874                        0.432                       0.364                       0.030                      0.129
+1     SW        4   5556                        0.718                       0.571                       0.018                      0.114

@@ -1,0 +1,141 @@
+Figure S7
+  [ok] S7a UCMR 3 samples, UCMR 3 MRLs rate equals k/n 36/7677 = 0.469%
+  [ok] S7a UCMR 5 samples, UCMR 5 MRLs rate equals k/n 829/7677 = 10.798%
+  [ok] S7a UCMR 5 samples, UCMR 3 cutoffs rate equals k/n 10/7677 = 0.13%
+  [ok] S7c printed share equals k/n 36/79 = 45.6%
+  [ok] S7c printed share equals k/n 829/1353 = 61.3%
+  [ok] S7c printed share equals k/n 10/58 = 17.2%
+  [ok] S7d native = reclassification + shared-cutoff (points) {'native': (6.601, 4.106, 9.489), 'reclassification': (6.835, 4.283, 9.759), 'shared_cutoff': (-0.234, -0.522, -0.053)}
+Figure S1
+  [ok] S1 release reproduces the 9 tabulated estimates and 18 interval ends max |difference| 0.0005 pp (tables give 3 decimals)
+  [ok] S1 digitizer reproduces the 9 tabulated estimates and 18 interval ends worst error 0.47 px
+  digitizer vs release, S1: max |difference| 0.0187 percentage points
+Figure S2
+  [ok] S2a release ends at the tabulated count at UCMR 3 cutoffs 1.2063% vs 1.2063% (Table S5A)
+  digitizer vs release, S2a observed and reference mean: max |difference| 0.4597 percentage points
+  digitizer vs release, S2a envelope: max |difference| 1.6319 percentage points
+  [ok] S2b release ends at the tabulated count at UCMR 3 cutoffs 93.1242% vs 93.1242% (Table S5A)
+  digitizer vs release, S2b observed and reference mean: max |difference| 0.2785 percentage points
+  digitizer vs release, S2b envelope: max |difference| 1.6892 percentage points
+  [ok] S2 trapezoid integral of the release curve, multiple_obs 0.271984 vs Table S7 0.271984
+  [ok] S2 trapezoid integral of the release curve, multiple_ref 0.257344 vs Table S7 0.257344
+  [ok] S2 trapezoid integral of the release curve, none_obs 0.543185 vs Table S7 0.543185
+  [ok] S2 trapezoid integral of the release curve, none_ref 0.501407 vs Table S7 0.501407
+Figure S3
+  [ok] S3a digitizer reproduces the six tabulated point estimates worst error 0.47 px
+  [ok] S3b release support counts equal the counts printed in the figure 
+  digitizer vs release, S3b: max |difference| 0.2436 percentage points
+  [ok] S3b recomputed top-12 pairs are the printed pairs in the printed order 
+  [ok] S3b recomputed paired cohort size 25755 vs 25,756 (Table S8A)
+  [ok] S3b recomputation from the UCMR 5 file reproduces the release counts and fractions 12 of 12 support counts exact
+Figure S4
+  [ok] S4 change = 25 - six (Location-proportional strata) 
+  [ok] S4 change = 25 - six (PWS equal within strata) 
+  [ok] S4 change = 25 - six (Jurisdiction equal) 
+  [ok] S4 change = 25 - six (Excluding Texas) 
+Figure S5
+  [ok] S5 observed in Table S12 equals Table S11 (Native) 
+  [ok] S5 difference = observed - reference (Native) 
+  [ok] S5 release reproduces Table S12 (Native) 
+  [ok] S5 observed in Table S12 equals Table S11 (5) 
+  [ok] S5 difference = observed - reference (5) 
+  [ok] S5 release reproduces Table S12 (5) 
+  [ok] S5 observed in Table S12 equals Table S11 (10) 
+  [ok] S5 difference = observed - reference (10) 
+  [ok] S5 release reproduces Table S12 (10) 
+  [ok] S5 observed in Table S12 equals Table S11 (20) 
+  [ok] S5 difference = observed - reference (20) 
+  [ok] S5 release reproduces Table S12 (20) 
+  [ok] S5 observed in Table S12 equals Table S11 (40) 
+  [ok] S5 difference = observed - reference (40) 
+  [ok] S5 release reproduces Table S12 (40) 
+Figure S6
+  [ok] S6 bounds in Table S13 panels A and B agree (Shared six) 
+  [ok] S6 bounds in Table S13 panels A and B agree (Complete 25) 
+  [ok] S6 bounds in Table S13 panels A and B agree (Added trio) 
+  [ok] S6 bounds in Table S13 panels A and B agree (Other 16) 
+Figure R1
+  [ok] R1 axis calibration residual 0.0001, 0.0001
+  digitizer vs release, R1 model curves: max |difference| 0.0005 nats
+  digitizer vs release, R1 band below the axis top (0.20 nats): max |difference| 0.0014 nats
+  [ok] R1 both series fall to about zero at the UCMR 3 end 
+Figure R2
+  [ok] R2/S12 national contrast = SW - GW (Measured at native cutoffs) 
+  [ok] R2/S12 national contrast = SW - GW (Retained at older cutoffs) 
+  [ok] R2/S12 national contrast = SW - GW (Independent, fixed margins) 
+  [ok] R2/S12 national contrast = SW - GW (Shared shock, fixed margins) 
+  [ok] R2/S12 national contrast = SW - GW (Gaussian factor-2, fixed margins) 
+  [ok] R2/S12 national contrast = SW - GW (Count-prior diagnostic) 
+  [ok] R2/S12 national contrast = SW - GW (Training empirical composition) 
+  [ok] R2/S12 national contrast = SW - GW (Logistic, no auxiliaries) 
+  [ok] R2/S12 national contrast = SW - GW (Linear, no auxiliaries) 
+  [ok] R2/S12 national contrast = SW - GW (Nonlinear, no auxiliaries) 
+  [ok] R2/S12 national contrast = SW - GW (Logistic, three auxiliaries) 
+  [ok] R2/S12 national contrast = SW - GW (Linear, three auxiliaries) 
+  [ok] R2/S12 national contrast = SW - GW (Nonlinear, three auxiliaries) 
+Figure S8
+  [ok] S8a row sums (2) 
+  [ok] S8a row sums (3) 
+  [ok] S8a row sums (4) 
+  [ok] S8a row sums (5) 
+  [ok] S8a row sums (6) 
+  [ok] S8a row sums (Total) 
+  [ok] S8b row sums (PFBS + PFHpA + PFHxS) 
+  [ok] S8b row sums (PFBS + PFOA + PFOS) 
+  [ok] S8b row sums (PFBS + PFHxS + PFOA ) 
+  [ok] S8b row sums (PFBS + PFHxS + PFOS) 
+  [ok] S8b row sums (PFHxS + PFOS) 
+  [ok] S8b row sums (PFBS + PFOS) 
+  [ok] S8b row sums (PFOA + PFOS) 
+  [ok] S8b row sums (PFHxS + PFOA + PFOS) 
+  [ok] S8b row sums (Other native multi-P) 
+  [ok] S8b rows sum to 829 
+  [ok] S8c >=2 shared segment equals the 829 six-panel multi-PFAS events in both groups [{'group': '≥1 of 25 PFAS', 'n': 1711, 'segments': [359, 523, 829]}, {'group': '≥2 of 25 PFAS', 'n': 1180, 'segments': [159, 192, 829]}]
+  [ok] S8c hidden bracket = 351/1,180 351/1180 = 29.7%
+Figure S9
+  [ok] S9b contributions sum to the native panel effect 4.6404 vs 4.64
+  [ok] S9b release reproduces the Table S10 contributions of PFBA, PFPeA and PFHxA 
+  [ok] S9b release aggregate of the other 16 PFAS equals the sum of their Table S10 contributions 0.0666 vs 0.0666
+Figure S10
+  [ok] S10a pattern = count + identity (Independence) 
+  [ok] S10a pattern = count + identity (Count prior) 
+  [ok] S10a pattern = count + identity (Shared shock) 
+  [ok] S10a pattern = count + identity (Gaussian factor-2) 
+  [ok] S10 axis calibration residual 0.0000, 0.0000
+  [ok] S10c release observed K=0 and K=1 equal Table R4C and the sum of Table R4B singletons 96.6567% and 1.9798% vs 96.6567% and 1.9798%
+  [ok] S10c release distributions sum to 100% 
+  digitizer vs release, S10c (K=1-6): max |difference| 0.0071 relative difference
+  [ok] S10d dot matrix has six constituent columns [67, 148, 230, 311, 392, 474]
+  [ok] S10d dot matrix identifies six two- or three-PFAS patterns ['PFOA + PFOS', 'PFHpA + PFOA', 'PFHxS + PFOS', 'PFBS + PFHpA + PFOA', 'PFBS + PFOA + PFOS', 'PFBS + PFOA']
+  [ok] S10d release lists the dot-matrix patterns in the same order 
+  digitizer vs release, S10d: max |difference| 0.0007 percentage points
+  [ok] S10d release observed frequencies equal Table R4A 4 patterns tabulated; max |difference| 0.000044 percentage points
+Figure S11
+  [ok] S11a successive pattern differences equal Table R12 (Linear) 
+  [ok] S11a successive pattern differences equal Table R12 (Nonlinear) 
+  [ok] S11c reduction = none - three (Logistic) 
+  [ok] S11c reduction = none - three (Linear) 
+  [ok] S11c reduction = none - three (Nonlinear) 
+  [ok] S11a release absolute losses equal Table R11 max |difference| 4.70e-07 nats
+  [ok] S11c release absolute losses equal Table R13 (Logistic) 
+  [ok] S11c release absolute losses equal Table R13 (Linear) 
+  [ok] S11c release absolute losses equal Table R13 (Nonlinear) 
+Figure S12
+  [ok] S12c bias = predicted - observed (gw PFBS) 
+  [ok] S12c bias = predicted - observed (gw PFHpA) 
+  [ok] S12c bias = predicted - observed (gw PFHxS) 
+  [ok] S12c bias = predicted - observed (gw PFNA) 
+  [ok] S12c bias = predicted - observed (gw PFOA) 
+  [ok] S12c bias = predicted - observed (gw PFOS) 
+  [ok] S12c bias = predicted - observed (sw PFBS) 
+  [ok] S12c bias = predicted - observed (sw PFHpA) 
+  [ok] S12c bias = predicted - observed (sw PFHxS) 
+  [ok] S12c bias = predicted - observed (sw PFNA) 
+  [ok] S12c bias = predicted - observed (sw PFOA) 
+  [ok] S12c bias = predicted - observed (sw PFOS) 
+Figure S13
+  [ok] S13 Washington PWS and county blocks share point estimates (Logistic, three auxiliaries) 
+  [ok] S13 Washington PWS and county blocks share point estimates (Linear, three auxiliaries) 
+  [ok] S13 Washington PWS and county blocks share point estimates (Nonlinear, three auxiliaries) 
+
+114 of 114 checks passed

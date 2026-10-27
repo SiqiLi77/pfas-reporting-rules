@@ -1,0 +1,7 @@
+group_25_panel,events,shared_six_reported,count,pct,source
+≥1 of 25 PFAS,1711,0,359,20.98,derived from tables #15-#16 (Table S6A-B): segments = counts given there
+≥1 of 25 PFAS,1711,1,523,30.57,derived from tables #15-#16 (Table S6A-B): segments = counts given there
+≥1 of 25 PFAS,1711,>=2,829,48.45,derived from tables #15-#16 (Table S6A-B): segments = counts given there
+≥2 of 25 PFAS,1180,0,159,13.47,derived from tables #15-#16 (Table S6A-B): segments = counts given there
+≥2 of 25 PFAS,1180,1,192,16.27,derived from tables #15-#16 (Table S6A-B): segments = counts given there
+≥2 of 25 PFAS,1180,>=2,829,70.25,derived from tables #15-#16 (Table S6A-B): segments = counts given there

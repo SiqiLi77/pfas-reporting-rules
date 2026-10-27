@@ -1,0 +1,4 @@
+measure,systems,lower_at_treated,equal,equal_both_zero,higher_at_treated,untreated_mean,treated_mean,wilcoxon_p
+oaos,150,61,61,61,28,3.8286,2.7011,0.0021758169745969653
+exc,150,56,73,71,21,0.2522,0.1357,0.0003104989249424793
+short,150,37,30,30,83,7.7668,17.9424,1.2566679786267214e-05

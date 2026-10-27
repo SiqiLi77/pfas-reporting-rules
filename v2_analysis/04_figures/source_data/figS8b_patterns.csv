@@ -1,0 +1,10 @@
+pattern_at_UCMR5_limits,to_0,to_1,to_2plus,events,source
+PFBS + PFHpA + PFHxS + PFOA + PFOS,103,30,7,140,table #14 (Table S5B)
+PFBS + PFOA + PFOS,99,1,0,100,table #14 (Table S5B)
+PFBS + PFHxS + PFOA + PFOS,68,6,0,74,table #14 (Table S5B)
+PFBS + PFHxS + PFOS,69,2,0,71,table #14 (Table S5B)
+PFHxS + PFOS,68,0,0,68,table #14 (Table S5B)
+PFBS + PFOS,55,0,0,55,table #14 (Table S5B)
+PFOA + PFOS,55,0,0,55,table #14 (Table S5B)
+PFHxS + PFOA + PFOS,34,1,0,35,table #14 (Table S5B)
+Other native multi-PFAS patterns,221,7,3,231,table #14 (Table S5B)

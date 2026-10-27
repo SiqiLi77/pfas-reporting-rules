@@ -1,0 +1,74 @@
+{
+ "sw_short": {
+  "n_loc": 784,
+  "n": 3136,
+  "ratio_per_100dsci": 1.061,
+  "ci": [
+   1.035,
+   1.088
+  ],
+  "sd_within_dsci": 87.4
+ },
+ "gw_short": {
+  "n_loc": 1925,
+  "n": 3850,
+  "ratio_per_100dsci": 1.002,
+  "ci": [
+   0.984,
+   1.019
+  ],
+  "sd_within_dsci": 74.4
+ },
+ "sw_long": {
+  "n_loc": 366,
+  "n": 1464,
+  "ratio_per_100dsci": 0.996,
+  "ci": [
+   0.972,
+   1.02
+  ],
+  "sd_within_dsci": 82.9
+ },
+ "gw_long": {
+  "n_loc": 1663,
+  "n": 3326,
+  "ratio_per_100dsci": 0.998,
+  "ci": [
+   0.983,
+   1.013
+  ],
+  "sd_within_dsci": 72.7
+ },
+ "bins_short": {
+  "ratio": {
+   "much wetter": 0.923,
+   "wetter": 0.974,
+   "typical": 1.015,
+   "drier": 1.07,
+   "much drier": 1.078
+  },
+  "n": {
+   "much wetter": 298,
+   "wetter": 1079,
+   "typical": 721,
+   "drier": 608,
+   "much drier": 430
+  }
+ },
+ "bins_long": {
+  "ratio": {
+   "much wetter": 0.998,
+   "wetter": 0.984,
+   "typical": 1.027,
+   "drier": 1.029,
+   "much drier": 0.988
+  },
+  "n": {
+   "much wetter": 133,
+   "wetter": 477,
+   "typical": 397,
+   "drier": 276,
+   "much drier": 181
+  }
+ }
+}

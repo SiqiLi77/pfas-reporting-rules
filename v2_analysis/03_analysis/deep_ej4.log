@@ -1,0 +1,11 @@
+ZCTAs 33774
+PWS with demographics 10249
+analysis PWS 10192
+FE=div covs=log_pop+any_sw {'ratio': 1.2671, 'p_cluster': 0.0051, 'OR_old': 0.8242, 'OR_new': 1.0443}
+FE=div covs=log_pop+any_sw+log_nep {'ratio': 1.3224, 'p_cluster': 0.0024, 'OR_old': 0.7826, 'OR_new': 1.0349}
+FE=state covs=log_pop+any_sw {'ratio': 1.3368, 'p_cluster': 0.0019, 'OR_old': 0.8128, 'OR_new': 1.0865}
+FE=state covs=log_pop+any_sw+log_nep {'ratio': 1.3574, 'p_cluster': 0.0023, 'OR_old': 0.8112, 'OR_new': 1.1012}
+boot FE=div covs=log_pop+any_sw {'n_boot': 200, 'ratio_ci': [1.1051709374424272, 1.4885517882003536], 'p_one_sided_le_1': 0.0}
+boot FE=div covs=log_pop+any_sw+log_nep {'n_boot': 200, 'ratio_ci': [1.1349790621954523, 1.6324746240064985], 'p_one_sided_le_1': 0.0}
+boot FE=state covs=log_pop+any_sw {'n_boot': 200, 'ratio_ci': [1.1185128186293585, 1.6004901705660401], 'p_one_sided_le_1': 0.0}
+boot FE=state covs=log_pop+any_sw+log_nep {'n_boot': 200, 'ratio_ci': [1.1635523099726783, 1.7551500780352502], 'p_one_sided_le_1': 0.0}

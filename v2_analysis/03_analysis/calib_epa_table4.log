@@ -1,0 +1,8 @@
+PFOS {'here_total': 900, 'epa_total': 875, 'here': {'large': 544, 'medium': 303, 'small': 53}, 'epa': {'large': 523, 'medium': 307, 'small': 45}}
+PFOA {'here_total': 798, 'epa_total': 779, 'here': {'large': 488, 'medium': 272, 'small': 38}, 'epa': {'large': 472, 'medium': 273, 'small': 34}}
+HFPO-DA {'here_total': 8, 'epa_total': 8, 'here': {'large': 3, 'medium': 5, 'small': 0}, 'epa': {'large': 3, 'medium': 5, 'small': 0}}
+PFHxS {'here_total': 66, 'epa_total': 66, 'here': {'large': 40, 'medium': 21, 'small': 5}, 'epa': {'large': 40, 'medium': 22, 'small': 4}}
+PFNA {'here_total': 9, 'epa_total': 9, 'here': {'large': 3, 'medium': 6, 'small': 0}, 'epa': {'large': 3, 'medium': 6, 'small': 0}}
+HI {'here_total': 80, 'epa_total': 80, 'here': {'large': 45, 'medium': 30, 'small': 5}, 'epa': {'large': 45, 'medium': 31, 'small': 4}}
+any {'here_total': 1162, 'epa_total': 1136, 'here': {'large': 684, 'medium': 412, 'small': 66}, 'epa': {'large': 662, 'medium': 419, 'small': 55}}
+full-set locations 26254 PWS 10240 {'medium': 4930, 'large': 4348, 'small': 962} | EPA: {'large': 4277, 'medium': 5077, 'small': 775}

@@ -1,0 +1,58 @@
+{
+ "FE=div covs=log_pop+any_sw": {
+  "ratio": 1.2671227412909125,
+  "p_cluster": 0.005070186937953262,
+  "OR_old": 0.8241886799901177,
+  "OR_new": 1.0443482195300167
+ },
+ "FE=div covs=log_pop+any_sw+log_nep": {
+  "ratio": 1.3223941699755266,
+  "p_cluster": 0.0023830111879942274,
+  "OR_old": 0.78262090436922,
+  "OR_new": 1.0349333212388308
+ },
+ "FE=state covs=log_pop+any_sw": {
+  "ratio": 1.3367828550488503,
+  "p_cluster": 0.0018693159815701584,
+  "OR_old": 0.8127866507303111,
+  "OR_new": 1.086519259508858
+ },
+ "FE=state covs=log_pop+any_sw+log_nep": {
+  "ratio": 1.3574205024433599,
+  "p_cluster": 0.002312418993502991,
+  "OR_old": 0.8112101381652015,
+  "OR_new": 1.1011532733353553
+ },
+ "boot FE=div covs=log_pop+any_sw": {
+  "n_boot": 200,
+  "ratio_ci": [
+   1.1051709374424272,
+   1.4885517882003536
+  ],
+  "p_one_sided_le_1": 0.0
+ },
+ "boot FE=div covs=log_pop+any_sw+log_nep": {
+  "n_boot": 200,
+  "ratio_ci": [
+   1.1349790621954523,
+   1.6324746240064985
+  ],
+  "p_one_sided_le_1": 0.0
+ },
+ "boot FE=state covs=log_pop+any_sw": {
+  "n_boot": 200,
+  "ratio_ci": [
+   1.1185128186293585,
+   1.6004901705660401
+  ],
+  "p_one_sided_le_1": 0.0
+ },
+ "boot FE=state covs=log_pop+any_sw+log_nep": {
+  "n_boot": 200,
+  "ratio_ci": [
+   1.1635523099726783,
+   1.7551500780352502
+  ],
+  "p_one_sided_le_1": 0.0
+ }
+}

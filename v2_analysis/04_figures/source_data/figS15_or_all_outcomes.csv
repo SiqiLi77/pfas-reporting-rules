@@ -1,0 +1,19 @@
+outcome,variable,n_positive_PWS,n_PWS,OR_per_10pp,ci_lo,ci_hi,p
+UCMR 3 rule (detection),pct_black,133,8478,0.813,0.693,0.954,0.011
+UCMR 5 rule (detection),pct_black,3552,10174,1.087,1.002,1.179,0.0459
+Above U.S. PFOA/PFOS,pct_black,1162,9603,1.044,0.922,1.182,0.4958
+Above RIVM 4.4 ng PFOA-eq/L,pct_black,1487,10057,1.076,0.937,1.236,0.2992
+Above Canada 30 ng/L,pct_black,682,9632,1.07,0.922,1.241,0.3745
+Actual UCMR 3 (2013–2015),pct_black,189,3777,1.026,0.78,1.349,0.8555
+UCMR 3 rule (detection),pct_hisp,133,8478,1.214,1.087,1.356,0.0006
+UCMR 5 rule (detection),pct_hisp,3552,10174,1.092,1.008,1.184,0.0313
+Above U.S. PFOA/PFOS,pct_hisp,1162,9603,1.207,1.121,1.3,0.0
+Above RIVM 4.4 ng PFOA-eq/L,pct_hisp,1487,10057,1.177,1.099,1.26,0.0
+Above Canada 30 ng/L,pct_hisp,682,9632,1.215,1.071,1.379,0.0025
+Actual UCMR 3 (2013–2015),pct_hisp,189,3777,1.215,1.095,1.349,0.0003
+UCMR 3 rule (detection),pct_pov,133,8478,0.897,0.612,1.313,0.5752
+UCMR 5 rule (detection),pct_pov,3552,10174,0.748,0.614,0.912,0.004
+Above U.S. PFOA/PFOS,pct_pov,1162,9603,0.711,0.555,0.91,0.0069
+Above RIVM 4.4 ng PFOA-eq/L,pct_pov,1487,10057,0.721,0.578,0.899,0.0037
+Above Canada 30 ng/L,pct_pov,682,9632,0.653,0.499,0.855,0.0019
+Actual UCMR 3 (2013–2015),pct_pov,189,3777,0.555,0.344,0.897,0.0161

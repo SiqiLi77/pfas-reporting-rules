@@ -1,0 +1,10 @@
+specification,ratio_of_OR_black,interval_lo,interval_hi,interval_type,cluster_p
+"State FE, all terms differ by rule",1.3588,1.1185,1.6005,boot,
+"State FE, + log entry points",1.3574,1.1636,1.7552,boot,
+"Division FE, all terms differ by rule",1.2671,1.1052,1.4886,boot,
+"Division FE, + log entry points",1.3224,1.135,1.6325,boot,
+Leave one state out (34 refits),,1.3077,1.4016,range,
+"State FE, demographics differ by rule",1.3298,,,point,0.0021
+Large systems only,1.3227,,,point,0.0143
+UCMR 3 rule vs UCMR 5 rule,1.2555,,,point,0.0512
+Actual UCMR 3 vs UCMR 5 rule,1.0608,,,point,0.5113

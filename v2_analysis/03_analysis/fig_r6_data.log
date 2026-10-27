@@ -1,0 +1,106 @@
+{
+ "not_monitored": {
+  "n": 474,
+  "pop_upper_m": 3.15,
+  "pop_lower_m": 2.13,
+  "max_oaos_median": 7.9,
+  "share_max_below_20": 0.907173,
+  "share_pfoa_below_20_and_pfos_below_40": 0.949367,
+  "treated": 0.054852,
+  "tested": 0.521097,
+  "never": 0.316456,
+  "dk_only": 0.162447,
+  "aware_src": 0.14135,
+  "seen_now_u3rule": 0.111814
+ },
+ "seen": {
+  "n": 111,
+  "pop_upper_m": 11.48,
+  "pop_lower_m": 6.3,
+  "max_oaos_median": 13.3,
+  "share_max_below_20": 0.657658,
+  "share_pfoa_below_20_and_pfos_below_40": 0.810811,
+  "treated": 0.324324,
+  "tested": 0.927928,
+  "never": 0.036036,
+  "dk_only": 0.036036,
+  "aware_src": 0.477477,
+  "seen_now_u3rule": 0.315315
+ },
+ "unseen": {
+  "n": 588,
+  "pop_upper_m": 42.0,
+  "pop_lower_m": 20.69,
+  "max_oaos_median": 7.7,
+  "share_max_below_20": 0.914966,
+  "share_pfoa_below_20_and_pfos_below_40": 0.986395,
+  "treated": 0.086735,
+  "tested": 0.732993,
+  "never": 0.156463,
+  "dk_only": 0.110544,
+  "aware_src": 0.207483,
+  "seen_now_u3rule": 0.068027
+ },
+ "checks": {
+  "unseen n": {
+   "here": 588,
+   "deep_story": 588,
+   "ok": true
+  },
+  "seen n": {
+   "here": 111,
+   "deep_story": 111,
+   "ok": true
+  },
+  "unseen median max": {
+   "here": 7.7,
+   "deep_story": 7.7,
+   "ok": true
+  },
+  "unseen treated": {
+   "here": 0.087,
+   "deep_story": 0.087,
+   "ok": true
+  },
+  "seen treated": {
+   "here": 0.324,
+   "deep_story": 0.324,
+   "ok": true
+  },
+  "unseen seen-now": {
+   "here": 0.068,
+   "deep_story": 0.068,
+   "ok": true
+  },
+  "unseen aware": {
+   "here": 0.207,
+   "deep_story": 0.207,
+   "ok": true
+  },
+  "seen aware": {
+   "here": 0.477,
+   "deep_story": 0.477,
+   "ok": true
+  },
+  "unseen tested": {
+   "here": 0.733,
+   "deep_story": 0.733,
+   "ok": true
+  },
+  "not monitored n": {
+   "here": 474,
+   "deep_story": 474,
+   "ok": true
+  },
+  "not monitored pop": {
+   "here": 3.15,
+   "deep_story": 3.15,
+   "ok": true
+  },
+  "all exceeding": {
+   "here": 1173,
+   "deep_story": 1173,
+   "ok": true
+  }
+ }
+}

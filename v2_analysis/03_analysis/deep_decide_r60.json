@@ -1,0 +1,215 @@
+{
+ "rtm_persistence": 0.555045871559633,
+ "fits": {
+  "6:2 FTS|GW": [
+   -8.34063667198863,
+   3.693548799574295
+  ],
+  "6:2 FTS|SW": [
+   -5.847148761891389,
+   2.8296683622048695
+  ],
+  "HFPO-DA|SW": [
+   -4.627929467948862,
+   2.380704220014031
+  ],
+  "PFBA|GW": [
+   -1.8363923001870004,
+   1.9815116080994828
+  ],
+  "PFBA|SW": [
+   0.643290040587928,
+   0.8957352883709099
+  ],
+  "PFBS|GW": [
+   -0.8722327795628935,
+   1.385910107748463
+  ],
+  "PFBS|SW": [
+   -0.5494071446209065,
+   1.2561762898449345
+  ],
+  "PFDA|GW": [
+   -2.3347879206250157,
+   1.0408766536717877
+  ],
+  "PFHpA|GW": [
+   -1.416055420918941,
+   1.2574760428838043
+  ],
+  "PFHpA|SW": [
+   -1.1021312473683464,
+   1.0996536533257297
+  ],
+  "PFHxA|GW": [
+   -1.0541912636427635,
+   1.4401298901457966
+  ],
+  "PFHxA|SW": [
+   -0.11905127349203456,
+   1.0583408851455731
+  ],
+  "PFHxS|GW": [
+   -1.2983634879746293,
+   1.5146088311518637
+  ],
+  "PFHxS|SW": [
+   -1.238121168969984,
+   1.305844936221919
+  ],
+  "PFNA|GW": [
+   -4.58960266327707,
+   2.2257921217688117
+  ],
+  "PFNA|SW": [
+   -3.5281973268207834,
+   1.6258009656761336
+  ],
+  "PFOA|GW": [
+   -0.6611444097012309,
+   1.348539861300135
+  ],
+  "PFOA|SW": [
+   -0.18201544918008492,
+   1.049491936281739
+  ],
+  "PFOS|GW": [
+   -1.0717809327786283,
+   1.6553950332887082
+  ],
+  "PFOS|SW": [
+   -0.6095959635271676,
+   1.3211736188746317
+  ],
+  "PFPeA|GW": [
+   -1.130477115390491,
+   1.589697923134625
+  ],
+  "PFPeA|SW": [
+   -0.35088619867395077,
+   1.344027912962004
+  ],
+  "PFPeS|GW": [
+   -3.922768721001325,
+   1.8613694565812477
+  ]
+ },
+ "mc": {
+  "independent": [
+   {
+    "standard": "US2026_PFOA_PFOS",
+    "nd0_exceed": 2099,
+    "hidden_exceed_p50": 23,
+    "expected_hidden": 55.0,
+    "uncertain_0.1_0.9": 132
+   },
+   {
+    "standard": "HI_EPA",
+    "nd0_exceed": 116,
+    "hidden_exceed_p50": 0,
+    "expected_hidden": 1.0,
+    "uncertain_0.1_0.9": 3
+   },
+   {
+    "standard": "Canada_sum25_30",
+    "nd0_exceed": 1143,
+    "hidden_exceed_p50": 133,
+    "expected_hidden": 142.7,
+    "uncertain_0.1_0.9": 141
+   },
+   {
+    "standard": "Sweden_PFAS4_4",
+    "nd0_exceed": 2573,
+    "hidden_exceed_p50": 489,
+    "expected_hidden": 1202.6,
+    "uncertain_0.1_0.9": 946
+   },
+   {
+    "standard": "Denmark_PFAS4_2",
+    "nd0_exceed": 3228,
+    "hidden_exceed_p50": 9263,
+    "expected_hidden": 12037.2,
+    "uncertain_0.1_0.9": 23041
+   },
+   {
+    "standard": "MA_PFAS6_20",
+    "nd0_exceed": 660,
+    "hidden_exceed_p50": 46,
+    "expected_hidden": 50.9,
+    "uncertain_0.1_0.9": 64
+   },
+   {
+    "standard": "Germany_PFAS4_20",
+    "nd0_exceed": 594,
+    "hidden_exceed_p50": 26,
+    "expected_hidden": 31.7,
+    "uncertain_0.1_0.9": 47
+   },
+   {
+    "standard": "EU_sum20_100",
+    "nd0_exceed": 169,
+    "hidden_exceed_p50": 7,
+    "expected_hidden": 8.5,
+    "uncertain_0.1_0.9": 9
+   }
+  ],
+  "comonotone": [
+   {
+    "standard": "US2026_PFOA_PFOS",
+    "nd0_exceed": 2099,
+    "hidden_exceed_p50": 18,
+    "expected_hidden": 52.7,
+    "uncertain_0.1_0.9": 126
+   },
+   {
+    "standard": "HI_EPA",
+    "nd0_exceed": 116,
+    "hidden_exceed_p50": 0,
+    "expected_hidden": 1.3,
+    "uncertain_0.1_0.9": 3
+   },
+   {
+    "standard": "Canada_sum25_30",
+    "nd0_exceed": 1143,
+    "hidden_exceed_p50": 100,
+    "expected_hidden": 173.3,
+    "uncertain_0.1_0.9": 303
+   },
+   {
+    "standard": "Sweden_PFAS4_4",
+    "nd0_exceed": 2573,
+    "hidden_exceed_p50": 384,
+    "expected_hidden": 3373.2,
+    "uncertain_0.1_0.9": 15289
+   },
+   {
+    "standard": "Denmark_PFAS4_2",
+    "nd0_exceed": 3228,
+    "hidden_exceed_p50": 5942,
+    "expected_hidden": 9947.9,
+    "uncertain_0.1_0.9": 23200
+   },
+   {
+    "standard": "MA_PFAS6_20",
+    "nd0_exceed": 660,
+    "hidden_exceed_p50": 40,
+    "expected_hidden": 56.2,
+    "uncertain_0.1_0.9": 97
+   },
+   {
+    "standard": "Germany_PFAS4_20",
+    "nd0_exceed": 594,
+    "hidden_exceed_p50": 21,
+    "expected_hidden": 31.7,
+    "uncertain_0.1_0.9": 49
+   },
+   {
+    "standard": "EU_sum20_100",
+    "nd0_exceed": 169,
+    "hidden_exceed_p50": 6,
+    "expected_hidden": 7.7,
+    "uncertain_0.1_0.9": 13
+   }
+  ]
+ }
+}

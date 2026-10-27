@@ -1,0 +1,221 @@
+{
+ "standards": [
+  {
+   "standard": "US2024_full",
+   "loc_exceed_nd0": 2141,
+   "loc_pct": 8.01,
+   "pws_exceed": 1195,
+   "pop_millions": 57.1,
+   "loc_exceed_ndhalf": 2396,
+   "loc_undecidable_pct": 91.89
+  },
+  {
+   "standard": "US2026_PFOA_PFOS",
+   "loc_exceed_nd0": 2101,
+   "loc_pct": 7.86,
+   "pws_exceed": 1175,
+   "pop_millions": 56.7,
+   "loc_exceed_ndhalf": 2257,
+   "loc_undecidable_pct": 3.58
+  },
+  {
+   "standard": "US2024_rescinded_parts",
+   "loc_exceed_nd0": 230,
+   "loc_pct": 0.86,
+   "pws_exceed": 153,
+   "pop_millions": 10.4,
+   "loc_exceed_ndhalf": 604,
+   "loc_undecidable_pct": 99.04
+  },
+  {
+   "standard": "Canada_sum25_30",
+   "loc_exceed_nd0": 1143,
+   "loc_pct": 4.28,
+   "pws_exceed": 694,
+   "pop_millions": 38.9,
+   "loc_exceed_ndhalf": 26703,
+   "loc_undecidable_pct": 95.63
+  },
+  {
+   "standard": "EU_sum20_100",
+   "loc_exceed_nd0": 169,
+   "loc_pct": 0.63,
+   "pws_exceed": 108,
+   "pop_millions": 7.0,
+   "loc_exceed_ndhalf": 248,
+   "loc_undecidable_pct": 0.74
+  },
+  {
+   "standard": "Germany_PFAS4_20",
+   "loc_exceed_nd0": 594,
+   "loc_pct": 2.22,
+   "pws_exceed": 378,
+   "pop_millions": 23.5,
+   "loc_exceed_ndhalf": 780,
+   "loc_undecidable_pct": 2.31
+  },
+  {
+   "standard": "Sweden_PFAS4_4",
+   "loc_exceed_nd0": 2573,
+   "loc_pct": 9.63,
+   "pws_exceed": 1418,
+   "pop_millions": 68.7,
+   "loc_exceed_ndhalf": 26703,
+   "loc_undecidable_pct": 90.28
+  },
+  {
+   "standard": "Denmark_PFAS4_2",
+   "loc_exceed_nd0": 3228,
+   "loc_pct": 12.08,
+   "pws_exceed": 1736,
+   "pop_millions": 79.2,
+   "loc_exceed_ndhalf": 26703,
+   "loc_undecidable_pct": 87.83
+  },
+  {
+   "standard": "MA_PFAS6_20",
+   "loc_exceed_nd0": 660,
+   "loc_pct": 2.47,
+   "pws_exceed": 411,
+   "pop_millions": 24.9,
+   "loc_exceed_ndhalf": 1116,
+   "loc_undecidable_pct": 97.43
+  },
+  {
+   "standard": "VT_sum5_20",
+   "loc_exceed_nd0": 659,
+   "loc_pct": 2.47,
+   "pws_exceed": 411,
+   "pop_millions": 24.9,
+   "loc_exceed_ndhalf": 952,
+   "loc_undecidable_pct": 4.89
+  },
+  {
+   "standard": "NJ",
+   "loc_exceed_nd0": 416,
+   "loc_pct": 1.56,
+   "pws_exceed": 275,
+   "pop_millions": 16.6,
+   "loc_exceed_ndhalf": 418,
+   "loc_undecidable_pct": 0.03
+  },
+  {
+   "standard": "China_GB5749",
+   "loc_exceed_nd0": 35,
+   "loc_pct": 0.13,
+   "pws_exceed": 24,
+   "pop_millions": 0.9,
+   "loc_exceed_ndhalf": 35,
+   "loc_undecidable_pct": 0.0
+  }
+ ],
+ "rescission": {
+  "locs": 40,
+  "pws": 20,
+  "pop_m": 0.368251
+ },
+ "canada_only": {
+  "locs": 256,
+  "of": 1143,
+  "pws": 140,
+  "pop_m": 5.80518,
+  "top_share": {
+   "PFBA": 0.346,
+   "PFPeA": 0.298,
+   "PFBS": 0.122,
+   "PFHxA": 0.111,
+   "6:2 FTS": 0.044,
+   "PFHxS": 0.032,
+   "PFHpA": 0.012,
+   "PFOA": 0.011
+  }
+ },
+ "jaccard": {
+  "US2024_full": {
+   "US2024_full": 1.0,
+   "US2026_PFOA_PFOS": 0.981,
+   "Canada_sum25_30": 0.378,
+   "EU_sum20_100": 0.056,
+   "Germany_PFAS4_20": 0.277,
+   "Sweden_PFAS4_4": 0.829,
+   "MA_PFAS6_20": 0.308,
+   "China_GB5749": 0.016
+  },
+  "US2026_PFOA_PFOS": {
+   "US2024_full": 0.981,
+   "US2026_PFOA_PFOS": 1.0,
+   "Canada_sum25_30": 0.376,
+   "EU_sum20_100": 0.057,
+   "Germany_PFAS4_20": 0.278,
+   "Sweden_PFAS4_4": 0.817,
+   "MA_PFAS6_20": 0.309,
+   "China_GB5749": 0.017
+  },
+  "Canada_sum25_30": {
+   "US2024_full": 0.378,
+   "US2026_PFOA_PFOS": 0.376,
+   "Canada_sum25_30": 1.0,
+   "EU_sum20_100": 0.148,
+   "Germany_PFAS4_20": 0.452,
+   "Sweden_PFAS4_4": 0.339,
+   "MA_PFAS6_20": 0.505,
+   "China_GB5749": 0.031
+  },
+  "EU_sum20_100": {
+   "US2024_full": 0.056,
+   "US2026_PFOA_PFOS": 0.057,
+   "Canada_sum25_30": 0.148,
+   "EU_sum20_100": 1.0,
+   "Germany_PFAS4_20": 0.144,
+   "Sweden_PFAS4_4": 0.049,
+   "MA_PFAS6_20": 0.136,
+   "China_GB5749": 0.14
+  },
+  "Germany_PFAS4_20": {
+   "US2024_full": 0.277,
+   "US2026_PFOA_PFOS": 0.278,
+   "Canada_sum25_30": 0.452,
+   "EU_sum20_100": 0.144,
+   "Germany_PFAS4_20": 1.0,
+   "Sweden_PFAS4_4": 0.231,
+   "MA_PFAS6_20": 0.9,
+   "China_GB5749": 0.059
+  },
+  "Sweden_PFAS4_4": {
+   "US2024_full": 0.829,
+   "US2026_PFOA_PFOS": 0.817,
+   "Canada_sum25_30": 0.339,
+   "EU_sum20_100": 0.049,
+   "Germany_PFAS4_20": 0.231,
+   "Sweden_PFAS4_4": 1.0,
+   "MA_PFAS6_20": 0.257,
+   "China_GB5749": 0.014
+  },
+  "MA_PFAS6_20": {
+   "US2024_full": 0.308,
+   "US2026_PFOA_PFOS": 0.309,
+   "Canada_sum25_30": 0.505,
+   "EU_sum20_100": 0.136,
+   "Germany_PFAS4_20": 0.9,
+   "Sweden_PFAS4_4": 0.257,
+   "MA_PFAS6_20": 1.0,
+   "China_GB5749": 0.053
+  },
+  "China_GB5749": {
+   "US2024_full": 0.016,
+   "US2026_PFOA_PFOS": 0.017,
+   "Canada_sum25_30": 0.031,
+   "EU_sum20_100": 0.14,
+   "Germany_PFAS4_20": 0.059,
+   "Sweden_PFAS4_4": 0.014,
+   "MA_PFAS6_20": 0.053,
+   "China_GB5749": 1.0
+  }
+ },
+ "hi": {
+  "hi_gt1": 230,
+  "hi_only": 11
+ },
+ "total_pop_m": 305.192348,
+ "n_loc": 26729
+}

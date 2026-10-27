@@ -1,0 +1,43 @@
+PWS with both treated and untreated EPs: 150
+  oaos_t median 0.00 vs oaos_u 0.63  mean 2.70 vs 3.83  p=0.00218
+  short_t median 3.61 vs short_u 0.92  mean 17.94 vs 7.77  p=1.26e-05
+  tot_t median 5.22 vs tot_u 3.42  mean 22.39 vs 12.59  p=0.0156
+  exc_t median 0.00 vs exc_u 0.00  mean 0.14 vs 0.25  p=0.00031
+  short-chain fraction (both >0): n=73 median 1.00 vs 0.48 p=5.2e-08
+  oaos: lower at treated 61, equal 61 (both zero 61), higher 28
+  exc: lower at treated 56, equal 73 (both zero 71), higher 21
+  short: lower at treated 37, equal 30 (both zero 30), higher 83
+treated exceeders: 82 median PFOA+PFOS 13.2 water type {'GW': 60, 'SW': 21, 'GU': 1}
+surface-water 4-event locations 6800
+short n_loc 788 median ratio by quarter {1: 0.962, 2: 0.943, 3: 1.04, 4: 1.105}
+  FE model (ratio vs Q1 / vs SE1): {'q_2': np.float64(0.962), 'q_3': np.float64(1.132), 'q_4': np.float64(1.238), 'ev_SE2': np.float64(0.967), 'ev_SE3': np.float64(0.951), 'ev_SE4': np.float64(0.926)}
+  by year x quarter (exp):
+ q         1      2      3      4
+yr                              
+2023  0.896  0.958  1.116  1.114
+2024  0.982  0.932  1.021  1.089
+2025  0.973  0.940  0.987  1.110
+2026  1.049  1.150    NaN    NaN
+long n_loc 366 median ratio by quarter {1: 0.952, 2: 0.992, 3: 1.045, 4: 1.046}
+  FE model (ratio vs Q1 / vs SE1): {'q_2': np.float64(1.082), 'q_3': np.float64(1.16), 'q_4': np.float64(1.188), 'ev_SE2': np.float64(0.949), 'ev_SE3': np.float64(0.945), 'ev_SE4': np.float64(0.964)}
+  by year x quarter (exp):
+ q         1      2      3      4
+yr                              
+2023  0.899  1.012  1.083  1.066
+2024  0.962  0.983  1.005  1.058
+2025  0.997  0.962  1.040  1.014
+2026  0.857  1.129    NaN    NaN
+q       1     2     3     4
+ev                         
+SE1  4242  1049   789   720
+SE2   722  4255  1023   800
+SE3   821   712  4186  1081
+SE4  1051   813   710  4226
+GW control short: n=1779 median warm/cool ratio 1.015 p=0.00837
+  gw_short: median 95% CI 1.000-1.027; locations with equal halves 40
+GW control long: n=1552 median warm/cool ratio 1.007 p=0.0469
+  gw_long: median 95% CI 1.000-1.023; locations with equal halves 40
+SW short: n=1425 median warm/cool ratio 1.156 p=1.09e-19
+  sw_short: median 95% CI 1.116-1.202; locations with equal halves 12
+SW long: n=652 median warm/cool ratio 1.144 p=9.56e-11
+  sw_long: median 95% CI 1.093-1.205; locations with equal halves 5

@@ -1,0 +1,11 @@
+specification,matched_pairs,native_pp,native_lo,native_hi,reclassification_pp,reclassification_lo,reclassification_hi,shared_cutoff_pp,shared_cutoff_lo,shared_cutoff_hi,source
+Event-equal,7677,10.33,7.676,13.833,10.668,7.972,14.345,-0.339,-0.664,-0.125,"table #5 (Table S2, panel A), row 'Event-equal'"
+Pooled matched-PWS-equal,7677,10.367,9.298,11.499,10.796,9.738,11.916,-0.429,-0.676,-0.211,"table #5 (Table S2, panel A), row 'Pooled matched-PWS-equal'"
+"Jurisdiction-equal, within-jurisdiction PWS-equal",7677,6.601,4.106,9.489,6.835,4.283,9.759,-0.234,-0.522,-0.053,"table #5 (Table S2, panel A), row 'Jurisdiction-equal, within-jurisdiction PWS-equal'"
+Metadata stable,7433,6.5634,4.0618,9.454,6.8001,4.2387,9.7329,-0.2368,-0.5288,-0.0504,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Normalized-name corroborated,1734,9.8775,4.0132,17.7834,10.1829,4.248,18.1042,-0.3053,-0.8974,0.0,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Same calendar month,845,6.3372,2.9343,10.4332,6.4532,3.0323,10.5648,-0.116,-0.4808,0.0,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Same meteorological season,2122,6.328,3.4894,9.5351,6.6423,3.8012,9.8715,-0.3143,-0.8511,0.0026,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Cyclic month distance <=1,2131,6.1069,3.5564,9.0627,6.1943,3.6338,9.1631,-0.0874,-0.2877,0.0,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Cyclic month distance <=2,3487,5.9807,3.5741,8.8441,6.1665,3.7483,9.0376,-0.1858,-0.5751,0.042,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"
+Cyclic month distance <=3,4748,5.84,3.4744,8.5546,6.0424,3.661,8.7593,-0.2023,-0.5718,0.0,"release: pfas-reporting-rules v1.0.0, results/figures/S1/robustness.csv"

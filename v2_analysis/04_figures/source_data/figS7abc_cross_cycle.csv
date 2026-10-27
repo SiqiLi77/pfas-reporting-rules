@@ -1,0 +1,4 @@
+condition,events_multi,entry_points,event_rate_pct,systems_multi,systems,events_multi_c,events_positive,multi_share_pct,source
+"UCMR 3 samples, UCMR 3 limits",36,7677,0.469,26,2421,36,79,45.6,"a: table #3 (Table S1B) and #11 (Table S4B, SE1); b: table #8 (Table S3B); c: printed: Text S2 ratios and counts"
+"UCMR 5 samples, UCMR 5 limits",829,7677,10.798,437,2421,829,1353,61.3,"a: table #3 (Table S1B) and #11 (Table S4B, SE1); b: table #8 (Table S3B); c: printed: Text S2 ratios and counts"
+"UCMR 5 samples, UCMR 3 cutoffs",10,7677,0.13,10,2421,10,58,17.2,"a: table #3 (Table S1B) and #11 (Table S4B, SE1); b: table #8 (Table S3B); c: printed: Text S2 ratios and counts"

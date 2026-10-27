@@ -1,0 +1,5 @@
+panel,samples,label_pct,label_lo,label_hi,pair_pct,pair_lo,pair_hi,source
+Six,First,52.37,50.07,54.49,22.24,21.0,23.56,"table #20 (Table S8B), native rows"
+Six,Two,64.85,62.69,66.92,30.41,29.02,31.9,"table #20 (Table S8B), native rows"
+25,First,81.03,79.42,82.54,70.75,68.98,72.35,"table #20 (Table S8B), native rows"
+25,Two,100.0,,,100.0,,,"table #20 (Table S8B), native rows"

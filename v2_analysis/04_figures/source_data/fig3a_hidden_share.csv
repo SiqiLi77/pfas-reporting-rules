@@ -1,0 +1,9 @@
+rule,key,EP_exceed_ND0,expected_hidden_indep,expected_hidden_comon,hidden_pct_of_all_indep,hidden_pct_of_all_comon,EP_undecidable_indep,EP_undecidable_comon
+U.S. PFOA/PFOS (2026 proposal),US2026_PFOA_PFOS,2099,54.9,53.3,2.549,2.476,143,136
+U.S. 2024 rule (six standards),HI_EPA,116,1.1,1.1,0.939,0.939,3,3
+"Denmark PFAS-4, 2 ng/L",Denmark_PFAS4_2,3228,12025.8,9943.4,78.838,75.492,23042,23226
+"Sweden PFAS-4, 4 ng/L",Sweden_PFAS4_4,2573,1201.7,3378.2,31.836,56.765,903,23351
+"Canada 25-PFAS sum, 30 ng/L",Canada_sum25_30,1143,142.2,173.5,11.064,13.179,146,312
+"Massachusetts PFAS6, 20 ng/L",MA_PFAS6_20,660,51.8,56.2,7.277,7.847,74,103
+"Germany PFAS-4, 20 ng/L",Germany_PFAS4_20,594,30.7,31.4,4.914,5.021,44,53
+"EU 20-PFAS sum, 100 ng/L",EU_sum20_100,169,8.4,7.6,4.735,4.304,10,14

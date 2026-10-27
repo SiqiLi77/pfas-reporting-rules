@@ -11,3 +11,4 @@ outputs/
 *.npz
 *.zip
 *.log
+!v2_analysis/**/*.log

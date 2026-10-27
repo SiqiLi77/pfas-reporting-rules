@@ -1,0 +1,5 @@
+group,ratio_per_100_DSCI,ci_lo,ci_hi,n_locations,n_samples
+sw_short,1.061,1.035,1.088,784,3136
+sw_long,0.996,0.972,1.02,366,1464
+gw_short,1.002,0.984,1.019,1925,3850
+gw_long,0.998,0.983,1.013,1663,3326

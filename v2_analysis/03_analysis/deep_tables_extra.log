@@ -1,0 +1,46 @@
+lost under proposal: 9 systems, 0.14 M people
+   {'PWSID': 'IA9778054', 'name': 'SIOUX CITY WATER SUPPLY', 'state': 'IA', 'pop': 85791, 'n_ep_flagged': 1, 'standards': ['HI', 'PFHxS'], 'max_PFHxS': 30.2, 'max_PFNA': 0.0, 'max_HFPO_DA': 0.0, 'max_HI': 3.03, 'max_PFOA_PFOS': 2.85}
+   {'PWSID': 'CA3610015', 'name': 'CRESTLINE VILLAGE CWD - DIVISION 10', 'state': 'CA', 'pop': 11650, 'n_ep_flagged': 1, 'standards': ['HI', 'PFHxS'], 'max_PFHxS': 15.9, 'max_PFNA': 1.8, 'max_HFPO_DA': 0.0, 'max_HI': 1.77, 'max_PFOA_PFOS': 1.3}
+   {'PWSID': 'WY5600047', 'name': 'RIVERTON, CITY OF', 'state': 'WY', 'pop': 10330, 'n_ep_flagged': 1, 'standards': ['HI', 'PFHxS'], 'max_PFHxS': 18.5, 'max_PFNA': 0.0, 'max_HFPO_DA': 0.0, 'max_HI': 1.85, 'max_PFOA_PFOS': 3.5}
+   {'PWSID': 'NY2902833', 'name': 'LOCUST VALLEY WD', 'state': 'NY', 'pop': 7500, 'n_ep_flagged': 1, 'standards': ['HI', 'PFNA'], 'max_PFHxS': 2.2, 'max_PFNA': 22.1, 'max_HFPO_DA': 0.0, 'max_HI': 2.44, 'max_PFOA_PFOS': 0.0}
+   {'PWSID': 'SC0410004', 'name': 'BELTON CITY OF (SC0410004)', 'state': 'SC', 'pop': 6762, 'n_ep_flagged': 1, 'standards': ['HFPO-DA', 'HI'], 'max_PFHxS': 0.0, 'max_PFNA': 0.0, 'max_HFPO_DA': 41.9, 'max_HI': 4.19, 'max_PFOA_PFOS': 1.2}
+   {'PWSID': 'SC0110001', 'name': 'ABBEVILLE CITY OF (SC0110001)', 'state': 'SC', 'pop': 5650, 'n_ep_flagged': 1, 'standards': ['HFPO-DA', 'HI'], 'max_PFHxS': 0.0, 'max_PFNA': 0.0, 'max_HFPO_DA': 81.4, 'max_HI': 8.14, 'max_PFOA_PFOS': 0.0}
+   {'PWSID': 'SC0120001', 'name': 'DONALDS-DUE WEST W&SA (SC0120001)', 'state': 'SC', 'pop': 5200, 'n_ep_flagged': 1, 'standards': ['HFPO-DA', 'HI'], 'max_PFHxS': 0.0, 'max_PFNA': 0.0, 'max_HFPO_DA': 16.4, 'max_HI': 1.64, 'max_PFOA_PFOS': 0.0}
+   {'PWSID': 'SC0410003', 'name': 'HONEA PATH TOWN OF (SC0410003)', 'state': 'SC', 'pop': 4386, 'n_ep_flagged': 2, 'standards': ['HFPO-DA', 'HI'], 'max_PFHxS': 0.0, 'max_PFNA': 0.0, 'max_HFPO_DA': 25.5, 'max_HI': 2.55, 'max_PFOA_PFOS': 0.0}
+   {'PWSID': 'TX0910052', 'name': 'TANGLEWOOD ON TEXOMA', 'state': 'TX', 'pop': 4341, 'n_ep_flagged': 1, 'standards': ['HI', 'PFHxS'], 'max_PFHxS': 28.0, 'max_PFNA': 0.0, 'max_HFPO_DA': 0.0, 'max_HI': 2.8, 'max_PFOA_PFOS': 0.0}
+RIVM-only systems: 342
+   {'PWSID': 'TX0570004', 'name': 'DALLAS WATER UTILITY', 'state': 'TX', 'pop': 1356479, 'n_ep_flagged': 1, 'max_peq': 15.36, 'max_PFOA_PFOS': 3.78, 'share_PFOS': 0.309, 'share_PFHxS': 0.102, 'share_PFOA': 0.246}
+   {'PWSID': 'TX2270001', 'name': 'CITY OF AUSTIN WATER & WASTEWATER', 'state': 'TX', 'pop': 1115323, 'n_ep_flagged': 2, 'max_peq': 4.78, 'max_PFOA_PFOS': 1.2, 'share_PFOS': 0.5, 'share_PFHxS': 0.451, 'share_PFOA': 0.0}
+   {'PWSID': 'CA4310011', 'name': 'SAN JOSE WATER', 'state': 'CA', 'pop': 1039920, 'n_ep_flagged': 1, 'max_peq': 8.78, 'max_PFOA_PFOS': 3.1, 'share_PFOS': 0.706, 'share_PFHxS': 0.294, 'share_PFOA': 0.0}
+   {'PWSID': 'NC0392010', 'name': 'RALEIGH, CITY OF', 'state': 'NC', 'pop': 650000, 'n_ep_flagged': 1, 'max_peq': 5.56, 'max_PFOA_PFOS': 2.72, 'share_PFOS': 0.981, 'share_PFHxS': 0.0, 'share_PFOA': 0.0}
+   {'PWSID': 'AZ0407095', 'name': 'MESA CITY OF', 'state': 'AZ', 'pop': 466000, 'n_ep_flagged': 2, 'max_peq': 5.37, 'max_PFOA_PFOS': 0.0, 'share_PFOS': 0.0, 'share_PFHxS': 0.998, 'share_PFOA': 0.0}
+   {'PWSID': 'TX2200001', 'name': 'CITY OF ARLINGTON', 'state': 'TX', 'pop': 413955, 'n_ep_flagged': 1, 'max_peq': 6.88, 'max_PFOA_PFOS': 3.2, 'share_PFOS': 0.93, 'share_PFHxS': 0.0, 'share_PFOA': 0.0}
+   {'PWSID': 'VA3700500', 'name': 'NEWPORT NEWS, CITY OF', 'state': 'VA', 'pop': 407300, 'n_ep_flagged': 1, 'max_peq': 7.51, 'max_PFOA_PFOS': 2.28, 'share_PFOS': 0.606, 'share_PFHxS': 0.352, 'share_PFOA': 0.0}
+   {'PWSID': 'WA5383100', 'name': 'SPOKANE CITY OF', 'state': 'WA', 'pop': 346138, 'n_ep_flagged': 1, 'max_peq': 6.2, 'max_PFOA_PFOS': 3.05, 'share_PFOS': 0.984, 'share_PFHxS': 0.0, 'share_PFOA': 0.0}
+   {'PWSID': 'FL5364048', 'name': 'LEE COUNTY UTILITIES', 'state': 'FL', 'pop': 282556, 'n_ep_flagged': 1, 'max_peq': 5.9, 'max_PFOA_PFOS': 2.95, 'share_PFOS': 1.0, 'share_PFHxS': 0.0, 'share_PFOA': 0.0}
+   {'PWSID': 'TX0570050', 'name': 'CITY OF IRVING', 'state': 'TX', 'pop': 264546, 'n_ep_flagged': 1, 'max_peq': 7.34, 'max_PFOA_PFOS': 2.25, 'share_PFOS': 0.272, 'share_PFHxS': 0.061, 'share_PFOA': 0.306}
+   {'PWSID': 'CO0101150', 'name': 'THORNTON CITY OF', 'state': 'CO', 'pop': 226465, 'n_ep_flagged': 1, 'max_peq': 12.19, 'max_PFOA_PFOS': 3.4, 'share_PFOS': 0.39, 'share_PFHxS': 0.124, 'share_PFOA': 0.279}
+   {'PWSID': 'NY2902835', 'name': 'LIBERTY UTILITIES NEW YORK - LYNBROOK', 'state': 'NY', 'pop': 220000, 'n_ep_flagged': 1, 'max_peq': 27.49, 'max_PFOA_PFOS': 2.55, 'share_PFOS': 0.186, 'share_PFHxS': 0.069, 'share_PFOA': 0.0}
+Texas Canada-only: 75 EPs in 59 systems
+           n       sum25     PFBA       PFPeA      PFHxA  oaos_max                   facility     wt      pop                                      name
+PWSID                                                                                                                                                  
+TX0570004  1   55.700000  10.0250   13.700000  13.600000     3.775       Bachman (Shorecrest)     SW  1356479                      DALLAS WATER UTILITY
+TX0570050  2   34.575000   9.8375    8.262500   8.362500     2.250    Mac Arthur Pump Station     SW   264546                            CITY OF IRVING
+TX0570048  1   33.500000   9.7500    7.850000   7.625000     1.300      Dallas Water Intertie     SW   201843                     CITY OF GRAND PRAIRIE
+TX2460001  1   35.350000   5.7250    8.850000   4.225000     3.625       San Gabriel Park WTP     GU   191639                        CITY OF GEORGETOWN
+TX1650001  1   31.975000  15.0000    0.750000   1.800000     1.125                        WPP     MX   157000  CITY OF MIDLAND WATER PURIFICATION PLANT
+TX0840007  1   66.025000  16.1500   43.900000   4.175000     0.000  Gulf Coast Water Intertie     SW   149557                       CITY OF LEAGUE CITY
+TX0200008  2   49.550000   8.7750   36.612500   3.312500     0.000        SCR Pumping Station     SW   125828                          CITY OF PEARLAND
+TX1010003  1   31.000000   7.5750    6.150000   5.675000     3.950            City of Baytown     SW    86004                           CITY OF BAYTOWN
+TX0790005  3  287.875000  16.5500  137.200000   4.275000     1.025           First Colony WTP  MX/SW    80381                        CITY OF SUGAR LAND
+TX0610023  1   30.400000   8.7750    7.525000   8.025000     1.100      Dallas Water Intertie     SW    80000                      TOWN OF FLOWER MOUND
+TX0840008  1   70.100000  13.3000   51.025000   3.225000     0.000  Gulf Coast Water Intertie     SW    61541                        CITY OF TEXAS CITY
+TX2200013  1   48.250000  10.0250   12.475000  13.675000     3.375                        WTP     SW    52346                         CITY OF GRAPEVINE
+TX0840003  3   66.025000  13.6750   49.650000   2.075000     0.000   30th Street Pump Station     SW    52326                         CITY OF GALVESTON
+TX0790004  1   63.300000  10.8750   44.475000   7.175000     0.000        SWTP Post Treatment     SW    49173                   FORT BEND COUNTY WCID 2
+TX0790003  1   85.350000  17.3250   64.375000   2.625000     0.000                    Plant 8     SW    43158                         CITY OF ROSENBERG
+TX0570047  1   34.900000   8.9000    9.025000   9.850000     2.175                 Marsh Lane     SW    40246                    CITY OF FARMERS BRANCH
+TX0840001  1   67.625000   5.0000   58.325000   2.425000     0.000  Gulf Coast Water Intertie     SW    30399                   GALVESTON COUNTY WCID 1
+TX2460022  1   31.550000   0.0000    9.150000   6.050000     2.850                   Plant 12     GW    29861                           JONAH WATER SUD
+TX0700005  1   33.733333   9.2000    9.066667   7.633333     1.600            Tayman Road WTP     SW    27699                        CITY OF MIDLOTHIAN
+TX0200006  1   33.025000  11.9500   20.275000   0.800000     0.000                   North WP     SW    27314                      CITY OF LAKE JACKSON

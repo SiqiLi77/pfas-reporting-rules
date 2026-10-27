@@ -1,0 +1,5 @@
+sum,quantified_contrast_ng_L,lo,hi,bound_lower_ng_L,bound_upper_ng_L,lower_endpoint_ci_lo,lower_endpoint_ci_hi,upper_endpoint_ci_lo,upper_endpoint_ci_hi,source
+Shared six,-0.363,-0.774,0.057,-20.352,19.687,-20.713,-19.976,19.293,20.073,tables #28-#29 (Table S13)
+Complete 25,1.106,0.441,1.797,-102.246,103.649,-102.839,-101.618,103.031,104.258,tables #28-#29 (Table S13)
+Added trio,1.449,1.126,1.806,-8.943,10.984,-9.25,-8.609,10.693,11.298,tables #28-#29 (Table S13)
+Other 16,0.02,-0.058,0.109,-72.951,72.978,-73.025,-72.862,72.904,73.063,tables #28-#29 (Table S13)

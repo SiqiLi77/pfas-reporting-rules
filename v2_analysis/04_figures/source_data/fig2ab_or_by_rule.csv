@@ -1,0 +1,7 @@
+rule,variable,n_positive_PWS,n_PWS,OR_per_10pp,ci_lo,ci_hi,p
+UCMR 3 rule (2023–2025 samples),pct_black,133,8478,0.813,0.693,0.954,0.011
+UCMR 5 rule (same samples),pct_black,3552,10174,1.087,1.002,1.179,0.0459
+Actual UCMR 3 (2013–2015 samples),pct_black,189,3777,1.026,0.78,1.349,0.8555
+UCMR 3 rule (2023–2025 samples),pct_hisp,133,8478,1.214,1.087,1.356,0.0006
+UCMR 5 rule (same samples),pct_hisp,3552,10174,1.092,1.008,1.184,0.0313
+Actual UCMR 3 (2013–2015 samples),pct_hisp,189,3777,1.215,1.095,1.349,0.0003

@@ -1,0 +1,32 @@
+{
+ "epa_rounding": {
+  "per_mcl_pws": {
+   "PFOS": 900,
+   "PFOA": 798,
+   "HFPO-DA": 8,
+   "PFHxS": 66,
+   "PFNA": 9,
+   "HI": 80
+  },
+  "any_pws": 1162,
+  "pfoa_pfos_pws": 1153,
+  "lost_pws": 9,
+  "lost_pop_m": 0.14,
+  "any_pop_m": 55.4
+ },
+ "literal": {
+  "per_mcl_pws": {
+   "PFOS": 901,
+   "PFOA": 799,
+   "HFPO-DA": 10,
+   "PFHxS": 119,
+   "PFNA": 16,
+   "HI": 148
+  },
+  "any_pws": 1175,
+  "pfoa_pfos_pws": 1155,
+  "lost_pws": 20,
+  "lost_pop_m": 0.37,
+  "any_pop_m": 55.7
+ }
+}

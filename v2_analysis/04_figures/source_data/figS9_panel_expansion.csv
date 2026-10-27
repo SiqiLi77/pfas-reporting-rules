@@ -1,0 +1,19 @@
+panel,row,gw,gw_lo,gw_hi,sw,sw_lo,sw_hi,value,lo,hi,source
+a,"Six, native limits",7.75,7.08,8.42,6.78,6.03,7.5,,,,table #22 (Table S9A)
+a,"25, native limits",10.59,9.78,11.34,14.26,13.3,15.21,,,,table #22 (Table S9A)
+b,PFBA,0.4852,,,2.0828,,,1.5975,1.2765,1.9298,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,PFPeA,1.3222,,,2.836,,,1.5138,1.1684,1.8825,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,PFHxA,0.9714,,,2.4339,,,1.4625,1.1688,1.7875,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,HFPO-DA,0.0025,,,0.07,,,0.0676,0.0222,0.1257,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,6:2 FTS,0.0359,,,0.0594,,,0.0236,-0.0236,0.0715,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,4:2 FTS,0.0067,,,0.0,,,-0.0067,-0.0233,0.0,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,PFDoA,0.0088,,,0.0,,,-0.0088,-0.0206,0.0,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,PFPeS,0.0091,,,0.0,,,-0.0091,-0.0309,0.0,table #25 (Table S10); the other 11 analytes contribute 0.0000
+b,Other 16 PFAS (plotted),,,,,,,0.0666,-0.0056,0.144,"release: pfas-reporting-rules v1.0.0, results/figures/Fig3/Fig3b_panel_attribution.csv (interval computed jointly, not by summing limits)"
+c,Native,,,,,,,4.64,3.827,5.474,table #26 (Table S11)
+c,5,,,,,,,2.986,2.351,3.613,table #26 (Table S11)
+c,10,,,,,,,0.504,0.144,0.873,table #26 (Table S11)
+c,20,,,,,,,0.134,-0.075,0.365,table #26 (Table S11)
+c,40,,,,,,,-0.02,-0.107,0.078,table #26 (Table S11)
+d,label,73.55,,,47.71,,,,,,"table #21 (Table S8C), six PFAS, two samples"
+d,pair,37.93,,,15.34,,,,,,"table #21 (Table S8C), six PFAS, two samples"

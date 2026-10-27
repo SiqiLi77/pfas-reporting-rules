@@ -1,0 +1,58 @@
+panel,row,model,value,lo,hi,source
+a,Independence,count,0.185354,,,table #35 (Table S14A)
+a,Independence,identity,0.054597,,,table #35 (Table S14A)
+a,Independence,pattern,0.239951,,,table #35 (Table S14A)
+a,Count prior,count,0.150596,,,table #35 (Table S14A)
+a,Count prior,identity,0.055072,,,table #35 (Table S14A)
+a,Count prior,pattern,0.205668,,,table #35 (Table S14A)
+a,Shared shock,count,0.15097,,,table #35 (Table S14A)
+a,Shared shock,identity,0.053606,,,table #35 (Table S14A)
+a,Shared shock,pattern,0.204576,,,table #35 (Table S14A)
+a,Gaussian factor-2,count,0.150669,,,table #35 (Table S14A)
+a,Gaussian factor-2,identity,0.054851,,,table #35 (Table S14A)
+a,Gaussian factor-2,pattern,0.20552,,,table #35 (Table S14A)
+b,Pattern,Shared shock,0.035375,0.023928,0.048519,table #36 (Table S14B)
+b,Pattern,Gaussian factor-2,0.034431,0.022995,0.047612,table #36 (Table S14B)
+b,Count,Shared shock,0.034384,0.02305,0.047432,table #36 (Table S14B)
+b,Count,Gaussian factor-2,0.034685,0.023524,0.047544,table #36 (Table S14B)
+b,Conditional identity,Shared shock,0.000991,-0.001549,0.004286,table #36 (Table S14B)
+b,Conditional identity,Gaussian factor-2,-0.000254,-0.002716,0.00217,table #36 (Table S14B)
+c,K=0,Observed,96.6567,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=1,Observed,1.9798,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=2,Observed,0.77845,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=3,Observed,0.36782,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=4,Observed,0.14088,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=5,Observed,0.06713,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=6,Observed,0.00923,,,"K=0 and K=1 from tables #43 and #42 (Table R4C, R4B); K=2-6 release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=0,Independence,93.51979,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=1,Independence,5.6865,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=2,Independence,0.59213,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=3,Independence,0.12211,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=4,Independence,0.04888,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=5,Independence,0.02307,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=6,Independence,0.00752,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=0,Shared shock,95.80539,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=1,Shared shock,2.33382,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=2,Shared shock,0.94568,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=3,Shared shock,0.49496,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=4,Shared shock,0.24114,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=5,Shared shock,0.15558,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+c,K=6,Shared shock,0.02343,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4c_count_distribution.csv"
+d,PFOA + PFOS,Observed,0.1947,,,table #41 (Table R4A)
+d,PFOA + PFOS,Independence,0.11556,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFOA + PFOS,Shared shock,0.33148,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFHpA + PFOA,Observed,0.1918,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv"
+d,PFHpA + PFOA,Independence,0.04972,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFHpA + PFOA,Shared shock,0.09016,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFHxS + PFOS,Observed,0.1545,,,table #41 (Table R4A)
+d,PFHxS + PFOS,Independence,0.05271,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFHxS + PFOS,Shared shock,0.15261,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFHpA + PFOA,Observed,0.1003,,,table #41 (Table R4A)
+d,PFBS + PFHpA + PFOA,Independence,0.01597,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFHpA + PFOA,Shared shock,0.04213,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFOA + PFOS,Observed,0.0859,,,table #41 (Table R4A)
+d,PFBS + PFOA + PFOS,Independence,0.01749,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFOA + PFOS,Shared shock,0.1253,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFOA,Observed,0.0717,,,"release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv"
+d,PFBS + PFOA,Independence,0.07756,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"
+d,PFBS + PFOA,Shared shock,0.07561,,,"patterns and model frequencies release: pfas-reporting-rules v1.0.0, results/figures/Fig4/Fig4d_exact_multiple_patterns.csv; observed frequencies from Table R4A where listed, otherwise from the release"

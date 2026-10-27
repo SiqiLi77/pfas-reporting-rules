@@ -1,0 +1,7 @@
+part,condition,events,of,pct
+event rate,"UCMR 3 samples, UCMR 3 limits",36,7677,0.469
+event rate,"UCMR 5 samples, UCMR 5 limits",829,7677,10.798
+event rate,"Same samples, UCMR 3 cutoffs",10,7677,0.13
+six-PFAS count among >=2 of 25,0,159,1180,13.47
+six-PFAS count among >=2 of 25,1,192,1180,16.27
+six-PFAS count among >=2 of 25,≥2 of six,829,1180,70.25

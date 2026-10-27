@@ -1,0 +1,7 @@
+UCMR3_status,UCMR5_status,entry_points,row_share
+UCMR3 reported,exceeds,73,0.529
+UCMR3 reported,reported_below_standard,42,0.3043
+UCMR3 reported,no_report,23,0.1667
+UCMR3 not reported,exceeds,782,0.1013
+UCMR3 not reported,reported_below_standard,1298,0.1682
+UCMR3 not reported,no_report,5638,0.7305

@@ -1,0 +1,256 @@
+{
+ "rtm_persistence": 0.555045871559633,
+ "fits": {
+  "6:2 FTS|GW": [
+   -8.34068752594075,
+   3.6935556643587857
+  ],
+  "6:2 FTS|SW": [
+   -5.847148761891389,
+   2.8296683622048695
+  ],
+  "HFPO-DA|SW": [
+   -4.627929467948862,
+   2.380704220014031
+  ],
+  "PFBA|GW": [
+   -1.836439353780053,
+   1.9815272485068698
+  ],
+  "PFBA|SW": [
+   0.643290040587928,
+   0.8957352883709099
+  ],
+  "PFBS|GW": [
+   -0.8722901238478084,
+   1.3859171851778254
+  ],
+  "PFBS|SW": [
+   -0.5494071446209065,
+   1.2561762898449345
+  ],
+  "PFDA|GW": [
+   -2.334812777150515,
+   1.0408811762222123
+  ],
+  "PFHpA|GW": [
+   -1.4161110682331097,
+   1.257495986330272
+  ],
+  "PFHpA|SW": [
+   -1.1021312473683464,
+   1.0996536533257297
+  ],
+  "PFHxA|GW": [
+   -1.0541855846187875,
+   1.4401341159791694
+  ],
+  "PFHxA|SW": [
+   -0.11905127349203456,
+   1.0583408851455731
+  ],
+  "PFHxS|GW": [
+   -1.298455640215876,
+   1.5146554694785122
+  ],
+  "PFHxS|SW": [
+   -1.238121168969984,
+   1.305844936221919
+  ],
+  "PFNA|GW": [
+   -4.589636590655944,
+   2.225796758335866
+  ],
+  "PFNA|SW": [
+   -3.5281973268207834,
+   1.6258009656761336
+  ],
+  "PFOA|GW": [
+   -0.6611575389295337,
+   1.348532147034592
+  ],
+  "PFOA|SW": [
+   -0.18201544918008492,
+   1.049491936281739
+  ],
+  "PFOS|GW": [
+   -1.0717834172434308,
+   1.6553732551699336
+  ],
+  "PFOS|SW": [
+   -0.6095959635271676,
+   1.3211736188746317
+  ],
+  "PFPeA|GW": [
+   -1.1304994854178085,
+   1.5896895342973918
+  ],
+  "PFPeA|SW": [
+   -0.35088619867395077,
+   1.344027912962004
+  ],
+  "PFPeS|GW": [
+   -3.922745201391345,
+   1.8613604672465194
+  ]
+ },
+ "mc": {
+  "independent": [
+   {
+    "standard": "US2026_PFOA_PFOS",
+    "nd0_exceed": 2099,
+    "hidden_exceed_p50": 19,
+    "expected_hidden": 54.9,
+    "expected_hidden_mcse": 0.19,
+    "uncertain_0.1_0.9": 143
+   },
+   {
+    "standard": "HI_EPA",
+    "nd0_exceed": 116,
+    "hidden_exceed_p50": 0,
+    "expected_hidden": 1.1,
+    "expected_hidden_mcse": 0.03,
+    "uncertain_0.1_0.9": 3
+   },
+   {
+    "standard": "Canada_sum25_30",
+    "nd0_exceed": 1143,
+    "hidden_exceed_p50": 129,
+    "expected_hidden": 142.2,
+    "expected_hidden_mcse": 0.18,
+    "uncertain_0.1_0.9": 146
+   },
+   {
+    "standard": "Sweden_PFAS4_4",
+    "nd0_exceed": 2573,
+    "hidden_exceed_p50": 475,
+    "expected_hidden": 1201.7,
+    "expected_hidden_mcse": 0.89,
+    "uncertain_0.1_0.9": 903
+   },
+   {
+    "standard": "Denmark_PFAS4_2",
+    "nd0_exceed": 3228,
+    "hidden_exceed_p50": 6223,
+    "expected_hidden": 12025.8,
+    "expected_hidden_mcse": 2.33,
+    "uncertain_0.1_0.9": 23042
+   },
+   {
+    "standard": "MA_PFAS6_20",
+    "nd0_exceed": 660,
+    "hidden_exceed_p50": 49,
+    "expected_hidden": 51.8,
+    "expected_hidden_mcse": 0.13,
+    "uncertain_0.1_0.9": 74
+   },
+   {
+    "standard": "Germany_PFAS4_20",
+    "nd0_exceed": 594,
+    "hidden_exceed_p50": 25,
+    "expected_hidden": 30.7,
+    "expected_hidden_mcse": 0.1,
+    "uncertain_0.1_0.9": 44
+   },
+   {
+    "standard": "EU_sum20_100",
+    "nd0_exceed": 169,
+    "hidden_exceed_p50": 7,
+    "expected_hidden": 8.4,
+    "expected_hidden_mcse": 0.04,
+    "uncertain_0.1_0.9": 10
+   }
+  ],
+  "comonotone": [
+   {
+    "standard": "US2026_PFOA_PFOS",
+    "nd0_exceed": 2099,
+    "hidden_exceed_p50": 20,
+    "expected_hidden": 53.3,
+    "expected_hidden_mcse": 0.19,
+    "uncertain_0.1_0.9": 136
+   },
+   {
+    "standard": "HI_EPA",
+    "nd0_exceed": 116,
+    "hidden_exceed_p50": 0,
+    "expected_hidden": 1.1,
+    "expected_hidden_mcse": 0.03,
+    "uncertain_0.1_0.9": 3
+   },
+   {
+    "standard": "Canada_sum25_30",
+    "nd0_exceed": 1143,
+    "hidden_exceed_p50": 100,
+    "expected_hidden": 173.5,
+    "expected_hidden_mcse": 0.3,
+    "uncertain_0.1_0.9": 312
+   },
+   {
+    "standard": "Sweden_PFAS4_4",
+    "nd0_exceed": 2573,
+    "hidden_exceed_p50": 378,
+    "expected_hidden": 3378.2,
+    "expected_hidden_mcse": 1.65,
+    "uncertain_0.1_0.9": 23351
+   },
+   {
+    "standard": "Denmark_PFAS4_2",
+    "nd0_exceed": 3228,
+    "hidden_exceed_p50": 6171,
+    "expected_hidden": 9943.4,
+    "expected_hidden_mcse": 2.33,
+    "uncertain_0.1_0.9": 23226
+   },
+   {
+    "standard": "MA_PFAS6_20",
+    "nd0_exceed": 660,
+    "hidden_exceed_p50": 39,
+    "expected_hidden": 56.2,
+    "expected_hidden_mcse": 0.16,
+    "uncertain_0.1_0.9": 103
+   },
+   {
+    "standard": "Germany_PFAS4_20",
+    "nd0_exceed": 594,
+    "hidden_exceed_p50": 22,
+    "expected_hidden": 31.4,
+    "expected_hidden_mcse": 0.11,
+    "uncertain_0.1_0.9": 53
+   },
+   {
+    "standard": "EU_sum20_100",
+    "nd0_exceed": 169,
+    "hidden_exceed_p50": 6,
+    "expected_hidden": 7.6,
+    "expected_hidden_mcse": 0.06,
+    "uncertain_0.1_0.9": 14
+   }
+  ]
+ },
+ "mc_replicates": 1000,
+ "no_pfas4_report_groups": {
+  "n_ep_no_pfas4_report": 22793,
+  "n_draws": 200000,
+  "groups": [
+   {
+    "source": "GW",
+    "samples": 2,
+    "n_ep": 16874,
+    "Denmark_PFAS4_2|independent": 0.432,
+    "Denmark_PFAS4_2|comonotone": 0.364,
+    "Sweden_PFAS4_4|independent": 0.03,
+    "Sweden_PFAS4_4|comonotone": 0.129
+   },
+   {
+    "source": "SW",
+    "samples": 4,
+    "n_ep": 5556,
+    "Denmark_PFAS4_2|independent": 0.718,
+    "Denmark_PFAS4_2|comonotone": 0.571,
+    "Sweden_PFAS4_4|independent": 0.018,
+    "Sweden_PFAS4_4|comonotone": 0.114
+   }
+  ]
+ }
+}

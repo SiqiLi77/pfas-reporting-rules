@@ -2,9 +2,9 @@
 
 Code, analysis-ready data, frozen predictions, and numerical results for:
 
-**Reporting Limits and Analyte Coverage Shape PFAS Mixture Comparisons in United States Drinking Water**
+**Reporting Limits and Analyte Panels Shape Which Communities U.S. PFAS Drinking-Water Monitoring Can Identify**
 
-This repository corresponds to manuscript and Supporting Information **V1.59**. The public computational release is **v1.0.0**. Manuscript drafts are not distributed here.
+Release **v1.1.0** adds [`v2_analysis/`](v2_analysis): the scripts, analysis outputs and figure source data of manuscript and Supporting Information **V2.06** (see [below](#v206-analysis-v2_analysis)). Release **v1.0.0** holds the computational materials of the earlier version **V1.59**, *Reporting Limits and Analyte Coverage Shape PFAS Mixture Comparisons in United States Drinking Water*; in V2.06 they underlie Texts S1–S10 and R1–R10 of the Supporting Information. The rest of this page up to the V2.06 section describes the v1.0.0 materials, which v1.1.0 leaves unchanged. Manuscript drafts are not distributed here.
 
 ## Scientific scope
 
@@ -43,6 +43,7 @@ The replay recomputes the main fixed-prediction scores, the same-record panel co
 | Numerical unit tests | `tests/` | Score decomposition, state encoding, resampling, and information constraints |
 | Frozen records, probabilities, selected checkpoints, and draws | Release ZIPs | Result replay and selected inference/training inputs |
 | Input and asset checksums | `reproducibility/` | Version and integrity checks |
+| V2.06 scripts, outputs and figure source data | `v2_analysis/` | Analyses of manuscript V2.06 and Texts S11–S19 (release v1.1.0) |
 
 Some original module and folder names contain development dates or legacy model identifiers. Those names are preserved to keep array keys and relative paths consistent; they do not indicate additional active predictors. In particular, the final industrial-background block is zeroed, as described in the study information set.
 
@@ -54,10 +55,20 @@ Frozen probability distributions support direct score reconstruction. The releas
 
 Joint-model evaluation and later supporting analyses retain their **exploratory, post-development** status. Resampling intervals condition on the recorded predictions and their specified populations/weights; they do not incorporate retraining or model-selection uncertainty. Washington attributes are current administrative proxies, not verified historical attributes. West Virginia supports descriptive threshold checks, not a completed blind predictive test.
 
+## V2.06 analysis (`v2_analysis/`)
+
+The folder is the data-and-scripts archive of Supporting Information V2.06 without the reconstruction record, which is part of the Supporting Information; every other file is byte-identical to the archive. [`README.txt`](v2_analysis/README.txt) lists the contents and the order of execution, and `MANIFEST.sha256` gives the SHA-256 of every file.
+
+- `03_analysis/*.py`: the analysis scripts, run from `03_analysis/` with the packages in `requirements.txt` (Python 3.12).
+- `03_analysis/*.json` and `*.log`: their outputs, from which the manuscript and Texts S11–S19 quote their numbers.
+- `04_figures/source_data/`: the plotted values of Figures 1–4, S1–S16 and R1–R2.
+
+Raw data are not stored here. UCMR occurrence data, SDWIS data, American Community Survey tables and U.S. Drought Monitor indices are public; Text S11 of the Supporting Information lists each file with its source, size and SHA-256 (also in `03_analysis/input_checksums.json`), and `03_analysis/fetch_usdm.sh` downloads the Drought Monitor series. The locked UCMR 5 archive is also in `observational-data.zip` of release v1.0.0. Place the files under `03_analysis/data/`, which Git ignores.
+
 ## Data sources and citation
 
 Public monitoring sources are [EPA UCMR occurrence archives](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule), [Washington Sentry](https://doh.wa.gov/data-and-statistical-reports/environmental-health/drinking-water-system-data/sentry-internet), and the [USGS West Virginia finished-water release](https://doi.org/10.5066/P13ZNTD3). Release versions and cohort definitions are recorded in [data sources](docs/DATA_SOURCES.md) and [data dictionary](docs/DATA_DICTIONARY.md).
 
-Please identify **release v1.0.0** and its commit when citing these computational materials. No publication DOI is asserted here. GitHub provides versioned access, not a DOI-backed preservation guarantee.
+Please identify the release (**v1.0.0** or **v1.1.0**) and its commit when citing these computational materials. No publication DOI is asserted here. GitHub provides versioned access, not a DOI-backed preservation guarantee.
 
 Third-party data retain their original source terms. No new blanket software/data license has been assigned in this release; see [reuse information](NOTICE.md).

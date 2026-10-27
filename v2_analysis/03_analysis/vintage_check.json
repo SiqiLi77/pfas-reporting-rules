@@ -1,0 +1,537 @@
+{
+ "files": {
+  "aug": "data/u5/UCMR5_All.txt",
+  "oct": "data/u5_20261015/UCMR5_All.txt"
+ },
+ "snapshots": {
+  "oct": "vintage_check/oct2026/03_analysis",
+  "aug": "vintage_check/aug2026/03_analysis"
+ },
+ "data_difference": {
+  "rows": {
+   "aug": 1992002,
+   "oct": 1991977
+  },
+  "only_in_aug_file": 27,
+  "only_in_oct_file": 2,
+  "withdrawn_in_oct_file": {
+   "rows": 25,
+   "samples": {
+    "OK2002608 | TUTTLE | TP001 | TP001 | 10/7/2025 | 133421P | EPA 533": {
+     "rows": 25,
+     "reported": 0
+    }
+   }
+  },
+  "added_in_oct_file": 0,
+  "differ_only_in_non_printing_bytes": [
+   "WY5680122 | USAF F.E. WARREN AFB | 20001 | EP1 | 12/17/2024 | 123738P | EPA 533 | PFOA",
+   "WY5680122 | USAF F.E. WARREN AFB | 20001 | EP1 | 12/17/2024 | 123738P | EPA 533 | PFOS"
+  ]
+ },
+ "event_dates": {
+  "aug": {
+   "events": 66741,
+   "events_with_more_than_one_date": 6571,
+   "median_days_between_first_and_last_date": 61.0,
+   "max_days": 1127,
+   "events_with_more_than_one_method_533_date": 154,
+   "events_without_method_533_sample": 381,
+   "dates_changed_by_the_rule": 1067
+  },
+  "oct": {
+   "events": 66741,
+   "events_with_more_than_one_date": 6571,
+   "median_days_between_first_and_last_date": 61.0,
+   "max_days": 1127,
+   "events_with_more_than_one_method_533_date": 154,
+   "events_without_method_533_sample": 382,
+   "dates_changed_by_the_rule": 1064
+  },
+  "common_events_dated_differently_by_the_new_rule": {
+   "n": 0,
+   "events": []
+  },
+  "common_events_dated_differently_by_the_old_rule": {
+   "n": 540,
+   "events": [
+    "CA1300554|10001|EP1 | SE4",
+    "CA1310004|91801|1310004801 | SE3",
+    "GU0000006|60088|61088T | SE1",
+    "GU0000006|60092|61092 | SE1",
+    "GU0000006|60101|61101T | SE2",
+    "GU0000006|60114|61114T | SE1",
+    "GU0000006|60117|61117T | SE1",
+    "OK1010207|TP002|EP002 | SE3",
+    "OK1010318|TP001|TP001 | SE1",
+    "OK1010318|TP001|TP001 | SE2",
+    "OK1010318|TP001|TP001 | SE4",
+    "OK1010604|CC001|CC001 | SE1",
+    "OK1010604|CC001|CC001 | SE2",
+    "OK1010806|TP001|TP001 | SE3",
+    "OK1011401|TP001|TP001 | SE3",
+    "OK1020419|TP001|TP001 | SE1",
+    "OK1020506|TP001|TP001 | SE3",
+    "OK1020506|TP001|TP001 | SE4",
+    "OK1020803|TP001|TP001 | SE2",
+    "OK1021313|TP001|TP001 | SE1"
+   ]
+  },
+  "events_only_in_one_file": {
+   "aug": 0,
+   "oct": 0
+  }
+ },
+ "outputs": {
+  "calib_epa_table4.json": {
+   "numbers": 61,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_auc.json": {
+   "numbers": 44,
+   "changed": 13,
+   "max_relative_change": 0.008849557522123706,
+   "only_oct": [],
+   "only_aug": [],
+   "values": [
+    [
+     "/AFFF/29@U5|full|byPWS",
+     0.565,
+     0.56
+    ],
+    [
+     "/AFFF/29@U5|full|byState",
+     0.544,
+     0.546
+    ],
+    [
+     "/AFFF/29@U5|magnitude|byPWS",
+     0.564,
+     0.562
+    ],
+    [
+     "/AFFF/6@U5|full|byPWS",
+     0.538,
+     0.537
+    ],
+    [
+     "/AFFF/6@U5|full|byState",
+     0.535,
+     0.533
+    ],
+    [
+     "/AFFF/6@U5|magnitude|byPWS",
+     0.541,
+     0.543
+    ],
+    [
+     "/AFFF/6@U5|magnitude|byState",
+     0.542,
+     0.543
+    ],
+    [
+     "/Industrial/29@U5|full|byPWS",
+     0.616,
+     0.613
+    ],
+    [
+     "/Industrial/29@U5|full|byState",
+     0.56,
+     0.562
+    ],
+    [
+     "/Industrial/29@U5|magnitude|byState",
+     0.557,
+     0.554
+    ],
+    [
+     "/Industrial/6@U5|full|byPWS",
+     0.579,
+     0.574
+    ],
+    [
+     "/Industrial/6@U5|full|byState",
+     0.5,
+     0.501
+    ],
+    [
+     "/Industrial/6@U5|magnitude|byPWS",
+     0.565,
+     0.564
+    ]
+   ]
+  },
+  "deep_decide.json": {
+   "numbers": 142,
+   "changed": 30,
+   "max_relative_change": 8.32085205524289e-05,
+   "only_oct": [],
+   "only_aug": [],
+   "values": [
+    [
+     "/fits/6:2 FTS|GW[0]",
+     -8.34063667198863,
+     -8.34068752594075
+    ],
+    [
+     "/fits/6:2 FTS|GW[1]",
+     3.693548799574295,
+     3.6935556643587857
+    ],
+    [
+     "/fits/PFBA|GW[0]",
+     -1.8363923001870004,
+     -1.836439353780053
+    ],
+    [
+     "/fits/PFBA|GW[1]",
+     1.9815116080994828,
+     1.9815272485068698
+    ],
+    [
+     "/fits/PFBS|GW[0]",
+     -0.8722327795628935,
+     -0.8722901238478084
+    ],
+    [
+     "/fits/PFBS|GW[1]",
+     1.385910107748463,
+     1.3859171851778254
+    ],
+    [
+     "/fits/PFDA|GW[0]",
+     -2.3347879206250157,
+     -2.334812777150515
+    ],
+    [
+     "/fits/PFDA|GW[1]",
+     1.0408766536717877,
+     1.0408811762222123
+    ],
+    [
+     "/fits/PFHpA|GW[0]",
+     -1.416055420918941,
+     -1.4161110682331097
+    ],
+    [
+     "/fits/PFHpA|GW[1]",
+     1.2574760428838043,
+     1.257495986330272
+    ],
+    [
+     "/fits/PFHxA|GW[0]",
+     -1.0541912636427635,
+     -1.0541855846187875
+    ],
+    [
+     "/fits/PFHxA|GW[1]",
+     1.4401298901457966,
+     1.4401341159791694
+    ],
+    [
+     "/fits/PFHxS|GW[0]",
+     -1.2983634879746293,
+     -1.298455640215876
+    ],
+    [
+     "/fits/PFHxS|GW[1]",
+     1.5146088311518637,
+     1.5146554694785122
+    ],
+    [
+     "/fits/PFNA|GW[0]",
+     -4.58960266327707,
+     -4.589636590655944
+    ],
+    [
+     "/fits/PFNA|GW[1]",
+     2.2257921217688117,
+     2.225796758335866
+    ],
+    [
+     "/fits/PFOA|GW[0]",
+     -0.6611444097012309,
+     -0.6611575389295337
+    ],
+    [
+     "/fits/PFOA|GW[1]",
+     1.348539861300135,
+     1.348532147034592
+    ],
+    [
+     "/fits/PFOS|GW[0]",
+     -1.0717809327786283,
+     -1.0717834172434308
+    ],
+    [
+     "/fits/PFOS|GW[1]",
+     1.6553950332887082,
+     1.6553732551699336
+    ],
+    [
+     "/fits/PFPeA|GW[0]",
+     -1.130477115390491,
+     -1.1304994854178085
+    ],
+    [
+     "/fits/PFPeA|GW[1]",
+     1.589697923134625,
+     1.5896895342973918
+    ],
+    [
+     "/fits/PFPeS|GW[0]",
+     -3.922768721001325,
+     -3.922745201391345
+    ],
+    [
+     "/fits/PFPeS|GW[1]",
+     1.8613694565812477,
+     1.8613604672465194
+    ],
+    [
+     "/mc/comonotone[3]/expected_hidden",
+     3378.3,
+     3378.2
+    ],
+    [
+     "/mc/comonotone[4]/expected_hidden",
+     9943.5,
+     9943.4
+    ],
+    [
+     "/mc/independent[3]/expected_hidden",
+     1201.8,
+     1201.7
+    ],
+    [
+     "/mc/independent[4]/expected_hidden",
+     12026.0,
+     12025.8
+    ],
+    [
+     "/no_pfas4_report_groups/groups[0]/n_ep",
+     16873.0,
+     16874.0
+    ],
+    [
+     "/no_pfas4_report_groups/n_ep_no_pfas4_report",
+     22792.0,
+     22793.0
+    ]
+   ]
+  },
+  "deep_drought.json": {
+   "numbers": 44,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_ej.json": {
+   "numbers": 168,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_ej2.json": {
+   "numbers": 48,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_ej3.json": {
+   "numbers": 226,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_ej4.json": {
+   "numbers": 32,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_ej5_firth.json": {
+   "numbers": 130,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_family.json": {
+   "numbers": 74,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_lost.json": {
+   "numbers": 29,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_misc.json": {
+   "numbers": 124,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_story.json": {
+   "numbers": 132,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_tables_extra.json": {
+   "numbers": 319,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "deep_treat_season.json": {
+   "numbers": 47,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "fig_r6_data.json": {
+   "numbers": 60,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "fig_v2_02_data.json": {
+   "numbers": 194,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_a.json": {
+   "numbers": 155,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_b.json": {
+   "numbers": 227,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_c.json": {
+   "numbers": 135,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_d.json": {
+   "numbers": 14,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_e.json": {
+   "numbers": 22,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "pilot_i.json": {
+   "numbers": 26,
+   "changed": 0,
+   "max_relative_change": 0.0,
+   "only_oct": [],
+   "only_aug": [],
+   "values": []
+  },
+  "si_redraw_data.json": {
+   "numbers": 1618,
+   "changed": 6,
+   "max_relative_change": 0.0008084074373484236,
+   "only_oct": [],
+   "only_aug": [],
+   "values": [
+    [
+     "/S3/b[0]/recomputed/n_first",
+     1903.0,
+     1904.0
+    ],
+    [
+     "/S3/b[0]/recomputed/pct",
+     73.831,
+     73.792
+    ],
+    [
+     "/S3/b[1]/recomputed/n_first",
+     1301.0,
+     1302.0
+    ],
+    [
+     "/S3/b[1]/recomputed/pct",
+     74.327,
+     74.27
+    ],
+    [
+     "/S3/b[2]/recomputed/n_first",
+     1236.0,
+     1237.0
+    ],
+    [
+     "/S3/b[2]/recomputed/pct",
+     72.168,
+     72.11
+    ]
+   ]
+  }
+ },
+ "stale_snapshots": [],
+ "summary": {
+  "numbers": 4071,
+  "changed": 49,
+  "files_changed": [
+   "deep_auc.json",
+   "deep_decide.json",
+   "si_redraw_data.json"
+  ]
+ }
+}

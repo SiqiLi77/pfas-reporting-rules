@@ -1,0 +1,116 @@
+{
+ "quantile_sensitivity": {
+  "0.01": {
+   "PFOA/PFOS max vs Canada25 sum": 0.286,
+   "PFOA/PFOS max vs PFAS4 sum": 0.631,
+   "RPF upper vs Canada25 sum": 0.328,
+   "RPF upper vs PFAS4 sum": 0.651,
+   "RPF lower vs PFAS4 sum": 0.626,
+   "RPF lower vs Canada25 sum": 0.295,
+   "Canada25 sum vs Total F (molar)": 0.974,
+   "UCMR3 six sum vs Canada25 sum": 0.441,
+   "RPF upper vs RPF lower": 0.88
+  },
+  "0.02": {
+   "PFOA/PFOS max vs Canada25 sum": 0.365,
+   "PFOA/PFOS max vs PFAS4 sum": 0.651,
+   "RPF upper vs Canada25 sum": 0.416,
+   "RPF upper vs PFAS4 sum": 0.764,
+   "RPF lower vs PFAS4 sum": 0.747,
+   "RPF lower vs Canada25 sum": 0.391,
+   "Canada25 sum vs Total F (molar)": 0.978,
+   "UCMR3 six sum vs Canada25 sum": 0.504,
+   "RPF upper vs RPF lower": 0.897
+  },
+  "0.0428": {
+   "PFOA/PFOS max vs Canada25 sum": 0.475,
+   "PFOA/PFOS max vs PFAS4 sum": 0.736,
+   "RPF upper vs Canada25 sum": 0.521,
+   "RPF upper vs PFAS4 sum": 0.829,
+   "RPF lower vs PFAS4 sum": 0.817,
+   "RPF lower vs Canada25 sum": 0.498,
+   "Canada25 sum vs Total F (molar)": 0.976,
+   "UCMR3 six sum vs Canada25 sum": 0.615,
+   "RPF upper vs RPF lower": 0.932
+  },
+  "0.0786": {
+   "PFOA/PFOS max vs Canada25 sum": 0.518,
+   "PFOA/PFOS max vs PFAS4 sum": 0.79,
+   "RPF upper vs Canada25 sum": 0.559,
+   "RPF upper vs PFAS4 sum": 0.832,
+   "RPF lower vs PFAS4 sum": 0.832,
+   "RPF lower vs Canada25 sum": 0.536,
+   "Canada25 sum vs Total F (molar)": 0.975,
+   "UCMR3 six sum vs Canada25 sum": 0.627,
+   "RPF upper vs RPF lower": 0.943
+  },
+  "0.1": {
+   "PFOA/PFOS max vs Canada25 sum": 0.536,
+   "PFOA/PFOS max vs PFAS4 sum": 0.808,
+   "RPF upper vs Canada25 sum": 0.581,
+   "RPF upper vs PFAS4 sum": 0.854,
+   "RPF lower vs PFAS4 sum": 0.865,
+   "RPF lower vs Canada25 sum": 0.562,
+   "Canada25 sum vs Total F (molar)": 0.983,
+   "UCMR3 six sum vs Canada25 sum": 0.632,
+   "RPF upper vs RPF lower": 0.957
+  }
+ },
+ "boot_ci": {
+  "PFOA/PFOS max vs Canada25 sum": [
+   0.438,
+   0.509
+  ],
+  "PFOA/PFOS max vs PFAS4 sum": [
+   0.708,
+   0.766
+  ],
+  "RPF upper vs Canada25 sum": [
+   0.484,
+   0.56
+  ],
+  "RPF upper vs PFAS4 sum": [
+   0.804,
+   0.849
+  ],
+  "RPF lower vs PFAS4 sum": [
+   0.791,
+   0.838
+  ],
+  "RPF lower vs Canada25 sum": [
+   0.459,
+   0.535
+  ],
+  "Canada25 sum vs Total F (molar)": [
+   0.966,
+   0.984
+  ],
+  "UCMR3 six sum vs Canada25 sum": [
+   0.582,
+   0.649
+  ],
+  "RPF upper vs RPF lower": [
+   0.918,
+   0.948
+  ]
+ },
+ "rivm_RPF upper": [
+  2708,
+  1506,
+  71.926679
+ ],
+ "rivm_RPF lower": [
+  2624,
+  1461,
+  70.829884
+ ],
+ "rivm_RPF lower, PFPeS 0.6": [
+  2628,
+  1463,
+  70.885792
+ ],
+ "rivm_vs_us": {
+  "rivm_only": 630,
+  "us_only": 21
+ }
+}
